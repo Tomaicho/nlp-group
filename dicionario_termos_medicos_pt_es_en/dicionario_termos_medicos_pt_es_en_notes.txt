@@ -1,0 +1,3 @@
+#	<fontspec id="28" size="10" family="NMNMLP+SSymbol" color="#131413"/> extraordinary exception -> manually deleted
+
+Moved beta symbol in dicionario_termos_medicos_pt_es_en_new.xml 

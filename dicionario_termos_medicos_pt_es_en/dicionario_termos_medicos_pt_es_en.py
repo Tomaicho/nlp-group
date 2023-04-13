@@ -1,4 +1,5 @@
 import re
+import json
 
 with(open("XMLs/dicionario_termos_medicos_pt_es_en.xml", encoding="utf-8") as file):
     xml = file.read()
@@ -16,6 +17,7 @@ new_xml = re.sub(r"\n\n","\n", new_xml)
 new_xml = re.sub(r"([a-z])\n([a-z(])",r"\1 \2", new_xml)
 new_xml = re.sub(r"E\n(.+)\n([^<]+)",r"E\n\1 \2", new_xml)
 new_xml = re.sub(r"\(\n?[^\)]*\n?\+\n?[^\)]+\n?\)","", new_xml)
+
 
 with(open("XMLs/dicionario_termos_medicos_pt_es_en_new.xml", "w",  encoding="utf-8") as new_file):
     new_file.write(new_xml)
