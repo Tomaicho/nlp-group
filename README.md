@@ -1,4 +1,3 @@
-# Trabalho de Grupo - Processamento de Linguagem Natual
 # Group Work - Natural Language Processing
 
 ### Authors:
