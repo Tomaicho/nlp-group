@@ -9,11 +9,10 @@ list = re.split(r"<b>",new_xml)
 dict = {}
 for i in list[1:]:
     print(i)
-    term = re.split("</b>\nU|E",i)
-    print('pppp',term)
-    pt = term[0].strip()
-    en = term[1].strip()
-    es = term[2].strip()
+    term = re.split("U|E",i)
+    pt = term[0].strip().replace("\n"," ")
+    en = term[1].strip().replace("\n"," ")
+    es = term[2].strip().replace("\n"," ")
 
     dict[pt]={"pt":pt, "en":en, "es":es}
 
