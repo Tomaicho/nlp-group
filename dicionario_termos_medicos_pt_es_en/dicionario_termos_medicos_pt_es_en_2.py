@@ -9,7 +9,7 @@ list = re.split(r"<b>",new_xml)
 dict = {}
 for i in list[1:]:
     print(i)
-    term = re.split("U|E",i)
+    term = re.split("\nU\n|\nE\n",i)
     pt = term[0].strip().replace("\n"," ")
     en = term[1].strip().replace("\n"," ")
     es = term[2].strip().replace("\n"," ")

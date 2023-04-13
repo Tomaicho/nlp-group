@@ -59,10 +59,10 @@
             "en": "abortion",
             "es": "aborto"
       },
-      "aborto espontâneo (A": {
-            "pt": "aborto espontâneo (A",
-            "en": ")",
-            "es": "spontaneous abortion, miscarriage"
+      "aborto espontâneo (AE)": {
+            "pt": "aborto espontâneo (AE)",
+            "en": "spontaneous abortion, miscarriage",
+            "es": "aborto espontáneo"
       },
       "abrandamento": {
             "pt": "abrandamento",
@@ -304,10 +304,10 @@
             "en": "activity (on physical activity)",
             "es": "actividad (a la actividad física)"
       },
-      "actividade de base (": {
-            "pt": "actividade de base (",
-            "en": "",
-            "es": "G)"
+      "actividade de base (EEG)": {
+            "pt": "actividade de base (EEG)",
+            "en": "baseline activity (EEG)",
+            "es": "actividad de base (EEG)"
       },
       "acto sexual": {
             "pt": "acto sexual",
@@ -1407,7 +1407,7 @@
       "antiflogístico": {
             "pt": "antiflogístico",
             "en": "anti-inflamnatory (non-steroidal)",
-            "es": "fármaco antiinflamatorio (no esteroide (AIN"
+            "es": "fármaco antiinflamatorio (no esteroide (AINE))"
       },
       "antigénio (bras.: antígeno )": {
             "pt": "antigénio (bras.: antígeno )",
@@ -1416,8 +1416,8 @@
       },
       "antigénio carcinoembriogénio": {
             "pt": "antigénio carcinoembriogénio",
-            "en": "antigen, carcinoembryonic (C",
-            "es": "A)"
+            "en": "antigen, carcinoembryonic (CEA)",
+            "es": "antígeno carcinoembrionario"
       },
       "anti-hipertensor": {
             "pt": "anti-hipertensor",
@@ -3854,10 +3854,10 @@
             "en": "collagen disease, collagenosis",
             "es": "colagenosis"
       },
-      "colangipancreatografia endoscópica retrógrada (CPR": {
-            "pt": "colangipancreatografia endoscópica retrógrada (CPR",
-            "en": ")",
-            "es": "endoscopic retrograde cholangiopancreatography ("
+      "colangipancreatografia endoscópica retrógrada (CPRE)": {
+            "pt": "colangipancreatografia endoscópica retrógrada (CPRE)",
+            "en": "endoscopic retrograde cholangiopancreatography (ERCP)",
+            "es": "colangiopancreatografía retrógrada endoscópica (CPRE)"
       },
       "colapsação": {
             "pt": "colapsação",
@@ -6209,10 +6209,10 @@
             "en": "available",
             "es": "disponible"
       },
-      "dispositivo intra-uterino (DI": {
-            "pt": "dispositivo intra-uterino (DI",
-            "en": ")",
-            "es": "coil, loop"
+      "dispositivo intra-uterino (DIU)": {
+            "pt": "dispositivo intra-uterino (DIU)",
+            "en": "coil, loop",
+            "es": "dispositivo intra-uterino (DIU)"
       },
       "disrafia": {
             "pt": "disrafia",
@@ -6457,7 +6457,7 @@
       "doença pulmonar obstructiva crónica (DPOC)": {
             "pt": "doença pulmonar obstructiva crónica (DPOC)",
             "en": "chronic obstructive lung disease (COLD)",
-            "es": "enfermedad pulmonar obstructiva crónica ("
+            "es": "enfermedad pulmonar obstructiva crónica (EPOC)"
       },
       "doença venérea": {
             "pt": "doença venérea",
@@ -6754,10 +6754,10 @@
             "en": "elastic",
             "es": "elástico"
       },
-      "electrocardiograma (": {
-            "pt": "electrocardiograma (",
-            "en": "CG)",
-            "es": "electrocardiogram ("
+      "electrocardiograma (ECG)": {
+            "pt": "electrocardiograma (ECG)",
+            "en": "electrocardiogram (ECG, EKG)",
+            "es": "electrocardiograma (ECG)"
       },
       "electrocauterização": {
             "pt": "electrocauterização",
@@ -6769,10 +6769,10 @@
             "en": "electrophysiology",
             "es": "electrodiagnóstico"
       },
-      "electroencefalograma (": {
-            "pt": "electroencefalograma (",
-            "en": "",
-            "es": "G)"
+      "electroencefalograma (EEG)": {
+            "pt": "electroencefalograma (EEG)",
+            "en": "electroencephalogram (EEG)",
+            "es": "electroencefalograma (EEG)"
       },
       "electroforese": {
             "pt": "electroforese",
@@ -6969,10 +6969,10 @@
             "en": "encephalitis",
             "es": "encefalitis"
       },
-      "encefalite a herpes simplex (": {
-            "pt": "encefalite a herpes simplex (",
-            "en": "HS)",
-            "es": "herpes simplex encephalitis"
+      "encefalite a herpes simplex (EHS)": {
+            "pt": "encefalite a herpes simplex (EHS)",
+            "en": "herpes simplex encephalitis",
+            "es": "encefalitis por herpes simple (EHS)"
       },
       "encéfalo": {
             "pt": "encéfalo",
@@ -7536,8 +7536,8 @@
       },
       "equinococus": {
             "pt": "equinococus",
-            "en": "caseworm,",
-            "es": "chinococcus"
+            "en": "caseworm, Echinococcus",
+            "es": "equinococo"
       },
       "ere(c)ção": {
             "pt": "ere(c)ção",
@@ -7664,15 +7664,15 @@
             "en": "sclerosis, induration, hardening",
             "es": "esclerosis"
       },
-      "esclerose lateral amiotrófica (": {
-            "pt": "esclerose lateral amiotrófica (",
-            "en": "LA)",
-            "es": "amyotrophic lateral sclerosis (ALS)"
+      "esclerose lateral amiotrófica (ELA)": {
+            "pt": "esclerose lateral amiotrófica (ELA)",
+            "en": "amyotrophic lateral sclerosis (ALS)",
+            "es": "esclerosis lateral amiotrófica (ELA)"
       },
-      "esclerose múltipla (": {
-            "pt": "esclerose múltipla (",
-            "en": "M)",
-            "es": "multiple sclerosis (MS)"
+      "esclerose múltipla (EM)": {
+            "pt": "esclerose múltipla (EM)",
+            "en": "multiple sclerosis (MS)",
+            "es": "esclerosis múltiple (EM)"
       },
       "escleróticas": {
             "pt": "escleróticas",
@@ -11394,10 +11394,10 @@
             "en": "inhibitor",
             "es": "inhibidor"
       },
-      "inibidor da": {
-            "pt": "inibidor da",
-            "en": "CA",
-            "es": "AC"
+      "inibidor da ECA": {
+            "pt": "inibidor da ECA",
+            "en": "ACE inhibitor",
+            "es": "inhibidor de la ECA (IECA)"
       },
       "inibidor da ovulação": {
             "pt": "inibidor da ovulação",
@@ -11597,7 +11597,7 @@
       "interrupção voluntária de gravidez (IVG)": {
             "pt": "interrupção voluntária de gravidez (IVG)",
             "en": "termination of pregnancy",
-            "es": "interrupción voluntaria del embarazo (IV"
+            "es": "interrupción voluntaria del embarazo (IVE)"
       },
       "intersticial": {
             "pt": "intersticial",
@@ -14659,10 +14659,10 @@
             "en": "oncologic",
             "es": "oncológico"
       },
-      "onda (": {
-            "pt": "onda (",
-            "en": "",
-            "es": "G,"
+      "onda (EEG, ECG)": {
+            "pt": "onda (EEG, ECG)",
+            "en": "wave (EEG,ECG)",
+            "es": "onda (EEG, ECG)"
       },
       "onda de calor": {
             "pt": "onda de calor",
@@ -14774,10 +14774,10 @@
             "en": "opening, orifice, mouth",
             "es": "orificio"
       },
-      "orifício externo (do) colo (O": {
-            "pt": "orifício externo (do) colo (O",
-            "en": "C)",
-            "es": "external mouth of uterus"
+      "orifício externo (do) colo (OEC)": {
+            "pt": "orifício externo (do) colo (OEC)",
+            "en": "external mouth of uterus",
+            "es": "orificio externo del cuello (OEC)"
       },
       "orifício vaginal": {
             "pt": "orifício vaginal",
@@ -15101,8 +15101,8 @@
       },
       "panencefalite subaguda esclerosante": {
             "pt": "panencefalite subaguda esclerosante",
-            "en": "subacute sclerosing panencephalitis (SSP",
-            "es": ")"
+            "en": "subacute sclerosing panencephalitis (SSPE)",
+            "es": "panencefalitis subaguda esclerosante"
       },
       "pânico": {
             "pt": "pânico",
@@ -15429,10 +15429,10 @@
             "en": "break (a bone)",
             "es": "partir (un hueso)"
       },
-      "parto (ao termo) eutócico (PT": {
-            "pt": "parto (ao termo) eutócico (PT",
-            "en": ")",
-            "es": "spontaneous delivery (at term)"
+      "parto (ao termo) eutócico (PTE)": {
+            "pt": "parto (ao termo) eutócico (PTE)",
+            "en": "spontaneous delivery (at term)",
+            "es": "parto (a término) eutócico (PTE)"
       },
       "parto": {
             "pt": "parto",
@@ -15444,10 +15444,10 @@
             "en": "forceps delivery",
             "es": "parto con fórceps"
       },
-      "parto prétermo (o prematuro) (eutó- cico) (PP": {
-            "pt": "parto prétermo (o prematuro) (eutó- cico) (PP",
-            "en": ")",
-            "es": "premature delivery (spontaneous)"
+      "parto prétermo (o prematuro) (eutó- cico) (PPE)": {
+            "pt": "parto prétermo (o prematuro) (eutó- cico) (PPE)",
+            "en": "premature delivery (spontaneous)",
+            "es": "parto pretérmino (o prematuro) (eutócico) (PPE)"
       },
       "parturiente": {
             "pt": "parturiente",
@@ -16424,10 +16424,10 @@
             "en": "ointment",
             "es": "pomada"
       },
-      "ponta (": {
-            "pt": "ponta (",
-            "en": "",
-            "es": "G/"
+      "ponta (EEG/ECG)": {
+            "pt": "ponta (EEG/ECG)",
+            "en": "spike, peak (EEG/ECG)",
+            "es": "punta (EEG/ECG)"
       },
       "ponta do nariz": {
             "pt": "ponta do nariz",
@@ -16504,20 +16504,20 @@
             "en": "potence, potency",
             "es": "potencia"
       },
-      "potenciais evocados acústicos (P": {
-            "pt": "potenciais evocados acústicos (P",
-            "en": "A)",
-            "es": "auditory evoked potentials (A"
+      "potenciais evocados acústicos (PEA)": {
+            "pt": "potenciais evocados acústicos (PEA)",
+            "en": "auditory evoked potentials (AEPs)",
+            "es": "potenciales evocados acústicos (PEA)"
       },
-      "potenciais evocados somatossensi- tivos (P": {
-            "pt": "potenciais evocados somatossensi- tivos (P",
-            "en": "SS)",
-            "es": "somatic evoked potentials (S"
+      "potenciais evocados somatossensi- tivos (PESS)": {
+            "pt": "potenciais evocados somatossensi- tivos (PESS)",
+            "en": "somatic evoked potentials (SEPs)",
+            "es": "potenciales evocados somatosensitivos (PESS)"
       },
-      "potenciais evocados visuais (P": {
-            "pt": "potenciais evocados visuais (P",
-            "en": "V)",
-            "es": "visual evoked potentials (V"
+      "potenciais evocados visuais (PEV)": {
+            "pt": "potenciais evocados visuais (PEV)",
+            "en": "visual evoked potentials (VEPs)",
+            "es": "potenciales evocados visuales (PEV)"
       },
       "potencial": {
             "pt": "potencial",
@@ -20404,10 +20404,10 @@
             "en": "traumatic",
             "es": "traumático"
       },
-      "traumatismo crânio encefálico (TC": {
-            "pt": "traumatismo crânio encefálico (TC",
-            "en": ")",
-            "es": "open head injury"
+      "traumatismo crânio encefálico (TCE)": {
+            "pt": "traumatismo crânio encefálico (TCE)",
+            "en": "open head injury",
+            "es": "traumatismo cráneo-encefálico"
       },
       "treino de marcha": {
             "pt": "treino de marcha",
@@ -20584,10 +20584,10 @@
             "en": "citrate tube",
             "es": "tubo con citrato"
       },
-      "tubo com": {
-            "pt": "tubo com",
-            "en": "DTA",
-            "es": ""
+      "tubo com EDTA": {
+            "pt": "tubo com EDTA",
+            "en": "EDTA tube",
+            "es": "tubo con  EDTA"
       },
       "tubo com heparina": {
             "pt": "tubo com heparina",
@@ -20717,7 +20717,7 @@
       "unidade de cuidados intensivos": {
             "pt": "unidade de cuidados intensivos",
             "en": "intensive care unit",
-            "es": "unidad de cuidados intensivos ("
+            "es": "unidad de cuidados intensivos (UVI)"
       },
       "unidade motora": {
             "pt": "unidade motora",
@@ -21071,8 +21071,8 @@
       },
       "velocidade de sedimentação (VS)": {
             "pt": "velocidade de sedimentação (VS)",
-            "en": "sedimentation time, erythrocyte sedimentation rate (",
-            "es": "SR)"
+            "en": "sedimentation time, erythrocyte sedimentation rate (ESR)",
+            "es": "velocidad de sedimentación globular (VSG)"
       },
       "venoso": {
             "pt": "venoso",
@@ -21114,10 +21114,10 @@
             "en": "wart, verruca",
             "es": "verruga"
       },
-      "versão externa (V": {
-            "pt": "versão externa (V",
-            "en": ")",
-            "es": "external version"
+      "versão externa (VE)": {
+            "pt": "versão externa (VE)",
+            "en": "external version",
+            "es": "versión (externa)"
       },
       "vértebra": {
             "pt": "vértebra",
