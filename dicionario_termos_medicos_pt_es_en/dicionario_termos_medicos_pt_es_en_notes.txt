@@ -1,3 +1,15 @@
 #	<fontspec id="28" size="10" family="NMNMLP+SSymbol" color="#131413"/> extraordinary exception -> manually deleted
 
-Moved beta symbol in dicionario_termos_medicos_pt_es_en_new.xml 
+Manual changes:
+- Delete bloqueador beta on page header (line 2708)
+- 2 cases like this:
+    <b>cisto (o quisto</b>
+    )
+    <b>de ovário</b>
+
+    Mixture of bold and non bold term because of pdf not defining closing parenthesis as bold
+    Happened in lines (3640, 15195, )
+
+- CO2 cases problem because of inferiror indentation of the number 2. Fixed as the above. (Line 6137)
+
+
