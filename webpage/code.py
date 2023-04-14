@@ -2,7 +2,7 @@ from flask import Flask, render_template
 import json
 app = Flask(__name__)
 
-file = open("C:/Users/DIGUEST-ASUS/Desktop/LNEB/First assignment/nlp-group/webpage/terms.json", encoding="utf-8")
+file = open("webpage\\terms.json", encoding="utf-8")
 
 db = json.load(file) 
 
