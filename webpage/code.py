@@ -20,4 +20,5 @@ def terms():
 def term(t):
     return render_template("term.html", designation = t, value= db.get(t,"None"))
 
-app.run(host="localhost", port=3000, debug=True)
+app.run(host="localhost", port=3000, debug=False)
+
