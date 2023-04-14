@@ -6,19 +6,25 @@ with(open("nlp-group\JSONs\dicionario_termos_medicos_pt_es_en_new.json", encodin
 with(open("nlp-group\JSONs\dictionary.json", encoding="utf-8") as dict_pt_des):
     dict_pt_des = json.load(dict_pt_des)
 
-new_dict = {}
-for term in dict_pt_en_es:
-    en = dict_pt_en_es[term]["en"]
-    es = dict_pt_en_es[term]["es"]
-    if term in dict_pt_des:
-        des = dict_pt_des[term]
-        new_dict[term] = {"des": des, "en": en, "es": es}
-    elif term not in dict_pt_des:
-        new_dict[term] = {"en": en, "es": es}
+with(open("nlp-group\JSONs\Dicionario_de_termos_medicos_e_de_enfermagem_new.json", encoding="utf-8") as dict_pt_des_enf):
+    dict_pt_des_enf = json.load(dict_pt_des_enf)
+
+new_dict = dict_pt_en_es
 
 for term in dict_pt_des:
     des = dict_pt_des[term]
+    term = term.lower()
+    if term in new_dict:
+        new_dict[term]["des"] = des
     if term not in new_dict:
+        new_dict[term] = {"des": des}
+
+for term in dict_pt_des_enf:
+    des = dict_pt_des_enf[term]
+    term = term.lower()
+    if term in new_dict:
+        new_dict[term]["des"] = des
+    elif term not in new_dict:
         new_dict[term] = {"des": des}
 
 with(open("nlp-group\JSONs\combined.json", "w",  encoding="utf-8") as file):
