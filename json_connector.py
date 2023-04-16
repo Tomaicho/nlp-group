@@ -1,12 +1,12 @@
 import json
 
-with(open("nlp-group\JSONs\dicionario_termos_medicos_pt_es_en_new.json", encoding="utf-8") as dict_pt_en_es):
+with(open("JSONs/dicionario_termos_medicos_pt_es_en_new.json", encoding="utf-8") as dict_pt_en_es):
     dict_pt_en_es = json.load(dict_pt_en_es)
 
-with(open("nlp-group\JSONs\dictionary.json", encoding="utf-8") as dict_pt_des):
+with(open("JSONs/dictionary.json", encoding="utf-8") as dict_pt_des):
     dict_pt_des = json.load(dict_pt_des)
 
-with(open("nlp-group\JSONs\Dicionario_de_termos_medicos_e_de_enfermagem_new.json", encoding="utf-8") as dict_pt_des_enf):
+with(open("JSONs/Dicionario_de_termos_medicos_e_de_enfermagem_new.json", encoding="utf-8") as dict_pt_des_enf):
     dict_pt_des_enf = json.load(dict_pt_des_enf)
 
 new_dict = dict_pt_en_es
@@ -27,5 +27,5 @@ for term in dict_pt_des_enf:
     elif term not in new_dict:
         new_dict[term] = {"des": des}
 
-with(open("nlp-group\JSONs\combined.json", "w",  encoding="utf-8") as file):
+with(open("JSONs\combined.json", "w",  encoding="utf-8") as file):
     json.dump(new_dict,file,indent=6, ensure_ascii=False)

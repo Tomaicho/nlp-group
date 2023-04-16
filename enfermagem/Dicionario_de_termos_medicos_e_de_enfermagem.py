@@ -1,31 +1,31 @@
 import re
 import json
 
-with(open("nlp-group\enfermagem\Dicionario_de_termos_medicos_e_de_enfermagem.xml", encoding="utf-8") as file):
+with(open("./enfermagem/Dicionario_de_termos_medicos_e_de_enfermagem.xml", encoding="utf-8") as file):
     xml = file.read()
 
-new_xml = re.sub(r"<text.+?>","",xml)                       
+new_xml = re.sub(r'<text.+height="\d+" ',"",xml)                       
 new_xml = re.sub(r"</text>","", new_xml)
 new_xml = re.sub(r"<page.+>","", new_xml)
-new_xml = re.sub(r"\n<i>(.*)</i>",r"\1", new_xml)
-new_xml = re.sub(r"\nfi\n\s","fi", new_xml)
-new_xml = re.sub(r"○\n","", new_xml) 
+new_xml = re.sub(r"<b>(.+)</b>",r"\1", new_xml) #Removes all bold identifications
+new_xml = re.sub(r"<i>(.*)</i>",r"\1", new_xml) #Removes all italic identifications
+new_xml = re.sub(r'\nfont="\d+">fi\nfont="\d+"> ',"fi", new_xml) #Deals with the words cut in the -fi- syllable
+new_xml = re.sub(r'font="\d+">○\n',"", new_xml) 
 new_xml = re.sub(r"\n\s<fontspec.*","", new_xml)
-new_xml = re.sub(r"\nSou Enfermagem.*\n","", new_xml)
+new_xml = re.sub(r'font="\d+">Sou Enfermagem.*\n',"", new_xml)
 new_xml = re.sub(r"\n?</page>\n?","", new_xml)
-new_xml = re.sub(r"\n[A-Z]{3}","", new_xml)
-new_xml = re.sub(r"\n\s\n","", new_xml)
-new_xml = re.sub(r"\n\s?\d{2,3}\n","", new_xml)
-new_xml = re.sub(r"<b>([A-Z]?[^A-Z]*)</b>",r"\1", new_xml)
-new_xml = re.sub(r"-?</b>\n<b>","", new_xml)
-new_xml = re.sub(r"</b><b>","", new_xml)
-new_xml = re.sub(r"\n[^<]","", new_xml)
-# new_xml = re.sub(r"<b>\s*?([^A-Z])",r"\1", new_xml)
-# new_xml = re.sub(r"([A-Z|)])\s</b>",r"\1</b>", new_xml)
-# new_xml = re.sub(r"([^A-Z|)])</b>",r"\1", new_xml)
+new_xml = re.sub(r'\nfont="20">.+',"", new_xml) #Remove 3 capital letters (like chapter markings)
+new_xml = re.sub(r'\nfont="6">.+',"", new_xml) #Remove page numbers
+new_xml = re.sub(r'\nfont="19">.+',"", new_xml) #Remove lines with -
+new_xml = re.sub(r'\nfont="\d+"> \n',"\n", new_xml) #Remove empty lines
+new_xml = re.sub(r'-\nfont="\d+">(.)',r"\1", new_xml) #Join words separated by - in different lines
+new_xml = re.sub(r'(font="(24|10)">.+)\nfont="(24|10)">(.+)',r"\1\4", new_xml) #Join terms separated in different lines
+new_xml = re.sub(r'font="(24|10)">(.+)',r"\2@", new_xml) #Marks terms
+new_xml = re.sub(r'\nfont="\d+">(.)',r"\1", new_xml) #Joins description all in one line
 
-with(open("nlp-group\enfermagem\Dicionario_de_termos_medicos_e_de_enfermagem_new.xml", "w",  encoding="utf-8") as new_file):
+
+
+with(open("./enfermagem/Dicionario_de_termos_medicos_e_de_enfermagem_new.xml", "w",  encoding="utf-8") as new_file):
     new_file.write(new_xml)
 
 
-#	<fontspec id="28" size="10" family="NMNMLP+SSymbol" color="#131413"/> extraordinary exception -> manually deleted
