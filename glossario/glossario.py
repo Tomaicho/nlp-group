@@ -82,9 +82,14 @@ xml_text = re.sub(r'^#.+#\n#.+#\n', r'', xml_text)
 # remove '=T#' and '=D#'
 xml_text = re.sub(r'=[TD]#\n', r'\n', xml_text)
 
+file = open('./trabalho-grupo/glossario/glossario.xml', 'w', encoding='utf-8')
+file.write(xml_text)
+file.close()
+
 # now the terms and descriptions are in pairs, but not in order
 dictionary = {}
-# ':=' is a Walrus Operator, which asigns the result of the condition of the loop to a variable, in this case 'pair'
+# ':=' is a Walrus Operator, which asigns the result of the
+# condition of the loop to a variable, in this case 'pair'
 while pair := re.search(r'(#.=.+)\n(#.=.+)\n', xml_text):
     if re.search(r'#T=', pair.group(1)):
         term = pair.group(1)[3:]
@@ -94,10 +99,6 @@ while pair := re.search(r'(#.=.+)\n(#.=.+)\n', xml_text):
         description = pair.group(1)[3:]
     dictionary[term] = description
     xml_text = re.sub(r'^(#.=.+)\n(#.=.+)\n', r'', xml_text)
-
-file = open('./trabalho-grupo/glossario/glossario.xml', 'w', encoding='utf-8')
-file.write(xml_text)
-file.close()
 
 file = open('./trabalho-grupo/glossario/glossario.json', 'w', encoding='utf-8')
 json.dump(dictionary, file, ensure_ascii=False, indent=4)
