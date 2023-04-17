@@ -1,7282 +1,10917 @@
 #D=a milionésima parte de um grama
 #T=micrograma
+
 #D=à volta da boca
 #T=perioral
+
 #D=à volta da órbita
 #T=periorbital
+
 #D=à volta dos vasos sanguíneos
 #T=perivascular
+
 #D=abaixamento, abatimento, prostração
 #T=depressão
+
 #T=abcesso
 #D=abcesso, tumor
+
 #D=abcesso, tumor
 #T=abcesso
+
 #D=abcesso; acumulação de pus
 #T=empiema
+
 #T=abdómen
 #D=barriga, ventre
+
 #T=abdominal
 #D=ventral
+
 #T=aberrante
 #D=anormal
+
 #D=abertura; orifício
 #T=perfuração
+
 #D=ablação
 #T=extracção
+
 #D=ablação dos órgãos sexuais, capação, eviração, emasculação
 #T=castração
+
 #D=abocamento
 #T=anastomose
+
 #D=abortamento, desmancho
 #T=aborto
+
 #T=aborto
 #D=abortamento, desmancho
+
 #T=abrupto
 #D=repentino, brusco
+
 #T=absorção
 #D=absorvimento, absorvência
+
 #D=absorção de água e de solutos por células vivas
 #T=ressorção
+
 #D=absorvimento, absorvência
 #T=absorção
+
 #T=abstinência
 #D=jejum
+
 #D=abstracção, suposição
 #T=hipótese
+
 #D=acaríase sarcóptica, sarna
 #T=escabiose
+
 #T=acatisia
 #D=incapacidade em permanecer sentado
+
 #D=acção de certos corpos sobre outros
 #T=catálise
+
 #D=acção de enferrujar
 #T=oxidação
+
 #D=acção de inalar, extracção de líquidos ou gases
 #T=aspiração
+
 #D=acção de urinar, urinação
 #T=micção
+
 #D=aceleração da frequência cardíaca
 #T=taquicardia
+
 #D=acessório, anexo, indesejável
 #T=secundário
+
 #D=acidade, azedume
 #T=acidez
+
 #T=acidental
 #D=por acaso, sem importância
+
 #T=acidez
 #D=acidade, azedume
+
 #D=ácido aninado
 #T=aminoácido
+
 #T=acidose
 #D=alteração do equilíbrio ácido básico do sangue e líquidos teciduais
+
 #T=acinesia
 #D=ausência de movimento, acinese
+
 #T=acne
 #D=espinha
+
 #T=acomodação
 #D=adaptação
+
 #D=acomodação
 #T=adaptação
+
 #D=acompanhante
 #T=concomitante
+
 #D=acostumado
 #T=habitual
+
 #D=acrescentar um solvente a um medicamento em pó; tipo de regeneração de uma superfície lesionada; retorno à forma líquida do soro ou plasma sanguíneo previamente dessecado
 #T=reconstituição
+
 #T=acrocianose
 #D=cor azulada das extremidades (mãos-pés)
+
 #T=ACTH
 #D=hormônio adreno-córticotrófico, corticotrofina
+
 #D=activação de uma droga por outra
 #T=potenciação
+
 #D=activação de uma droga por outra
 #T=potencialização
+
 #D=activado por adrenalina
 #T=adrenérgico
+
 #T=activar
 #D=estimular ou acelerar, reactivar
+
 #T=actividade
 #D=actividade
+
 #D=actividade
 #T=actividade
+
 #D=actividade excessiva da tiróide
 #T=hipertiroidismo
+
 #D=actividade insuficiente da tiróide
 #T=hipotiroidismo
+
 #T=activo
 #D=reactivo, eficaz
+
 #D=activo com vários grupos de germes
 #T=largo espectro
+
 #D=acto de relembrar os antecedentes do doente
 #T=anamnésia
+
 #D=actor II da coagulação sanguínea; trombogénio
 #T=protrombina
+
 #T=açúcar invertido
 #D=mistura de glicose e frutose
+
 #T=acuidade
 #D=agudez(a)
+
 #T=acumulação
 #D=acumulamento
+
 #D=acumulação de ureia no sangue; urinemia
 #T=uremia
+
 #D=acumulação excessiva de glóbulos gordos nos tecidos
 #T=esteatose
+
 #D=acumulamento
 #T=acumulação
+
 #D=acumulativo
 #T=cumulativo
+
 #T=adaptação
 #D=acomodação
+
 #D=adaptação
 #T=acomodação
+
 #T=adenite
 #D=caroço inflamado, inflamação das glândulas
+
 #T=adenoma
 #D=tumor benigno
+
 #T=adequado
 #D=apropriado, próprio
+
 #T=aderência
 #D=adesão, união viciosa das superfícies orgânicas
+
 #D=adesão, união viciosa das superfícies orgânicas
 #T=aderência
+
 #T=adicional
 #D=complementar
+
 #T=aditivo
 #D=produto acrescentado
+
 #T=adjuvante
 #D=substância que contribui para a auxiliar
+
 #D=administração de medicamentos como sedativos antes de uma anestesia gera
-#T=pré- medicação
+#T=pré-medicação
+
 #D=administração de um antigénio para induzir uma resposta imunitária
 #T=sensibilização
+
 #D=administração de um medicamento ou emprego de uma medida física
 #T=aplicação
+
 #D=administração gota-a-gota (solução oftálmica)
 #T=instilação
+
 #D=administrado por via não oral
 #T=parenteral
+
 #T=adolescente
 #D=jovem
+
 #T=adrenérgico
 #D=activado por adrenalina
+
 #T=adrenolítico
 #D=substância que inibe a resposta à adrenalina
+
 #T=adsorção
 #D=penetração pela pele ou pelas mucosas, consumo
+
 #T=adstringente
 #D=que aperta os tecidos, secura da pele
+
 #T=adulto
 #D=adulto
+
 #D=adulto
 #T=adulto
+
 #D=aeragem, arejamento, aeração
 #T=ventilação
+
 #T=aeróbio
 #D=que vive no ar
+
 #T=aerofagia
 #D=engolir ar
+
 #T=aerossol
 #D=solução de um produto destinado à inalação
+
 #T=afasia
 #D=perda da capacidade de comunicar
+
 #D=afecção do fígado
 #T=cirrose
+
 #D=afinação, ajustamento
 #T=regulação
+
 #T=afinidade
 #D=parentesco, analogia, semelhança
+
 #D=afundamento ou queda (ex.: útero, recto, cordão umbilical)
 #T=prolapso
+
 #T=agalactia
 #D=falta ou diminuição da secreção do leite
+
 #T=agamaglobulinémia
 #D=sem gamoglobinas
+
 #T=agente
 #D=substância activa
+
 #D=agente intermediário, substância química que transmite algo
 #T=mediador
+
 #D=agente que destrói ou dissolve a mucina
 #T=mucolítico
+
 #D=agente que dissolve a parte córnea da pele
 #T=ceratolítico
+
 #D=agente que promove a secreção urinária do ácido úrico
 #T=uricossúrico
+
 #D=agente que reduz a tensão
 #T=relaxante
+
 #T=agitação
 #D=desassossego, inquietação, excitação
+
 #T=agonista
 #D=músculo que participa com outro num movimento; medicamento que estimula células de maneira natural
+
 #T=agranulocitose
 #D=inexistência de glóbulos no sangue, doença de Pfeiffer
+
 #T=agravação
 #D=agravamento, pioramento, piora
+
 #D=agravamento, pioramento, piora
 #T=agravação
+
 #T=agregação
 #D=agregado, associação
+
 #D=agregado, associação
 #T=agregação
+
 #T=agressividade
 #D=agressividade
+
 #D=agressividade
 #T=agressividade
+
 #D=agudez(a)
 #T=acuidade
+
 #T=agudo
 #D=agudo
+
 #D=agudo
 #T=agudo
+
 #T=alastrar
 #D=dispsersão da infecção; alastramento
+
 #T=albumina
 #D=proteína principal no sangue
+
 #T=alcalina
 #D=medicamento que contém um álcali
+
 #T=alcalóide
 #D=substância orgânica azotada com propriedades alcalinas
+
 #T=alcalose
 #D=alteração da relação ácido-base no sangue
+
 #T=alcilação
 #D=substância radical alquil por um átomo de H num composto cíclico
+
 #T=alcoolismo
 #D=alcoolismo
+
 #D=alcoolismo
 #T=alcoolismo
+
 #T=alérgeno
 #D=causa alergia
+
 #T=alergia
 #D=hipersensibilidade
+
 #D=alergia a substâncias similares
 #T=alergia cruzada
+
 #D=alergia a uma substância específica
 #T=idiossincrasia
+
 #T=alergia cruzada
 #D=alergia a substâncias similares
+
 #T=alérgico
 #D=alérgico
+
 #D=alérgico
 #T=alérgico
+
 #D=alérgico
 #T=atópico
+
 #T=alerta
 #D=vigilante
+
 #D=alienação mental, desarranjo mental, loucura
 #T=demência
+
 #T=alimentar
 #D=alimentício
+
 #D=alimentar, alimentício, nutritivo, nutrício, substancial
 #T=nutriente
+
 #D=alimentício
 #T=alimentar
+
 #T=alopecia
 #D=careca, calvície, calva
+
 #D=alteração da relação ácido-base no sangue
 #T=alcalose
+
 #D=alteração do equilíbrio ácido básico do sangue e líquidos teciduais
 #T=acidose
+
 #D=alteração do metabolismo dos lípidos (obesidade das mulheres na região glútea e nas pernas)
 #T=lipodistrofia
+
 #D=alteração do paladar
 #T=disgeusia
+
 #D=alteração mórbida na função ou estrutura de um órgão
 #T=lesão
+
 #D=alterar
 #T=modificar
+
 #T=alternar
 #D=sucessão de duas ou mais acções ou administrações de medicamentos
+
 #T=alternativo
 #D=alternativo
+
 #D=alternativo
 #T=alternativo
+
 #T=alucinação
 #D=alucinação
+
 #D=alucinação
 #T=alucinação
+
 #T=alveolite
 #D=lesão dos alvéolos pulmonares
+
 #D=alvéolo, recesso, buraco
 #T=cavidade
-#T=ambiente
+
 #T=ambliopia
 #D=enfraquecimento da vista
+
 #T=ambulante
 #D=ambulatório
+
 #D=ambulatório
 #T=ambulante
+
 #T=amenorreia
 #D=ausência de períodos menstruais
+
 #T=amina
 #D=composto químico relacionado com o amoníaco
+
 #T=aminoácido
 #D=ácido aninado
+
 #T=amnésia
 #D=esquecimento, perda de memória
+
 #T=âmnio
 #D=bolsa membranosa que contém o líquido amniótico onde flutua o bebé
+
 #D=amolecimento dos ossos
 #T=osteomalacia
+
 #T=ampola
 #D=bolha, pequeno tumor
+
 #T=anabólico
 #D=que activa o desenvolvimento fisiológico
+
 #T=anaeróbio
 #D=que vive sem ar
+
 #T=anafiláctico
 #D=que aumenta a sensibilidade do organismo para um veneno
+
 #T=anal
 #D=relativo ao ânus
+
 #D=analepsia; restabelecimento das forças (depois de uma doença)
 #T=convalescença
+
 #T=analéptico
 #D=droga estimulante do sistema nervoso
+
 #T=analgésico
 #D=que alivia a dor
+
 #T=análise
 #D=decomposição
+
 #T=análogo
 #D=com função semelhante mas diferente origem (diz-se de estruturas anatómicas)
+
 #D=análogo
 #T=idêntico
+
 #T=anamnésia
 #D=acto de relembrar os antecedentes do doente
+
 #D=anasarca, febre petequial, elefância
 #T=escarlatina
+
 #T=anastomose
 #D=abocamento
+
 #T=anastomose
 #D=comunicação natural ou artificial entre dois vasos ou nervos
+
 #T=anatómico
 #D=anatómico
+
 #D=anatómico
 #T=anatómico
+
 #D=andar dormindo, em sonhos
 #T=sonambulismo
+
 #T=androgénico
 #D=relativo à geração do homem
+
 #T=anemia
 #D=falta de sangue
+
 #T=anemia aplástica
 #D=formação insuficiente das células do sangue
+
 #T=anergia
 #D=falta de acção, inactividade
+
 #T=anestesia
 #D=insensibilidade à dor
+
 #T=anestésico
 #D=que tira a sensibilidade
+
 #T=aneurisma
 #D=protuberância num ponto fraco de uma artéria
+
 #T=anexite
 #D=inflamações dos ovários e da trompa
+
 #T=angiite
 #D=flebite, inflamação de uma veia
+
 #D=angina (tonsilar), amigdalite, esquinência, antiadite, inflamação das amígdalas
 #T=tonsilite
+
 #T=angina de peito
 #D=angina de peito, esternalgia
+
 #D=angina de peito, esternalgia
 #T=angina de peito
+
 #T=anginoso
 #D=relativo a angina
+
 #T=angioedema
 #D=inchaço sem inflamação
+
 #D=angioleucite, inflamação dos vasos linfáticos
 #T=linfangite
+
 #T=angioneurótico
 #D=indivíduo com eretismo do aparelho vascular e vasomotor, de origem nervosa
+
 #D=angústia
 #T=ansiedade
+
 #T=anidro
 #D=que não tem água
+
 #T=aniónico
 #D=com carga negativa
+
 #D=aniscuria, incontinência de urina
 #T=enurese
+
 #T=anisocoria
 #D=desigualdade do diâmetro das pupilas
+
 #T=anogenital
 #D=pertencente à região do anus e dos órgãos genitais
+
 #T=anomalia
 #D=irregularidade
+
 #T=anorectal
 #D=relativo ao anus e ao intestino grosso
+
 #T=anorexia
 #D=inapetência, falta de apetite
+
 #T=anormal
 #D=anormal
+
 #D=anormal
 #T=aberrante
+
 #D=anormal
 #T=anormal
+
 #T=anosmia
 #D=falta de cheiro
+
 #T=anovulatório
 #D=ciclo sem óvulo
+
 #T=anoxia
 #D=falta de oxigénio no organismo por respiração deficiente
+
 #T=ansiedade
 #D=angústia
+
 #T=antagonista
 #D=músculo que produz movimento contrário ao de outro músculo; substância que anula a acção de outra
+
 #T=antecedente
 #D=passado do paciente
+
 #T=anterógrado
 #D=dirigido para a frente
+
 #D=antes do nascimento, durante a evolução da gravidez
 #T=pré-natal
+
 #T=anti-helmíntico
 #D=contra as lombrigas, contra as bichas
+
 #T=anti-hipertensivo
 #D=substância que diminui a pressão sanguínea
+
 #T=anti-histamina
 #D=substância que combate a acção da histamina
+
 #T=anti-infeccioso
 #D=que combate a infecção
+
 #T=anti-inflamatório
 #D=que impede a inflamação
+
 #T=anti-séptico
 #D=desinfectante, que mata os micróbios ou fungos
+
 #D=anti-soma, anti-substância, corpo imune, antítropo
 #T=anticorpo
+
 #T=antiácido
 #D=fármaco com o excesso de acidez do estômago
+
 #T=antiácido
 #D=fármaco com o excesso de acidez do estômago
+
 #T=antialérgico
 #D=antialérgico
+
 #D=antialérgico
 #T=antialérgico
+
 #T=antianginoso
 #D=combate as anginas
+
 #T=antiarrítmico
 #D=medicamento para tratamento da irregularidade da pulsação cardíaca
+
 #T=antiasmático
 #D=remédio contra a asma
+
 #T=antibacteriano
 #D=que destrói as bactérias
+
 #T=antibiograma
 #D=estudo da sensibilidade de um micróbio a vários antibióticos
+
 #T=antibioterapia
 #D=tratamento com antibióticos
+
 #T=antibiótico
 #D=fármaco para tratar infecções
+
 #D=anticanceroso
 #T=antineoplástico
+
 #T=anticoagulante
 #D=fármaco que impede a coagulação do sangue
+
 #T=anticolinérgico
 #D=substância que bloqueia os nervos parassimpáticos
+
 #T=anticonvulsivante
 #D=substância que evita as convulsões
+
 #T=anticorpo
 #D=anti-soma, anti-substância, corpo imune, antítropo
+
 #T=antidepressivo
 #D=substância que alivia a depressão
+
 #T=antidiabético
 #D=substância que reduz a concentração de açúcar no sangue
+
 #T=antidiurético
 #D=que não faz urinar
-#T=antidopaminérgico
+
 #T=antídoto
 #D=contraveneno
+
 #T=antiemético
 #D=contra os vómitos
+
 #T=antiepiléptico
 #D=medicamento contra a epilepsia
+
 #T=antiestrogénico
 #D=que impede ou contraria o efeito das hormonas estrogénicas
+
 #T=antiexudativo
 #D=que impede a exsudação, a transpiração
-#T=antifibrinolítico
+
 #T=antiflogístico
 #D=que combate a inflamação, anti-inflamatório
+
 #T=antifúngico
 #D=medicamento com os cogumelos ou leveduras parasitas no homem
+
 #T=antígeno
 #D=substância considerada estranha pelo organismo
+
 #D=antiléptico, contra-irritante, que provoca uma irritação destinada a aliviar outra
 #T=revulsivo
+
 #T=antimicótico
 #D=que impede a reprodução dos fungos
+
 #T=antimicrobiano
 #D=que impede o desenvolvimento de micróbios
+
 #T=antimitótico
 #D=que trava a divisão e crescimento das células
+
 #T=antineoplástico
 #D=anticanceroso
+
 #T=antioxidante
 #D=evita a deterioração de um produto por oxidação
+
 #T=antipirético
 #D=que reduz a febre, antitérmico, febrífugo, antifebril
+
 #T=antiproliferativo
 #D=que não deixa as células multiplicarem-se
+
 #T=antipruriginoso
 #D=antiprurítico, antipruritoso
+
 #D=antiprurítico, antipruritoso
 #T=antipruriginoso
+
 #T=antipsicótico
 #D=tranquilizante
+
 #T=antispasmódico
 #D=substância que combate as contraturas, cãibras e convulsões
+
 #T=antitoxina
 #D=combate as toxinas bacterianas
+
 #T=antitrombótico
 #D=que impede a formação de coágulos no sangue e dissolve-os
+
 #T=antitumor
 #D=que combate a formação de tumores
+
 #T=antitússico
 #D=que suprime ou combate a tosse
+
 #T=antiviral
 #D=que destrói ou impede o desenvolvimento de vírus
+
 #T=antraz
 #D=pústula maligna, baceira, mal-do-baço, mal-do-sangue
+
 #D=anurese, que não urina
 #T=anúria
+
 #T=anúria
 #D=anurese, que não urina
+
 #T=ânus
 #D=orifício de saída do intestino, cu
+
 #T=anxiolítico
 #D=que combate a ansiedade, tranquilizante
+
 #D=aparecimento de furúnculos
 #T=furunculose
+
 #D=aparecimento de uma mancha branca que pode preceder o aparecimento de um cancro nesse órgão
 #T=leucoplasia
+
 #T=apatia
 #D=indiferença, aversão
+
 #T=aplasia
 #D=desenvolvimento defeituoso
+
 #T=aplicação
 #D=administração de um medicamento ou emprego de uma medida física
+
 #T=apneia
 #D=apneustia; ausência de respiração
+
 #D=apneustia; ausência de respiração
 #T=apneia
+
 #D=apontar
 #T=indicar
+
 #D=após o parto
 #T=pós-parto
+
 #D=após uma refeição
 #T=pós-prandial
+
 #T=apresentação
 #D=apresentação do feto em relação ao colo uterino
+
 #D=apresentação do feto em relação ao colo uterino
 #T=apresentação
+
 #D=apropriado, próprio
 #T=adequado
+
 #T=aproximado
 #D=aproximado
+
 #D=aproximado
 #T=aproximado
+
 #D=aptidão do organismo para contrair certas doenças; vocação
 #T=predisposição
+
 #T=aquoso
 #D=semelhante à água
+
 #T=aromático
 #D=cheiroso
+
 #D=arqueamento posterior da cabeça e membros inferiores
 #T=opistótono
+
 #T=arritmia
 #D=falata de ritmo regular, pulsação irregular
+
 #T=arritmogénico
 #D=que causa arritmia, pulsão irregular
+
 #D=arroto
 #T=eructação
+
 #T=arterial
 #D=relativo às artérias
+
 #T=artério-venoso
 #D=relativo a uma artéria e a uma veia
+
 #T=arteriografia
 #D=radiografia das artérias
+
 #T=arteriolar
 #D=relativo às pequenas artérias
+
 #T=arteriosclerose
 #D=esclerose das artérias
+
 #T=articular
 #D=relativo às articulações
+
 #T=artificial
 #D=não natural
+
 #T=artralgia
 #D=dor nas articulações
+
 #T=artrite
 #D=inflamação das articulações
+
 #T=artropatia
 #D=doença das articulações
+
 #T=artrose
 #D=destruição das articulações
+
 #T=ascite
 #D=barriga de água, hidropisia da cavidade abdominal, hidroperitoneu
+
 #T=aspiração
 #D=acção de inalar, extracção de líquidos ou gases
+
 #D=aspiração de gases e vapores
 #T=inalação
+
 #T=assepsia
 #D=esterilização, ausência de micróbios
+
 #T=asséptico
 #D=esterilizado, sem germes
+
 #D=assimilação inconsciente com outra pessoa
 #T=identificação
+
 #T=assintomático
 #D=sem sintomas
+
 #T=assistir
 #D=auxiliar, presenciar, ajudar
+
 #T=assistolia
 #D=paragem cardíaco
+
 #T=associação
 #D=união, acoplamento, coordenação
+
 #T=astenia
 #D=fraqueza, cansaço físico intenso
+
 #D=ataque
 #T=insulto
+
 #T=ataxia
 #D=perca da coordenação muscular
+
 #D=atenuação, supressão ou bloqueamento de uma função ou reacção
 #T=inibição
+
 #T=ateromatose
 #D=depósito de gorduras nas artérias
+
 #T=atetose
 #D=movimentos descontrolados, atesia, doença de Hammond
+
 #T=atípico
 #D=irregular, anormal
+
 #D=atomizador, vaporizador, aparelho de pulverizar
 #T=pulverizador
+
 #T=atonia
 #D=ausência o deficiência da tensão de um tecido ou órgão
+
 #T=atópico
 #D=alérgico
+
 #T=atóxico
 #D=não tóxico, não venenoso, não nocivo
+
 #T=atraso
 #D=desenvolvimento atrasado
+
 #D=atraso de desenvolvimento
 #T=hipotrofia
+
 #D=através da boca (ingestão de remédios, por exemplo)
 #T=peroral
+
 #D=através da pele
 #T=percutâneo
+
 #D=através da pele intacta
 #T=transcutâneo
+
 #T=atrial
 #D=relativo a uma câmara superior do coração
+
 #T=átrio
 #D=aurículo
+
 #T=atrioventricular
 #D=relativo a uma câmara superior e a um ventrículo do coração
+
 #T=atrofia
 #D=que não desenvolveu
+
 #T=auditivo
 #D=relativo ao ouvido e à audição
+
 #D=auge ou pico do fluxo, do débito
 #T=pico do débito
+
 #D=aumento anormal da diurese; doença caracterizada pela presença de açúcar na origina)
 #T=diabetes
+
 #D=aumento anormal do tecido conjuntivo
 #T=fibrose
+
 #D=aumento da espessura da capa córnea da pele
 #T=hiperceratose
+
 #D=aumento da espessura do pêlo do corpo
 #T=hipertricose
+
 #D=aumento da pressão de O2 no sangue
 #T=hiperbárico
+
 #D=aumento da sensibilidade nervosa
 #T=hiperestesia
+
 #D=aumento da temperatura, acaloramento
 #T=hipertermia
+
 #D=aumento da tensão
 #T=hipertensão
+
 #D=aumento da tensão no olho
 #T=hipertonia
+
 #D=aumento das células eosinófilas no sangue
 #T=eosinofilia
+
 #D=aumento de lípidos no sangue
 #T=hiperlipidemia
+
 #D=aumento de O2 no sangue
 #T=hipercapnia
+
 #D=aumento do ácido úrico
 #T=hiperuricemia
+
 #D=aumento do desenvolvimento
 #T=hiperplasia
+
 #D=aumento do fígado
 #T=hepatomegalia
+
 #D=aumento do número de glóbulos brancos em circulação
 #T=leucocitose
+
 #D=aumento do tamanho do coração
 #T=cardiomegália
+
 #D=aumento dos fluidos no organismo
 #T=hipervolemia
+
 #D=aumento dos peitos
 #T=ginecomastia
+
 #D=aumento exagerado do número de plaquetas no sangue
 #T=trombocitose
+
 #T=aura
 #D=sensação no início de um acesso de doença
+
 #T=aural
 #D=relativo à aura, percebido pelo ouvido
+
 #T=auricular
 #D=relativo à orelha; relativo a uma das câmaras superiores do coração
+
 #D=aurículo
 #T=átrio
+
 #T=auscultação
 #D=auscultar (os ruídos produzidos no interior de um organismo) com o estetoscópio
+
 #D=auscultar (os ruídos produzidos no interior de um organismo) com o estetoscópio
 #T=auscultação
+
 #T=ausência
 #D=perda momentânea do conhecimento
+
 #D=ausência de movimento, acinese
 #T=acinesia
+
 #D=ausência de períodos menstruais
 #T=amenorreia
+
 #D=ausência o deficiência da tensão de um tecido ou órgão
 #T=atonia
+
 #T=auto-imune
 #D=reacção anormal do organismo contra um dos seus próprios tecidos
+
 #D=autoduplicação, réplica
 #T=replicação
+
 #T=automatismo
 #D=automatismo
+
 #D=automatismo
 #T=automatismo
+
 #T=autónomo
 #D=independente, fora do controlo consciente
+
 #D=auxiliar, presenciar, ajudar
 #T=assistir
+
 #T=avaliação
 #D=avaliação
+
 #D=avaliação
 #T=avaliação
+
 #D=azia, sensação de calor no estômago
 #T=pirose
+
 #T=azospermia
 #D=que não tem espermatóides
+
 #T=azotemia
 #D=retenção no sangue de produtos azotados
+
 #T=bacilo
 #D=organismo microscópico em forma de filamento recto ou curvo
+
 #T=bactericida
 #D=que mata as bactérias
+
 #T=bacteriemia
 #D=presença de bactérias no sangue
+
 #T=bacteriológico
 #D=relativo ao estudo das bactérias
+
 #T=bacteriostático
 #D=que impede o desenvolvimento das bactérias
-#T=bacteróide
+
 #D=baixa de temperatura
 #T=hipotermia
+
 #T=balanite
 #D=inflamação da glande do pénis
+
 #D=banho por duche
 #T=jacto
+
 #T=barreira
 #D=obstrução
+
 #D=barriga de água, hidropisia da cavidade abdominal, hidroperitoneu
 #T=ascite
+
 #D=barriga, ventre
 #T=abdómen
+
 #T=basal
 #D=situado junto de uma base, normal
+
 #T=base
 #D=substância que forma sal combinada com um ácido; veículo neutro de um medicamento; superfície ou parte inferior de um órgão
+
 #D=base, substância básica
 #T=substrato
+
 #D=baseado em ensaios
 #T=experimental
+
 #D=baseado na experiência
 #T=empírico
+
 #D=batimento cardíaco ou o fluxo do sangue nas artérias
 #T=pulsação
+
 #D=beneficiário
 #T=recipiente
+
 #T=benigno
 #D=de pouca gravidade
-#T=betablocante
+
 #T=betamimético
 #D=substância que imita a acção dos receptores adrenérgicos B
+
 #D=bexigas da vaca
 #T=varíola bovina
+
 #T=bifásico
 #D=que tem duas fases
+
 #T=bilateral
 #D=com dois lados, relativo a dois lados
+
 #T=biliar
 #D=relativo à vesícula biliar e ao fígado
+
 #T=bio-disponibilidade
 #D=medida de actividade de um medicamento ingerido
+
 #T=bio-equivalente
 #D=fármaco com potência e efeito similares a outra
+
 #T=biodegração
 #D=procedimento que transforma sistemas vivos em substâncias químicas nocivas
+
 #T=biológico
 #D=biológico
+
 #D=biológico
 #T=biológico
+
 #T=biopsia
 #D=diagnóstico através da remoção de uma porção do tecido vivo para exame
+
 #T=bioquímico
 #D=relativo à química dos processos vitais e organismos vivos
+
 #T=biossíntese
 #D=elaboração de um produto por um organismo vivo
+
 #T=biotransformação
 #D=transformação química de um composto no organismo
+
 #T=blefarite
 #D=inflamação das pálpebras
+
 #T=blister
 #D=frasco de X comprimidos recobertos de plástico
+
 #T=bloqueio
 #D=bloqueio
+
 #D=bloqueio
 #T=bloqueio
+
 #D=bolha, pequeno tumor
 #T=ampola
+
 #D=bolsa membranosa que contém o líquido amniótico onde flutua o bebé
 #T=âmnio
+
 #T=borborigmo
 #D=ruído no ventre pela deslocação de gases
+
 #T=bradicardia
 #D=ritmo cardíaco lento
+
 #T=bradicinesia
 #D=lentidão dos movimentos
+
 #T=bradipneia
 #D=ritmo respiratório lento
+
 #D=branco do olho
 #T=esclerótica
+
 #T=bronco-espasmo
 #D=espasmo dos brônquios, asma
+
 #T=broncoconstricção
 #D=contracção dos brônquios
+
 #T=broncodilatação
 #D=dilação dos brônquios
+
 #T=broncopneumonia
 #D=pneumonia dos brônquios
+
 #T=broncopulmonar
 #D=relativo aos brônquios e pulmões
+
 #T=bronquectasia
 #D=dilatação patológica dos brônquios
+
 #T=bronquial
 #D=brônquico, dos brônquios
+
 #D=brônquico, dos brônquios
 #T=bronquial
+
 #T=brônquio
 #D=brônquio
+
 #D=brônquio
 #T=brônquio
+
 #T=bronquite
 #D=inflamação dos brônquios
+
 #T=bucal
 #D=relativo à boca, oral
+
 #T=bucofaríngeo
 #D=relativo à boca e à garganta
+
 #T=bulbar
 #D=relativo ao bolbo (raquidiano)
+
 #T=buloso
 #D=com bolhas ou ampolas
+
 #T=bursite
 #D=inflamação de uma bolsa
+
 #D=cabeça de água
 #T=hidrocefalia
+
 #D=cadência rápida do ritmo do coração; arritmia rápida
 #T=taquiarritmia
+
 #T=calcemia
 #D=nível de cálcio no sangue
+
 #T=calcificação
 #D=degenerescência calcária, infiltração calcária
+
 #D=cálcio nas urinas
 #T=calciúria
+
 #T=calciúria
 #D=cálcio nas urinas
+
 #T=cálculo
 #D=depósito calcário (nos dentes)
+
 #T=cálculo
 #D=pedra
+
 #D=cálculo renal, cálculo do rim
 #T=nefrólito
+
 #D=calmante do sistema nervoso
 #T=neuroléptico
+
 #D=calmante, anódino, paregórico
 #T=sedativo
-#T=camada superficial
+
 #T=canal
 #D=conduto
+
 #D=canceroso, neoplásico
 #T=neoplástico
+
 #D=cancro da medula do osso, doença de Kahler
 #T=mielomatose
+
 #T=candidíase
 #D=infecção por fungo do género Candida
+
 #T=cânula
 #D=tubo utilizado em cirurgia
+
 #D=capa interna que reveste as cavidades cardíacas e os vasos sanguíneos e linfáticos
 #T=endotélio
+
 #T=capacidade
 #D=lotação, potência
+
 #D=capacidade de contracção
 #T=contractibilidade
+
 #D=capacidade de suportar doses elevadas de uma droga tóxica
 #T=tolerância
+
 #D=capacidade de variação
 #T=variabilidade
+
 #D=capacidade para apresentar reacções
 #T=reactividade
+
 #T=capacidade vital
 #D=volume de gás que pode expulsar-se dos pulmões
+
 #T=capilar
 #D=pertencente ao cabelo, filiforme
+
 #T=caquexia
 #D=perda do peso e enfraquecimento físico
+
 #D=característico de uma espécie ou de uma doença
 #T=específico
+
 #D=caracterizado por pequenos nós sólidos
 #T=nodoso
+
 #T=carboidrato
 #D=hidrato de carbono
+
 #T=carcinogénico
 #D=que provoca o cancro, cancerígeno
+
 #T=carcinoma
 #D=tumor maligno, cancro, câncer
+
 #T=cardíaco
 #D=relativo ao coração
+
 #T=cardiogénico
 #D=que é consequência de uma deficiência do coração
+
 #T=cardiológico
 #D=cardiológico
+
 #D=cardiológico
 #T=cardiológico
+
 #T=cardiomegália
 #D=aumento do tamanho do coração
+
 #T=cardiomiopatia
 #D=transtorno crónico que afecta o músculo cardíaco
+
 #T=cardiopatia
 #D=doença do coração, enfermidade do coração
+
 #T=cardiopulmonar
 #D=relativo ao coração e pulmões
+
 #T=cardiorespiratório
 #D=relativo ao coração e à respiração
+
 #T=cardiosselectivo
 #D=que age só no coração
+
 #T=cardiotónico
 #D=que estimula o coração
+
 #T=cardiotóxico
 #D=tóxico para o coração
+
 #T=cardiovascular
 #D=relativo ao coração e vasos sanguíneos
+
 #D=careca, calvície, calva
 #T=alopecia
+
 #D=carência
 #T=deficiência
+
 #T=cárie
 #D=deterioração dentária
+
 #D=caroço
 #T=gânglio
+
 #D=caroço inflamado, inflamação das glândulas
 #T=adenite
+
 #T=castração
 #D=ablação dos órgãos sexuais, capação, eviração, emasculação
+
 #T=catabolismo
 #D=degradação das substâncias alimentares no organismo
+
 #T=catálise
 #D=acção de certos corpos sobre outros
+
 #T=catarata
 #D=opacidade do cristalino do olho
+
 #T=catarro
 #D=inflamação da membrana mucosa do nariz
+
 #D=catarro gástrico
 #T=gastrite
+
 #D=catarro intestinal, colite
 #T=enterite
+
 #T=cateter
 #D=sonda, algália
+
 #T=cateterismo
 #D=introdução de uma sonda numa cavidade
+
 #T=caudal
 #D=relativo ou em direcção da cauda
+
 #D=causa alergia
 #T=alérgeno
+
 #D=causa, agente, meio; número
 #T=factor
+
 #T=causal
 #D=causal
+
 #D=causal
 #T=causal
+
 #T=cáustico
 #D=corrosivo
+
 #T=cavidade
 #D=alvéolo, recesso, buraco
+
 #D=cavidade ou canal dentro de um órgão em forma de tubo
 #T=lúmen
+
 #T=cefalalgia
 #D=cefaleia, dor de cabeça
+
 #T=cefaleia
 #D=dor de cabeça, enxaqueca
+
 #D=cefaleia, dor de cabeça
 #T=cefalalgia
+
 #D=cegueira diurna
 #T=hemeralopia
+
 #D=célula capaz de receber substâncias químicas
 #T=químio-receptor
+
 #D=célula com nova combinação genética, não herdada dos pais
 #T=recombinante
+
 #D=célula de Mast
 #T=mastócito
+
 #T=celulite
 #D=inflamação crónica do tecido celular
+
 #D=cera dos ouvidos
 #T=cerúmen
+
 #T=ceratite
 #D=inflamação da córnea
+
 #T=ceratoconjuntivite
 #D=inflamação da córnea e da conjuntiva do olho
+
 #T=ceratolítico
 #D=agente que dissolve a parte córnea da pele
+
 #T=cerebelar
 #D=relativo ao cerebelo
+
 #T=cerebral
 #D=relativo ao cérebro
+
 #T=cerebrospinal
 #D=relativo ao cérebro e à medula espinal, cefalorraquídeo
+
 #T=cerebrovascular
 #D=que afecta os vasos cerebrais
+
 #T=cerúmen
 #D=cera dos ouvidos
+
 #T=cervical
 #D=que afecta o colo ou o colo de um órgão
+
 #D=cessação da menstruação na mulher
 #T=menopausa
+
 #T=ceto-acidose
 #D=excesso de ácidos e corpos cetónicos no sangue
+
 #D=chaga, ferida
 #T=úlcera
+
 #D=cheiro
 #T=odor
+
 #D=cheiroso
 #T=aromático
+
 #T=choque
 #D=comoção, abalo, golpe
+
 #T=cianose
 #D=coloração azulada da pele e das mucosas
+
 #T=ciática
 #D=nevralgia ciática
+
 #D=cicatriz defeituosa
 #T=quelóide
+
 #T=cicatrização
 #D=cicatrização
+
 #D=cicatrização
 #T=cicatrização
+
 #T=cíclico
 #D=relativo a um ciclo, que passa por etapas sucessivas
+
 #D=cíclico, regular
 #T=periódico
+
 #T=ciclo
 #D=período
+
 #D=ciclo sem óvulo
 #T=anovulatório
+
 #T=cicloderma
 #D=cicloderma
+
 #D=cicloderma
 #T=cicloderma
+
 #T=cicloplegia
 #D=paralisia da pupila do globo ocular
+
 #D=ciência que se ocupa do efeito exercido pelo organismo sobre o medicamento
 #T=farmacocinética
+
 #T=cinético
 #D=pertencente a ou que produz o movimento
+
 #T=circulação
 #D=circulação
+
 #D=circulação
 #T=circulação
+
 #D=circunstância que indica a utilização de uma terapia
 #T=indicação
+
 #T=cirrose
 #D=afecção do fígado
+
 #T=cirúrgico
 #D=cirúrgico, relativo a uma operação
+
 #D=cirúrgico, relativo a uma operação
 #T=cirúrgico
+
 #T=cistite
 #D=inflamação da bexiga
+
 #T=cistoscopia
 #D=exame do interior da bexiga com o cistoscópio
+
 #T=citocrómio
 #D=grupo de opostos aparentados com a hemoglobina do sangue
+
 #T=citoplasma
 #D=parte da célula não ocupada pelo núcleo
+
 #T=citostático
 #D=que pára a multiplicação das células
+
 #T=citotóxico
 #D=que é tóxico para as células; detém o crescimento dos tecidos
+
 #T=clássico
 #D=típico, característico
+
 #T=classificação
 #D=classificação
+
 #D=classificação
 #T=classificação
+
 #T=claudicação
 #D=coxeadura
+
 #T=clínico
 #D=relativo à clínica; baseado na observação e no tratamento
+
 #D=clister, irrigação
 #T=enema
+
 #T=clitórico
 #D=relativo ao clítoris
+
 #T=cloaca
 #D=saco terminal do tubo digestivo (aves e répteis)
+
 #T=cloasma
 #D=manchas irregulares que aparecem geralmente na cara
-#T=clónico
+
 #T=co-enzima
 #D=coenzima, co-factor
+
 #T=coagulação
 #D=formação de coágulos no sangue
+
 #D=coagulação do sangue numa artéria ou veia, com bloqueio da circulação
 #T=trombose
+
 #D=coágulo de sangue num vaso sanguíneo
 #T=trombo
+
 #T=coclear
 #D=pertencente ao caracol ósseo do ouvido interno
+
 #D=coenzima, co-factor
 #T=co-enzima
+
 #T=cognitivo
 #D=relativo ao conhecimento; intelectivo
+
 #T=coito
 #D=cópula, acto sexual
+
 #D=coito doloroso
 #T=dispareunia
+
 #T=colagénio
 #D=proteína que constitui o principal componente do tecido conjuntivo
+
 #T=colangiografia
 #D=radiografia de contraste das condutas biliares
+
 #T=colangite
 #D=inflamação das vias biliares
+
 #T=colapso
 #D=queda rápida da tensão arterial; enfraquecimento de um órgão
+
 #T=colecistite
 #D=inflamação da vesícula biliar
+
 #T=colelitíase
 #D=presença de pedras nas condutas biliares, litíase biliar
+
 #T=colerético
 #D=substância que favorece a produção de fel
+
 #T=colestase
 #D=retenção de fel nas condutas
+
 #T=colesterol
 #D=substância lipóide que se encontra na maior parte dos tecidos
+
 #T=colinérgico
 #D=que actua por intermédio da acetilcolina
+
 #T=colírio
 #D=medicamento para cuidar dos olhos
+
 #T=colite
 #D=inflamação do intestino grosso, catarro intestinal, enterite
+
 #T=colo do útero
 #D=colo do útero
+
 #D=colo do útero
 #T=colo do útero
+
 #T=coloidal
 #D=da natureza da cola de gelatina
+
 #T=coloníquia
 #D=unha em forma de colher
+
 #T=colopatia
 #D=doença do cólon
+
 #D=coloração azulada da pele e das mucosas
 #T=cianose
+
 #D=coloração obscura superficial da pele ou das mucosas
 #T=melanose
+
 #T=colorectal
 #D=referente ao intestino grosso e à sua parte final
+
 #D=com bolhas ou ampolas
 #T=buloso
+
 #D=com carga negativa
 #T=aniónico
+
 #D=com dois lados, relativo a dois lados
 #T=bilateral
+
 #D=com escamas
 #T=escamoso
+
 #D=com forma de tubo; tubuloso
 #T=tubular
+
 #D=com função semelhante mas diferente origem (diz-se de estruturas anatómicas)
 #T=análogo
+
 #D=com tensão ou pressão baixa
 #T=hipotenso
+
 #D=com tensão ou pressão normal
 #T=normotenso
+
 #T=comatoso
 #D=em coma, que se acompanha de coma
+
 #D=combate as anginas
 #T=antianginoso
+
 #D=combate as toxinas bacterianas
 #T=antitoxina
+
 #T=combinação
 #D=combinação
+
 #D=combinação
 #T=combinação
+
 #D=combinação de uma gordura e uma proteína
 #T=lipoproteína
+
 #D=combinação; formação de substâncias in vitro por meios artificiais
 #T=síntese
+
 #T=comedão
 #D=variedade de acne
+
 #T=comensal
 #D=ser vivo que convive com outro organismo hóspede
+
 #D=comichão
 #T=prurido
+
 #T=comoção
 #D=sacudidela violenta, golpe violento, pressão violenta
+
 #D=comoção, abalo, golpe
 #T=choque
+
 #T=compatível
 #D=que pode ser administrado juntamente com outro medicamento
+
 #T=compensação
 #D=compensação
+
 #D=compensação
 #T=compensação
+
 #T=competitivo
 #D=competitivo
+
 #D=competitivo
 #T=competitivo
+
 #T=complacente
 #D=que se compadece com os males ou desventuras de outrem; simpático
+
 #T=complementar
 #D=suplementar, adicional, auxiliar
+
 #D=complementar
 #T=adicional
+
 #T=complemento
 #D=complemento
+
 #D=complemento
 #T=complemento
+
 #T=complexo
 #D=composto, grupo
+
 #D=complexo mórbido, conjunto de sintomas
 #T=síndroma
+
 #T=complexo QRS
 #D=onda rápida, ondas iniciais do complexo ventricular
+
 #T=complicação
 #D=complicação, agravamento
+
 #D=complicação mais ou menos tardia de uma doença, doença consecutiva
 #T=sequela
+
 #D=complicação, agravamento
 #T=complicação
+
 #T=componente
 #D=ingrediente
+
 #D=composto químico relacionado com o amoníaco
 #T=amina
+
 #D=composto, grupo
 #T=complexo
+
 #D=comunicação anormal entre dois órgãos entre si ou com o exterior
 #T=fístula
+
 #D=comunicação natural ou artificial entre dois vasos ou nervos
 #T=anastomose
+
 #T=concentração
 #D=grau, riqueza
+
 #D=concentração de partículas osmoticamente activas em solução
 #T=osmolalidade
+
 #D=concentração de partículas osmoticamente activas em solução
 #T=osmolaridade
+
 #T=concepção
 #D=fecundação
+
 #T=concomitante
 #D=acompanhante
+
 #T=concreto
 #D=concreto
+
 #D=concreto
 #T=concreto
+
 #T=condição
 #D=estado geral, capacidade física de um indivíduo
+
 #D=condição, situação; crise ou ponto culminante
 #T=estado
+
 #T=condiloma
 #D=excrescência similar à verruga
+
 #T=condução
 #D=transmissão
+
 #D=conduto
 #T=canal
+
 #D=condutor de segunda classe, ácido para acumuladores
 #T=electrólito
+
 #T=confusão
 #D=confusão
+
 #D=confusão
 #T=confusão
+
 #T=congénito
 #D=presente desde a nascença, mas não necessariamente hereditário
+
 #T=congestão
 #D=excesso de sangue numa parte do organismo
+
 #D=congestão e bloqueamento de um vaso sanguíneo; infarto, infartação
 #T=enfarte
+
 #T=conjugação
 #D=conjugação
+
 #D=conjugação
 #T=conjugação
+
 #T=conjugado
 #D=simultâneo
+
 #T=conjuntivite
 #D=inflamação da conjuntiva
+
 #D=conjunto de bactérias no intestino grosso
 #T=flora intestinal
+
 #D=conjunto de reacções bioquímicas dentro do organismo
 #T=metabolismo
+
 #D=conjunto de sintomas devido a um excesso de hormonas tiróides
 #T=tirotoxicose
+
 #D=conjunto de vesículas inflamadas à volta da boca
 #T=herpes simplex
+
 #T=conselho
 #D=conselho, aviso
+
 #D=conselho, aviso
 #T=conselho
+
 #T=conserva
 #D=conserva
+
 #D=conserva
 #T=conserva
+
 #D=conservação inalterada
 #T=integridade
+
 #D=conservação, dentro do corpo, de materiais ou líquidos que se excretam normalmente
 #T=retenção
+
 #T=conservador
 #D=sem intervenção cirúrgica
+
 #D=consistente em manchas e pápulas, borbulhas
 #T=maculopapular
+
 #T=constitucional
 #D=próprio à constituição de um indivíduo
+
 #D=constituído por três anéis entrelaçados
 #T=tricíclico
+
 #D=consumo anormal de substâncias pelo próprio corpo
 #T=deplecção
+
 #T=contacto
 #D=toque; indivíduo que esteve em relação com pessoa portadora de doença contagiosa
+
 #D=contágio mútuo entre duas pessoas por doenças infecciosas diferentes
 #T=infecção cruzada
+
 #T=contaminação
 #D=inquinamento, poluição
+
 #D=contaminado por germes, podre
 #T=séptico
+
 #D=contemporâneo
 #T=simultâneo
+
 #D=continuado, que avança lentamente
 #T=progressivo
+
 #T=contínuo
 #D=persistente
+
 #D=contra as lombrigas, contra as bichas
 #T=anti-helmíntico
+
 #D=contra os vómitos
 #T=antiemético
+
 #T=contra-indicação
 #D=contra-indicação
+
 #D=contra-indicação
 #T=contra-indicação
+
 #T=contracção
 #D=contracção
+
 #D=contracção
 #T=contracção
+
 #D=contracção de grupos de músculos
 #T=fasciculação
+
 #D=contracção dos brônquios
 #T=broncoconstricção
+
 #D=contracção, retraimento, encolhimento de um órgão ou tecido
 #T=retracção
+
 #D=contracções desordenadas e ineficientes do coração
 #T=fibrilação
+
 #D=contracções involuntárias desordenadas de músculos
 #T=convulsão
+
 #T=contracepção
 #D=contraconcepção, anticoncepção
+
 #T=contraceptivo
 #D=que impede a gravidez
+
 #D=contraconcepção, anticoncepção
 #T=contracepção
+
 #T=contractibilidade
 #D=capacidade de contracção
+
 #D=contractura muscular
 #T=espasticidade
+
 #D=contraditório, inabitual
 #T=paradoxal
+
 #T=contratura
 #D=espasmo, contracção persistente e involuntária de um ou mais
+
 #D=contraveneno
 #T=antídoto
+
 #D=controlo ou supervisão com ajuda de um monitor
 #T=vigilância
+
 #T=contusão
 #D=ferida; lesão interna por golpe, compressão ou choque
+
 #T=convalescença
 #D=analepsia; restabelecimento das forças (depois de uma doença)
+
 #T=convencional
 #D=convencional
+
 #D=convencional
 #T=convencional
+
 #T=conversão
 #D=transformação; transformação das emoções em manifestações corporais
+
 #T=convulsão
 #D=contracções involuntárias desordenadas de músculos
+
 #D=convulsões e queda da tensão nas mulheres grávidas
 #T=eclampsia
+
 #T=coordenação
 #D=coordenação
+
 #D=coordenação
 #T=coordenação
+
 #D=cópula, acto sexual
 #T=coito
+
 #D=cor avermelhada da pele
 #T=livedo
+
 #D=cor azulada das extremidades (mãos-pés)
 #T=acrocianose
+
 #T=cor pulmonar
 #D=doença do coração causada por perturbações pulmonares
+
 #T=coreia
 #D=movimentos bruscos incontrolados nas crianças
+
 #T=córnea
 #D=parte anterior transparente do olho
+
 #T=coronário
 #D=relativo a artérias e veias do coração
+
 #D=corpo em repouso, ou alguma das suas partes
 #T=imobilização
+
 #T=corpo lúteo
 #D=corpo que se forma no ovário após a ovulação
+
 #D=corpo que se forma no ovário após a ovulação
 #T=corpo lúteo
+
 #D=corporal, que se percebe pelos sentidos
 #T=físico
+
 #D=corpúsculo, parte elementar
 #T=partícula
+
 #T=correcção
 #D=substância que corrige a acção ou o sabor de um medicamento; compensação rectificação
+
 #T=correlação
 #D=relação recíproca ou mútua
+
 #T=corresponder
 #D=que equivale
+
 #T=corrimento
 #D=flúor branco
+
 #D=corrimento após o parto
 #T=lóquios
+
 #D=corrimento mucoso de cor branca oriundo da vagina; flores-brancas
 #T=leucorreia
+
 #D=corrimento nasal
 #T=rinorreia
+
 #D=corrosivo
 #T=cáustico
+
 #D=corte
 #T=incisão
+
 #D=corte cirúrgico do osso
 #T=osteotomia
+
 #D=corte vaginal para facilitar o parto
 #T=episiotomia
+
 #D=corte, extirpação cirúrgica parcial ou total de um órgão
 #T=ressecção
+
 #D=corte, fissura
 #T=rágade
+
 #D=córtex, cortiça; camada exterior distinta de um órgão
 #T=córtice
+
 #T=cortical
 #D=relativo ao córtex
+
 #T=córtice
 #D=córtex, cortiça; camada exterior distinta de um órgão
+
 #D=corticóide; hormonas essenciais à vida formada no córtex das glândulas supra-renais
 #T=corticosteróide
+
 #T=corticosteróide
 #D=corticóide; hormonas essenciais à vida formada no córtex das glândulas supra-renais
+
 #T=cosmético
 #D=preparado para a higiene e beleza
+
 #T=coxalgia
 #D=dor na articulação da coxa
+
 #D=coxeadura
 #T=claudicação
+
 #T=craniano
 #D=relativo ao crânio
+
 #T=creatinemia
 #D=presença de creatina no sangue
+
 #D=criação de um estado estável
 #T=estabilização
+
 #T=crise
 #D=pioramento repentino, ataque
+
 #D=crises convulsivas
 #T=epilepsia
+
 #D=cristalino
 #T=vítreo
+
 #T=cristalização
 #D=formação de cristais
+
 #T=cristalúria
 #D=formação de cristais na urina
+
 #T=critério
 #D=regra
+
 #T=cromossómico
 #D=relativo ao cromossoma
+
 #T=crónico
 #D=de desenvolvimento lento, de longa duração
+
 #T=cronotrópico
 #D=diz respeito à regularidade e frequência de um ritmo cardíaco
+
 #T=cumulativo
 #D=acumulativo
+
 #T=curarizar
 #D=submeter o curativo a cura; substância que afecta os músculos
+
 #T=curativo
 #D=que cura, terapêutico
+
 #T=curetagem
 #D=raspagem
+
 #T=curva
 #D=diagrama
+
 #D=cuspo, cuspe, saliva, escarro
 #T=esputo
+
 #T=cutâneo
 #D=da pele
+
 #D=da mesma categoria, da mesma espécie, de estrutura igual; que tem as mesmas funções
 #T=homogéneo
+
 #D=da natureza da cola de gelatina
 #T=coloidal
+
 #D=da pele
 #T=cutâneo
+
 #T=dador
 #D=pessoa que oferece um órgão, sangue, etc
+
 #D=das lágrimas
 #T=lacrimal
+
 #D=de causa desconhecida, primário, espontâneo
 #T=idiopático
+
 #D=de desenvolvimento lento, de longa duração
 #T=crónico
+
 #D=de igual valor
 #T=equivalente
+
 #D=de noite, da noite
 #T=nocturno
+
 #D=de pouca gravidade
 #T=benigno
+
 #D=de repetição
 #T=repetitivo
+
 #D=de secreção externa
 #T=exócrino
+
 #D=de um só componente
 #T=monocomponente
+
 #D=de um só lado
 #T=unilateral
+
 #D=de varicose, isto é, inflamação provocada por varizes; varicosidade
 #T=veia varicosa
+
 #D=de vez em quando
 #T=ocasional
+
 #T=de(s)compensação
 #D=desengano (do doente da gravidade do seu mal)
+
 #T=de(s)polarização
 #D=despolarização
+
 #D=decência; pundonor; coisa preventiva
 #T=decoro
+
 #D=decomposição
 #T=análise
+
 #T=decoro
 #D=decência; pundonor; coisa preventiva
+
 #T=decúbito
 #D=deitado de costas; formação de necroses na pele ou nas mucosas por permanência prolongada na cama
+
 #T=defecação
 #D=evacuação dos excrementos
+
 #D=defeito hereditário da pele; pele de peixe
 #T=ictiose
+
 #D=defeito hereditário de muitas glândulas
 #T=fibrose cística
+
 #T=défice
 #D=deficiência, falta
+
 #T=deficiência
 #D=carência
+
 #D=deficiência de glóbulos brancos no sangue
 #T=leucopenia
+
 #D=deficiência, falta
 #T=défice
+
 #D=deformação
 #T=malformação
+
 #D=deformação, distrofia, dos ossos
 #T=osteodistrofia
+
 #T=degenerativo
 #D=que produz degeneração
+
 #D=degenerescência calcária, infiltração calcária
 #T=calcificação
+
 #D=deglutição de alimentos ou outras substâncias para o interior do tubo digestivo
 #T=ingestão
+
 #T=degradação
 #D=degradação
+
 #D=degradação
 #T=degradação
+
 #D=degradação das substâncias alimentares no organismo
 #T=catabolismo
+
 #D=degradação e perda funcional dos órgãos com a idade; regressão das dimensões do útero e das estruturas envolventes após o parto
 #T=involução
+
 #D=deitado de costas
 #T=supino
+
 #D=deitado de costas; formação de necroses na pele ou nas mucosas por permanência prolongada na cama
 #T=decúbito
+
 #T=delírio
 #D=perturbação mental por traumatismo, febre, envenenamento, etc. com confusão mental
+
 #D=delírio maníaco, delírio furioso
 #T=mania
+
 #D=delírio, loucura raciocinante, monomania
 #T=paranóia
+
 #D=demasiado
 #T=excessivo
+
 #T=demência
 #D=alienação mental, desarranjo mental, loucura
+
 #T=demulcente
 #D=que alivia as zonas inflamadas; suavizante
+
 #T=dendrítico
 #D=ramificado, relativo às dendrites (fibras nervosas)
+
 #T=dentição
 #D=rompimento dos dentes
+
 #D=dentro do indivíduo
 #T=intraindividual
+
 #T=dependência
 #D=dependência de drogas
+
 #D=dependência de drogas
 #T=dependência
+
 #T=dependente
 #D=dependente
+
 #D=dependente
 #T=dependente
+
 #T=deplecção
 #D=consumo anormal de substâncias pelo próprio corpo
+
 #D=depois de uma operação
 #T=pós-operativo
+
 #D=depois do nascimento
 #T=pós-natal
+
 #D=depósito calcário (nos dentes)
 #T=cálculo
+
 #D=depósito de gorduras nas artérias
 #T=ateromatose
+
 #D=depósito de partículas sólidas de uma solução no fundo de um recipiente
 #T=sedimentação
+
 #D=depósito nos tecidos, principalmente de ácido úrico e seus sais, característico da gota
 #T=tofo
+
 #D=depósito, assento, lia, pé, borra(s)
 #T=sedimento
+
 #D=depósito, cavidade que serve de armazém
 #T=reservatório
+
 #T=depressão
 #D=abaixamento, abatimento, prostração
+
 #T=depuração
 #D=eliminação de certas substâncias do sangue
+
 #T=derivado
 #D=derivado
+
 #D=derivado
 #T=derivado
+
 #D=derivado dos microssomas
 #T=microssómico
+
 #T=dermatite
 #D=inflamação da pele
+
 #D=dermatite; inflamação da pele
 #T=eczema
+
 #T=dermatofitia
 #D=doença da pele causada pelos fungos do grupo dos dermatófitos
+
 #T=dermatológico
 #D=relativo à pele
+
 #T=dermatomicose
 #D=doença da pele causada pelos fungos
+
 #T=dermatose
 #D=doença da pele
+
 #T=dermografia
 #D=reacção local da pele a uma irritação mecânica ou efeito de pressão
+
 #D=derrame
 #T=efusão
+
 #D=derrame do fluido de um vaso para os tecidos circundantes devido a uma lesão
 #T=extravasação
+
 #D=derrame sanguíneo na pele traumatizada; contusão
 #T=equimose
+
 #D=desassossego, inquietação, excitação
 #T=agitação
+
 #D=descamação da pele
 #T=pitiríase
+
 #D=descamação, escamação
 #T=esfoliação
+
 #D=descoberta, revelação
 #T=detecção
+
 #D=desconforto psíquico, mal-estar, indisposição
 #T=disforia
+
 #T=descongestionante
 #D=substância que alivia a congestão nasal
+
 #D=desdobramento; descomposição de uma célula
 #T=dissociação
+
 #D=desejo doloroso e ineficaz de urinar ou defecar
 #T=tenesmo
+
 #D=desejo sexual
 #T=líbido
+
 #D=desengano (do doente da gravidade do seu mal)
 #T=de(s)compensação
+
 #D=desenvolvimento
 #T=evolução
+
 #D=desenvolvimento atrasado
 #T=atraso
+
 #D=desenvolvimento defeituoso
 #T=aplasia
+
 #D=desenvolvimento exagerado do sistema piloso
 #T=hirsutismo
+
 #D=desenvolvimento histológico anormal
 #T=displasia
+
 #D=desfavorável, adverso
 #T=prejudicial
+
 #T=desfibrilhação
 #D=restabelecimento da pulsação cardíaca
+
 #D=desgaste, raspagem, erosão de origem químico-física
 #T=esfoladela
+
 #D=desgaste; destruição ou ulceração de um tecido
 #T=erosão
+
 #T=desidratação
 #D=falta de água no corpo
+
 #D=desigualdade do diâmetro das pupilas
 #T=anisocoria
+
 #T=desinfectante
 #D=que desinfecta
+
 #D=desinfectante, que mata os micróbios ou fungos
 #T=anti-séptico
+
 #T=desintoxicação
 #D=diminuição das propriedades nocivas de um veneno
+
 #T=deslocação
 #D=deslocação (de um osso, por exemplo)
+
 #D=deslocação (de um osso, por exemplo)
 #T=deslocação
+
 #D=deslocação dos ossos de uma articulação
 #T=luxação
+
 #D=deslocação para a frente de um órgão
 #T=protrusão
+
 #T=desorientação
 #D=desorientação
+
 #D=desorientação
 #T=desorientação
+
 #T=despersonalização
 #D=perda da própria personalidade
+
 #T=despigmentação
 #D=escassez ou carência total de pigmentação da pele
+
 #D=despolarização
 #T=de(s)polarização
+
 #D=desprendimento natural do óvulo
 #T=ovulação
+
 #T=dessensibilização
 #D=terapia destinada a reduzir uma alergia
+
 #T=destilar
 #D=destilar, separar (por destilação)
+
 #D=destilar, separar (por destilação)
 #T=destilar
+
 #D=destruição das articulações
 #T=artrose
+
 #D=destruição de fungos
 #T=fungicida
+
 #D=destruição dos ossos
 #T=osteólise
+
 #D=desvio de um olho da sua direcção normal
 #T=estrabismo
+
 #D=desvio sexual
 #T=perversão
+
 #T=detecção
 #D=descoberta, revelação
+
 #T=detergente
 #D=detergente
+
 #D=detergente
 #T=detergente
+
 #D=deterioração dentária
 #T=cárie
+
 #T=diabetes
 #D=aumento anormal da diurese; doença caracterizada pela presença de açúcar na origina)
+
 #T=diaforese
 #D=secreção de suor
+
 #T=diaforese
 #D=transpiração, (secreção de) suor
+
 #T=diagnóstico
 #D=identificação ou reconhecimento das doenças
+
 #D=diagnóstico através da remoção de uma porção do tecido vivo para exame
 #T=biopsia
+
 #D=diagrama
 #T=curva
+
 #T=diálise
 #D=difusão selectiva mediante uma membrana que serve como filtro molecular
+
 #T=diâmetro
 #D=diâmetro
+
 #D=diâmetro
 #T=diâmetro
+
 #T=diarreia
 #D=emissão frequente de fezes líquidas
+
 #T=diastólico
 #D=relativo à disástole (fase de relaxamento do músculo cardíaco)
+
 #T=diatermia
 #D=produção de calor num tecido por correntes eléctricas de alta frequência
+
 #T=diátese
 #D=tendência para um determinado tipo de doença
+
 #T=didralcoólico
 #D=preparado com alcool diluído
+
 #T=diferenciação
 #D=variação; desenvolvimento de células e tecidos em diversos sentidos
+
 #D=dificuldade de coagulação do sangue
 #T=hemofilia
+
 #D=dificuldade de expelir os excrementos, prisão de ventre
 #T=obstipação
+
 #D=dificuldade de respirar
 #T=dispneia
+
 #D=dificuldade em urinar
 #T=disúria
+
 #D=dificuldade na deglutição
 #T=disfagia
+
 #D=dificuldade nos movimentos voluntários
 #T=discinesia
+
 #T=difteria
 #D=garrotilho
+
 #T=difusão
 #D=movimento de moléculas num fluido de uma zona de alta concentração para outra de baixa concentração; dispersão
+
 #D=difusão selectiva mediante uma membrana que serve como filtro molecular
 #T=diálise
+
 #T=difuso
 #D=disperso
+
 #T=digestivo
 #D=relativo à digestão
+
 #T=digitalização
 #D=tratamento de uma doença com digital
+
 #D=dilação dos brônquios
 #T=broncodilatação
+
 #T=dilatação
 #D=expansão de um órgão; alargamento
+
 #D=dilatação das pupilas
 #T=dilatação pupilar
+
 #D=dilatação de vasos terminais, sobretudo na cara
 #T=telangiectasia
+
 #D=dilatação dos vasos sanguíneos
 #T=vasodilatação
+
 #D=dilatação patológica dos brônquios
 #T=bronquectasia
+
 #T=dilatação pupilar
 #D=dilatação das pupilas
+
 #D=diminuição da audição
 #T=surdez
+
 #D=diminuição da produção de urina
 #T=oliguria
+
 #D=diminuição das propriedades nocivas de um veneno
 #T=desintoxicação
+
 #D=diminuição de O2 no sangue
 #T=hipoxemie
+
 #D=diminuição de O2 no sangue
 #T=hipoxia
+
 #D=diminuição de potássio no sangue
 #T=hipocalemia
+
 #D=diminuição de suprimento arterial a um órgão ou região a níveis condicionantes de lesão tecidular ainda reversível
 #T=isquemia
+
 #D=diminuição de todos os glóbulos brancos
 #T=pacitopenia
+
 #D=diminuição do fluxo menstrual
 #T=oligomenorreia
+
 #D=diminuição do nível de glicose no sangue
 #T=hipoglicemia
+
 #D=diminuição do número de plaquetas no sangue
 #T=trombocitopenia
+
 #D=diminuição do sangue circulante
 #T=hipovolemia
+
 #D=diminuição do volume de ar que entra nos pulmões; respiração lenta e superficial
 #T=hiperventilação
+
 #D=diminuição dos glóbulos brancos
 #T=granulopenia
+
 #D=diminuição temporal dos sintomas de uma doença
 #T=remissão
+
 #T=diplopia
 #D=visão dupla
+
 #T=directo
 #D=directo
+
 #D=directo
 #T=directo
+
 #D=dirigido para a frente
 #T=anterógrado
+
 #T=disartria
 #D=gaguez
+
 #T=discinesia
 #D=dificuldade nos movimentos voluntários
+
 #T=discóide
 #D=em forma de disco
+
 #T=discrasia
 #D=equilíbrio defeituoso dos quatro humores; composição alterada do líquido corporal
+
 #T=disenteria
 #D=doença intestinal que causa a diarreia
+
 #T=disfagia
 #D=dificuldade na deglutição
+
 #T=disforia
 #D=desconforto psíquico, mal-estar, indisposição
+
 #T=disfunção
 #D=perturbação do funcionamento de um órgão; alteração de função
+
 #D=disgenese: desenvolvimento embrionário defeituoso
 #T=disgenesia
+
 #T=disgenesia
 #D=disgenese: desenvolvimento embrionário defeituoso
+
 #T=disgeusia
 #D=alteração do paladar
+
 #T=dismenorreia
 #D=transtorno da menstruação
+
 #T=dispareunia
 #D=coito doloroso
+
 #T=dispepsia
 #D=má digestão
+
 #D=disperso
 #T=difuso
+
 #T=displasia
 #D=desenvolvimento histológico anormal
+
 #T=dispneia
 #D=dificuldade de respirar
+
 #T=disposição
 #D=disposição
+
 #D=disposição
 #T=disposição
+
 #D=dispsersão da infecção; alastramento
 #T=alastrar
+
 #T=dissociação
 #D=desdobramento; descomposição de uma célula
+
 #D=dissolvente
 #T=solvente
+
 #D=dissolver uma substância noutra
 #T=emulsionar
+
 #T=distal
 #D=periférico, distante do tronco
+
 #T=distensão
 #D=estiramento excessivo de um músculo
+
 #D=distensão excessiva de qualquer parte do corpo; deslocamento de um órgão para a frente; proptoma
 #T=proptose
+
 #T=distonia
 #D=tonicidade anormal dos tecidos
+
 #T=distorção
 #D=imagem deformada, torção
+
 #T=distribuição
 #D=distribuição
+
 #D=distribuição
 #T=distribuição
+
 #T=distrofia
 #D=perturbação da nutrição de vários tecidos do organismo
+
 #T=disúria
 #D=dificuldade em urinar
+
 #T=diurese
 #D=formação e excreção de urina
+
 #T=diurético
 #D=que ajuda a aumentar o fluxo de urina
+
 #T=diurno
 #D=que se produz durante o dia
+
 #T=diverticulite
 #D=presença de pequenas saliências ou bolsas em pontos fracos do intestino grosso, diverticulose
+
 #D=divisão cinética, cariocinese, divisão celular indirecta
 #T=mitose
+
 #D=diz respeito à regularidade e frequência de um ritmo cardíaco
 #T=cronotrópico
+
 #D=diz-se do microrganismo que produz doenças unicamente em determinadas circunstâncias
 #T=oportunista
+
 #T=documento
 #D=documento
+
 #D=documento
 #T=documento
+
 #D=doença bulhosa da pele
 #T=pênfigo
+
 #D=doença causada por fungos
 #T=micose
+
 #D=doença da pele
 #T=dermatose
+
 #D=doença da pele caracterizada por descamação
 #T=psoríase
+
 #D=doença da pele causada pelos fungos
 #T=dermatomicose
+
 #D=doença da pele causada pelos fungos do grupo dos dermatófitos
 #T=dermatofitia
+
 #D=doença da pele derivada de causas emocionais
 #T=neurodermatite
+
 #D=doença da pele que aparece sobretudo na face interna das coxas, virilhas e axilas
 #T=eritrasma
+
 #D=doença das articulações
 #T=artropatia
+
 #D=doença de Glisson, nodosidade das articulações
 #T=raquitismo
+
 #T=doença de Parkinson
 #D=paralisia agitante
+
 #T=doença de Raynaud
 #D=gangrena simétrica das extremidades
+
 #D=doença de Werlhof, caracterizada por manchas de cor vermelha devidas à ocorrência de hemorragias subcutâneas
 #T=púrpura
+
 #D=doença do cólon
 #T=colopatia
+
 #D=doença do coração causada por perturbações pulmonares
 #T=cor pulmonar
+
 #D=doença do coração, enfermidade do coração
 #T=cardiopatia
+
 #D=doença do labirinto ósseo do ouvido
 #T=otosclerose
+
 #D=doença do sangue
 #T=hemopatia
+
 #D=doença dos pulmões
 #T=pneumopatia
+
 #D=doença infecciosa causada por Toxoplasma gondi
 #T=toxoplasmose
+
 #D=doença infecciosa da conjuntiva e da córnea do olho
 #T=tracoma
+
 #D=doença intestinal que causa a diarreia
 #T=disenteria
+
 #D=doença provocada pelos médicos ou pelo tratamento
 #T=iatorgénico
+
 #D=doença que afecta o funcionamento do cérebro
 #T=encefalopatia
+
 #D=doença que afecta os órgãos formadores do sangue, caracterizada pelo aumento dos glóbulos brancos em circulação
 #T=leucemia
+
 #D=doença renal
 #T=nefropatia
+
 #D=doença renal com inflamação dos glomérulos
 #T=glumerolonefrite
+
 #D=doença viral; bexigas loucas
 #T=varicela
+
 #D=doente
 #T=paciente
+
 #T=dominância
 #D=predomínio de um gene ou de um carácter
+
 #D=dor de cabeça, enxaqueca
 #T=cefaleia
+
 #D=dor do estômago, gastrodinia, cardialgia
 #T=gastralgia
+
 #D=dor na articulação da coxa
 #T=coxalgia
+
 #D=dor na boca do estômago
 #T=epigastralgia
+
 #D=dor na língua
 #T=glossodinia
+
 #D=dor na parte inferior da coluna vertebral
 #T=lumbago
+
 #D=dor nas articulações
 #T=artralgia
+
 #D=dor nos peitos
 #T=mastodinia
+
 #T=dorsal
 #D=relativo ao dorso, às costas
+
 #T=dosagem
 #D=dose, doseamento, dosificação
+
 #D=dosagem excessiva
 #T=overdosagem
+
 #T=dose
 #D=dose
+
 #D=dose
 #T=dose
+
 #T=dose de ataque
 #D=dose inicial
+
 #D=dose excessiva
 #T=overdose
+
 #D=dose inicial
 #T=dose de ataque
+
 #T=dose única
 #D=dose única
+
 #D=dose única
 #T=dose única
+
 #T=dose-padrão
 #D=dose-padrão
+
 #D=dose-padrão
 #T=dose-padrão
+
 #D=dose, doseamento, dosificação
 #T=dosagem
+
 #T=drenagem
 #D=escoamento, despejo
+
 #T=droga
 #D=&#34;dooping&#34;
+
 #D=droga estimulante do sistema nervoso
 #T=analéptico
+
 #D=droga que dilata a pupila
 #T=midriático
+
 #T=duodeno
 #D=parte inicial do intestino delgado
+
 #T=duplamente cego
 #D=prova dita duplamente cego
+
 #T=dura-máter
 #D=membrana que envolve o sistema nervoso central
+
 #T=eclampsia
 #D=convulsões e queda da tensão nas mulheres grávidas
+
 #T=ecografia
 #D=ecografia
+
 #D=ecografia
 #T=ecografia
+
 #T=ectópico
 #D=que se encontra ou produz fora do lugar habitual
+
 #T=eczema
 #D=dermatite; inflamação da pele
+
 #T=edema
 #D=excesso de líquido nos tecidos sob a pele; inchaço
+
 #T=efectivo
 #D=eficaz, eficiente
+
 #T=efeito
 #D=resultado
+
 #T=efeito colateral
 #D=efeito secundário indesejado de uma medida terapêutica ou medicamento
+
 #T=efeito de ressonância
 #D=efeito de ressonância
+
 #D=efeito de ressonância
 #T=efeito de ressonância
+
 #D=efeito decrescente de um medicamento
 #T=taquifilaxia
+
 #D=efeito nocivo de uma substância química
 #T=toxicidade
+
 #D=efeito ondulatório, flutuação
 #T=tremulação
+
 #D=efeito secundário indesejado de uma medida terapêutica ou medicamento
 #T=efeito colateral
+
 #T=eficaz
 #D=eficiente
+
 #D=eficaz, eficiente
 #T=efectivo
+
 #D=eficiente
 #T=eficaz
+
 #T=efusão
 #D=derrame
+
 #T=ejaculação
 #D=ejaculação
+
 #D=ejaculação
 #T=ejaculação
+
 #D=elaboração de um produto por um organismo vivo
 #T=biossíntese
+
 #T=elástico
 #D=elástico
+
 #D=elástico
 #T=elástico
+
 #T=electivo
 #D=selectivo
+
 #T=electrocardiografia
 #D=exame e inscrição em registo dos movimentos cardíacos
+
 #T=electroencefalografia
 #D=registo das ondas cerebrais (para detecção de tumores)
+
 #T=electrofisiológico
 #D=relativo à electrofisiologia (estudo das reacções produzidas nos seres vivos por excitações eléctricas)
+
 #T=electrólito
 #D=condutor de segunda classe, ácido para acumuladores
+
 #D=elemento de uma proteína; composto de dois ou mais aminoácidos unidos por ligações peptídicas
 #T=polipeptídeo
+
 #T=eliminação
 #D=eliminação; remoção
+
 #D=eliminação de certas substâncias do sangue
 #T=depuração
+
 #D=eliminação de grandes quantidades de urina por dia
 #T=poliúria
+
 #D=eliminação espontânea do leite
 #T=galactorreia
+
 #D=eliminação prlo próprio organismo; eliminação de um medicamento sem substituição
 #T=excreção
+
 #D=eliminação; remoção
 #T=eliminação
+
 #D=em coma, que se acompanha de coma
 #T=comatoso
+
 #D=em forma de disco
 #T=discóide
+
 #D=em forma de papila ou verruga
 #T=papilar
+
 #D=em forma de sigma, da letra S
 #T=sigmóide
+
 #D=em forma de vesícula, vesiculado
 #T=vesicular
+
 #D=em laboratório
 #T=in vitro
+
 #D=em repouso
 #T=quiescente
+
 #D=em repouso, anérgico
 #T=inactivo
+
 #D=em volta do ânus
 #T=perianal
+
 #D=embolia
 #T=embolismo
+
 #T=embolismo
 #D=embolia
+
 #D=embriaguez, sonolência
 #T=letargia
+
 #T=embrião
 #D=feto
+
 #T=emésis
 #D=vómito
+
 #T=emético
 #D=substância que provoca vómitos
+
 #D=emissão frequente de fezes líquidas
 #T=diarreia
+
 #T=emocional
 #D=emocional
+
 #D=emocional
 #T=emocional
+
 #T=emoliente
 #D=que amolece a pele
+
 #T=empiema
 #D=abcesso; acumulação de pus
+
 #T=empírico
 #D=baseado na experiência
+
 #D=empolamento por contacto com líquidos, extracção de drogas por humedecimento extracção a frio
 #T=maceração
+
 #T=emulsão
 #D=emulsão
+
 #D=emulsão
 #T=emulsão
+
 #T=emulsionar
 #D=dissolver uma substância noutra
+
 #T=enantema
 #D=erupção nas mucosas
+
 #T=encefalite
 #D=inflamação do cérebro
+
 #T=encefalopatia
 #D=doença que afecta o funcionamento do cérebro
+
 #T=endémico
 #D=próprio a uma região ou população específica
+
 #T=endocardite
 #D=inflamação da membrana de revestimento interno do coração
+
 #T=endócrino
 #D=que secreta hormonas
+
 #T=endógeno
 #D=que se desenvolve ou surge num organismo
+
 #T=endometriose
 #D=proliferação da mucosa uterina fora do seu lugar habitual
+
 #T=endoscopia
 #D=exame interno por via directa com o endoscópio
+
 #T=endotélio
 #D=capa interna que reveste as cavidades cardíacas e os vasos sanguíneos e linfáticos
+
 #T=endotóxico
 #D=relativo às endotoxinas
+
 #D=endurecimento anormal de um tecido
 #T=induração
+
 #D=endurecimento da pele
 #T=liquenificação
+
 #D=endurecimento ou dureza
 #T=esclerose
+
 #T=enema
 #D=clister, irrigação
+
 #T=energético
 #D=relativo à energia
+
 #T=enfarte
 #D=congestão e bloqueamento de um vaso sanguíneo; infarto, infartação
+
 #T=enfisema
 #D=presença excessiva de ar nos pulmões ou tecidos corporais
+
 #D=enfraquecimento da vista
 #T=ambliopia
+
 #D=engolir ar
 #T=aerofagia
+
 #T=ensaio
 #D=experiência, análise
+
 #D=ensaio, experiência, análise
 #T=prova
+
 #D=entendimento, intelecto, mente
 #T=inteligência
+
 #T=enterite
 #D=catarro intestinal, colite
+
 #T=entero-hepático
 #D=referente ao intestino e ao fígado
+
 #T=enterocolite
 #D=inflamação dos intestinos delgado e grosso
+
 #D=entrada da faringe para a via aérea principal
 #T=glote
+
 #D=entre as costelas
 #T=intercostal
+
 #D=entre as vértebras
 #T=intervertebral
+
 #D=entre duas partes, isto é, no tecido conjuntivo
 #T=intersticial
+
 #D=entre indivíduos
 #T=interindividual
+
 #D=entupimento
 #T=obstrução
+
 #T=enurese
 #D=aniscuria, incontinência de urina
+
 #D=envenenamento
 #T=intoxicação
+
 #T=enzima
 #D=enzima
+
 #D=enzima (hormona) produzida pelos rins
 #T=renina
+
 #D=enzima
 #T=enzima
+
 #D=enzima encontrada nos organismos penicilino-resistentes
 #T=penicilinase
+
 #D=enzima proteolítica, enzina que destrói as proteínas
 #T=protéase
+
 #D=enzimas hepáticas (do fígado)
 #T=transaminase
+
 #T=eosinofilia
 #D=aumento das células eosinófilas no sangue
+
 #T=epicondilite
 #D=inflamação do epicôndilo (tuberosidade exterior do útero)
+
 #T=epidemia
 #D=epidemia
+
 #D=epidemia
 #T=epidemia
+
 #T=epidemiológico
 #D=relativo ao estudo da propagação das doenças
+
 #T=epidérmico
 #D=relativo à pele
+
 #T=epidural
 #D=sobre ou por fora da dura-mater
+
 #T=epifisário
 #D=relativo à cabeça de um osso largo
+
 #T=epigastralgia
 #D=dor na boca do estômago
+
 #T=epigástrico
 #D=na boca do estômago
+
 #T=epilepsia
 #D=crises convulsivas
+
 #D=epilepsia generalizada
 #T=grande mal
+
 #T=episiotomia
 #D=corte vaginal para facilitar o parto
+
 #T=episódio
 #D=episódio
+
 #D=episódio
 #T=episódio
+
 #T=epistaxe
 #D=hemorragia nasal
+
 #T=epitélio
 #D=tecido de cobertura ou de revestimento interior; pele ou mucosas
+
 #T=epitelioma
 #D=tumor da pele ou da mucosa
+
 #D=equilíbrio defeituoso dos quatro humores; composição alterada do líquido corporal
 #T=discrasia
+
 #T=equimose
 #D=derrame sanguíneo na pele traumatizada; contusão
+
 #T=equivalente
 #D=de igual valor
+
 #T=erecção
 #D='tesão'; entumescimento do pénis
+
 #D=erecção anormal e persistente
 #T=priapismo
+
 #T=ergotismo
 #D=intoxicação crónica pelo uso alimentar do centeio atacado de cravagem
+
 #T=erisipela
 #D=infecção grave e contagiosa da pele por estreptococos
+
 #T=eritema
 #D=ruborização, inflamação da pele
+
 #T=eritrasma
 #D=doença da pele que aparece sobretudo na face interna das coxas, virilhas e axilas
+
 #T=eritropoiese
 #D=formação de glóbulos vermelhos
+
 #T=erosão
 #D=desgaste; destruição ou ulceração de um tecido
+
 #T=eructação
 #D=arroto
+
 #T=erupção
 #D=evacuação súbita de sangue, pus, etc
+
 #D=erupção cutânea caracterizada pelo aparecimento de manchas vermelhas e prurido intenso
 #T=urticária
+
 #D=erupção nas mucosas
 #T=enantema
+
 #D=erupção vermelha da pele
 #T=exantema
+
 #T=escabiose
 #D=acaríase sarcóptica, sarna
+
 #D=escamação, descamação
 #T=esfoliação
+
 #T=escamoso
 #D=com escamas
+
 #T=escarlatina
 #D=anasarca, febre petequial, elefância
+
 #D=escarros de sangue, hemorragia pulmonar
 #T=hemoptise
+
 #D=escarros em forma de moeda nas tuberculoses pulmonares
 #T=numular
+
 #D=escassez ou carência total de pigmentação da pele
 #T=despigmentação
+
 #T=esclerose
 #D=endurecimento ou dureza
+
 #D=esclerose das artérias
 #T=arteriosclerose
+
 #T=esclerótica
 #D=branco do olho
+
 #D=escoamento, despejo
 #T=drenagem
+
 #D=escondido, secrecto
 #T=oculto
+
 #T=escotoma
 #D=perda da faculdade visual em zonas bem circunscritas do campo visual; escotomia
+
 #D=escrófula(s), bócio, engrossamento dos tiróides
 #T=estruma(s)
+
 #T=esfíncter
 #D=músculo constritor, que aperta
+
 #T=esfoladela
 #D=desgaste, raspagem, erosão de origem químico-física
+
 #T=esfoliação
 #D=(d)escamação
+
 #D=esgana, coqueluche, tosse convuls(iv)a
 #T=pertosse
+
 #T=esofagite
 #D=inflamação do esófago
+
 #T=espasmo
 #D=espasmo
+
 #D=espasmo
 #T=espasmo
+
 #D=espasmo dos brônquios, asma
 #T=bronco-espasmo
+
 #D=espasmo dos músculos mandibulares; tétano
 #T=trismo
+
 #D=espasmo, contracção persistente e involuntária de um ou mais
 #T=contratura
+
 #T=espasmódico
 #D=espástico, convulsivo
+
 #D=espasmódico, convulsivo
 #T=espástico
+
 #T=espasmolítico
 #D=medicamento que serve para resolver os espasmos
+
 #T=espasticidade
 #D=contractura muscular
+
 #T=espástico
 #D=espasmódico, convulsivo
+
 #D=espástico, convulsivo
 #T=espasmódico
+
 #T=espécie
 #D=espécie; preparação terapêutica, mistura de ervas
+
 #D=espécie; preparação terapêutica, mistura de ervas
 #T=espécie
+
 #T=específico
 #D=característico de uma espécie ou de uma doença
+
 #T=espectro
 #D=zona de actividade de um antibiótico
+
 #T=espermatogénese
 #D=processo de formação dos espermatozóides
+
 #T=espermicida
 #D=que mata os espermatozóides
+
 #T=espinal
 #D=relativo à coluna vertebral
+
 #T=esplenomegalia
 #D=hipertrofia do baço, aumento de tamanho ou volume do baço
+
 #T=espondilite
 #D=inflamação das vértebras
+
 #T=esporádico
 #D=não epidérmico ou não amplamente difundido; ocasional
+
 #T=esputo
 #D=cuspo, cuspe, saliva, escarro
+
 #D=esquecimento, perda de memória
 #T=amnésia
+
 #T=esquelético
 #D=relativo ao esqueleto, magro
+
 #T=esquizofrenia
 #D=psicose, doença mental em que o doente se alheia do mundo que o rodeia e se refugia em si mesmo
+
 #T=estabilidade
 #D=estabilidade
+
 #D=estabilidade
 #T=estabilidade
+
 #T=estabilização
 #D=criação de um estado estável
+
 #T=estado
 #D=condição, situação; crise ou ponto culminante
+
 #D=estado antenatal que precede as convulsões eclâmpticas
 #T=preeclampsia
+
 #D=estado caracterizado por cãibras e convulsões musculares
 #T=tetania
+
 #D=estado de alerta ou observação
 #T=vigilância
+
 #T=estado de equilíbrio
 #D=situação em que uma variável se mantém imutável
+
 #D=estado de equilíbrio orgânico
 #T=homeostase
+
 #D=estado de quem não alcançou o seu pleno desenvolvimento
 #T=imaturidade
+
 #D=estado febril
 #T=pirexia
+
 #D=estado geral, capacidade física de um indivíduo
 #T=condição
+
 #D=estancamento do sangue
 #T=hemostasia
+
 #D=estancamento do sangue ou de qualquer outro líquido orgânico
 #T=estase
+
 #D=estandardização, padronização, unificação
 #T=normalização
+
 #T=estandardizar
 #D=normalizar, unificar, padronizar
+
 #D=estanque (ao ar), impermeável (ao ar)
 #T=hermético
+
 #T=estase
 #D=estancamento do sangue ou de qualquer outro líquido orgânico
+
 #T=estatístico
 #D=estatístico
+
 #D=estatístico
 #T=estatístico
+
 #T=esteatorreia
 #D=excesso de gordura nas fezes; estearreia, seborreia
+
 #T=esteatose
 #D=acumulação excessiva de glóbulos gordos nos tecidos
+
 #T=estenose
 #D=estreitamento de um conduto, aperto, constrição
+
 #T=esterilidade
 #D=incapacidade de fecundar ou conceber
+
 #T=esterilização
 #D=procedimento que torna um indivíduo incapaz de reproduzir
+
 #D=esterilização, ausência de micróbios
 #T=assepsia
+
 #D=esterilizado, sem germes
 #T=asséptico
+
 #T=esteróide
 #D=tipo de composto químico
+
 #D=estimulação excessiva
 #T=hiperestimulação
+
 #T=estimulante
 #D=excitante
+
 #D=estimular ou acelerar, reactivar
 #T=activar
+
 #D=estímulo, estimulação, excitação
 #T=irritação
+
 #D=estiramento excessivo de um músculo
 #T=distensão
+
 #T=estomatite
 #D=inflamação da mucosa da boca
+
 #T=estomatológico
 #D=parte da medicina que estuda a boca e suas doenças
+
 #T=estrabismo
 #D=desvio de um olho da sua direcção normal
+
 #D=estreitamento de um conduto, aperto, constrição
 #T=estenose
+
 #D=estreitamento dos vasos sanguíneos; angiostenose
 #T=vasoconstrição
+
 #T=estria
 #D=lista, raia; fibras nervosas cerebrais
+
 #T=estrogénio
 #D=tipo de hormona sexual feminina
+
 #T=estruma(s)
 #D=escrófula(s), bócio, engrossamento dos tiróides
+
 #T=estrutural
 #D=estrutural
+
 #D=estrutural
 #T=estrutural
+
 #D=estudo da origem de uma doença
 #T=etiologia
+
 #D=estudo da sensibilidade de um micróbio a vários antibióticos
 #T=antibiograma
+
 #D=estudo das doenças do ouvido, nariz e garganta
 #T=otorrinolaringologia
+
 #D=estudo de um fenómeno
 #T=observação
+
 #D=estudo do efeito de um medicamento sobre o organismo
 #T=farmacodinâmica
+
 #T=estupor
 #D=perda parcial ou quase total da consciência; obnubilação, torpor
+
 #D=esvaziamento por punção
 #T=paracentese
+
 #T=etiologia
 #D=estudo da origem de uma doença
+
 #T=euforia
 #D=sensação anormal de bem-estar
+
 #T=evacuação
 #D=evacuação
+
 #D=evacuação
 #T=evacuação
+
 #D=evacuação dos excrementos
 #T=defecação
+
 #D=evacuação intestinal
 #T=passagem
+
 #D=evacuação súbita de sangue, pus, etc
 #T=erupção
+
 #D=evita a deterioração de um produto por oxidação
 #T=antioxidante
+
 #T=evolução
 #D=desenvolvimento
+
 #T=exacerbação
 #D=pioramento, gravamento
+
 #D=exame do ângulo da câmara interna do olho
 #T=gonioscopia
+
 #D=exame do interior da bexiga com o cistoscópio
 #T=cistoscopia
+
 #D=exame e inscrição em registo dos movimentos cardíacos
 #T=electrocardiografia
+
 #D=exame interno por via directa com o endoscópio
 #T=endoscopia
+
 #T=exantema
 #D=erupção vermelha da pele
+
 #T=exceptuado
 #D=não compreendido, sem contar
+
 #T=excessivo
 #D=demasiado
+
 #D=excesso de ácido úrico no sangue
 #T=hiperuricemia
+
 #D=excesso de ácidos e corpos cetónicos no sangue
 #T=ceto-acidose
+
 #D=excesso de actividade motriz
 #T=hipercenesia
+
 #D=excesso de fluxo de sangue na menstruação
 #T=menorragia
+
 #D=excesso de glicose no sangue
 #T=hiperglicemia
+
 #D=excesso de gordura nas fezes; estearreia, seborreia
 #T=esteatorreia
+
 #D=excesso de líquido nos tecidos (edema) do disco óptico, da papila
 #T=papiloedema
+
 #D=excesso de líquido nos tecidos sob a pele; inchaço
 #T=edema
+
 #D=excesso de peso corporal por acumulação de gordura
 #T=obesidade
+
 #D=excesso de potássio no sangue
 #T=hipercalemia
+
 #D=excesso de sangue nos vasos de órgão
 #T=hiperemia
+
 #D=excesso de sangue numa parte do organismo
 #T=congestão
+
 #D=excesso de vitaminas no organismo
 #T=hipervitaminose
+
 #T=excipiente
 #D=substância inerte num preparado farmacológico
+
 #T=excitação
 #D=irritação, estímulo, estimulação
+
 #D=excitante
 #T=estimulante
+
 #T=excreção
 #D=eliminação prlo próprio organismo; eliminação de um medicamento sem substituição
+
 #D=excreção de quantidades anormais de sódio na urina
 #T=natriurese
+
 #D=excreção excessiva de substâncias gordas
 #T=seborreia
+
 #D=excrescência similar à verruga
 #T=condiloma
+
 #D=existente mas não activo
 #T=potencial
+
 #T=exócrino
 #D=de secreção externa
+
 #T=exoftalmia
 #D=olhos salientes
+
 #T=exógeno
 #D=por causas externas; introduzido no corpo do exterior
+
 #D=expansão de um órgão; alargamento
 #T=dilatação
+
 #T=expansor plasmático
 #D=substância que se injecta para aumentar o volume sanguíneo
+
 #T=expectorante
 #D=remédio para desprender o muco dos pulmões e facilitar a tosse
+
 #D=experiência, análise
 #T=ensaio
+
 #T=experimental
 #D=baseado em ensaios
+
 #T=expiração
 #D=expiração
+
 #D=expiração
 #T=expiração
+
 #D=expressão de ideias ou pensamentos por meio de gestos
 #T=mímica
+
 #D=exsudação excessiva
 #T=hiperidrose
+
 #T=exsudado
 #D=líquido que aparece numa superfície inflamada
+
 #T=extensão
 #D=movimento de endireitar uma articulação
+
 #D=exteriorização de uma doença
 #T=manifestação
+
 #T=externo
 #D=externo, estranho
+
 #D=externo, estranho
 #T=externo
+
 #T=extra-renal
 #D=situado fora dos rins
+
 #T=extra-sístole
 #D=pulsação fora do tempo
+
 #T=extracção
 #D=ablação
+
 #T=extracelular
 #D=fora das células
+
 #T=extracorporal
 #D=fora do corpo
+
 #T=extracto
 #D=preparação concentrada de uma droga
+
 #T=extrapiramidal
 #D=situado fora da via piramidal
+
 #T=extravasação
 #D=derrame do fluido de um vaso para os tecidos circundantes devido a uma lesão
+
 #T=extravascular
 #D=situado fora de um vaso
+
 #D=extremamente pequeno
 #T=microscópico
+
 #T=extremidade
 #D=membros superior e inferior
+
 #T=extremo
 #D=que está afastado
+
 #D=fabricação, geração
 #T=produção
+
 #T=facial
 #D=relativo à cara
+
 #T=factor
 #D=causa, agente, meio; número
+
 #T=factor de risco
 #D=factor de risco
+
 #D=factor de risco
 #T=factor de risco
+
 #D=faculdade de se mover espontaneamente
 #T=motilidade
+
 #T=fagocitose
 #D=incorporação e digestão de partículas no interior de uma célula
+
 #D=falata de ritmo regular, pulsação irregular
 #T=arritmia
+
 #T=fálico
 #D=relativo ao membro viril
+
 #D=falso tumor
 #T=pseudo-tumor
+
 #D=falta de acção, inactividade
 #T=anergia
+
 #D=falta de água no corpo
 #T=desidratação
+
 #D=falta de cheiro
 #T=anosmia
+
 #D=falta de equilíbrio
 #T=instabilidade
+
 #D=falta de força, fraqueza muscular
 #T=miastenia
+
 #D=falta de oxigénio no organismo por respiração deficiente
 #T=anoxia
+
 #D=falta de sangue
 #T=anemia
+
 #D=falta de sono, insonolência
 #T=insónia
+
 #D=falta ou carência
 #T=privação
+
 #D=falta ou diminuição da secreção do leite
 #T=agalactia
+
 #T=faringite
 #D=inflamação da garganta
+
 #T=farmacêutico
 #D=relativo à farmácia
+
 #T=fármaco
 #D=medicamento
+
 #D=fármaco com efeito sedente
 #T=psicoléptico
+
 #D=fármaco com o excesso de acidez do estômago
 #T=antiácido
+
 #D=fármaco com o excesso de acidez do estômago
 #T=antiácido
+
 #D=fármaco com potência e efeito similares a outra
 #T=bio-equivalente
+
 #D=fármaco para tratar infecções
 #T=antibiótico
+
 #D=fármaco que impede a coagulação do sangue
 #T=anticoagulante
+
 #T=farmacocinética
 #D=ciência que se ocupa do efeito exercido pelo organismo sobre o medicamento
+
 #T=farmacodinâmica
 #D=estudo do efeito de um medicamento sobre o organismo
+
 #T=farmacológico
 #D=relativo à ciência que investiga os medicamentos
+
 #T=fasciculação
 #D=contracção de grupos de músculos
+
 #T=fase
 #D=período dentro de uma evolução constante
+
 #D=fase de recuperação
 #T=reconvalescença
+
 #T=fatal
 #D=letal, letífero, mortífero
+
 #D=febre elevada
 #T=hiperpirexia
+
 #T=febril
 #D=que tem febre, pirético
+
 #T=fecal
 #D=relativo às fezes
+
 #D=fecundação
 #T=concepção
+
 #D=fecundação do óvulo;
 #T=impregnação
+
 #D=feixe fibroso entre dos ossos numa articulação
 #T=ligamento
+
 #T=femoral
 #D=pertencente ao osso da coxa
+
 #D=fenda
 #T=fissura
+
 #T=fenómeno
 #D=manifestação, sinal, sintoma
+
 #D=ferida irregular
 #T=laceração
+
 #D=ferida; lesão interna por golpe, compressão ou choque
 #T=contusão
+
 #T=fermentação
 #D=transformação de substâncias orgânicas noutras substâncias orgânicas
+
 #T=ferropénico
 #D=que tem falta de ferro
+
 #T=fertilidade
 #D=fertilidade
+
 #D=fertilidade
 #T=fertilidade
+
 #T=fetal
 #D=relativo ao feto
+
 #D=feto
 #T=embrião
+
 #T=fetoplacentário
 #D=relativo ao intercâmbio entre o feto e placenta
+
 #T=fetotóxico
 #D=tóxico para o feto/embrião
+
 #T=fezes
 #D=matérias fecais, excrementos
+
 #D=fezes negras pela presença de sangue
 #T=melena
+
 #D=fiabilidade de um processo de prova
 #T=validez
+
 #T=fibrilação
 #D=contracções desordenadas e ineficientes do coração
+
 #T=fibrina
 #D=fibrina
+
 #D=fibrina
 #T=fibrina
+
 #T=fibrinolítico
 #D=que dissolve a fibrina
+
 #T=fibrose
 #D=aumento anormal do tecido conjuntivo
+
 #T=fibrose cística
 #D=defeito hereditário de muitas glândulas
+
 #T=filtração
 #D=filtragem, filtramento
+
 #D=filtragem da circulação do sangue
 #T=hemodiálise
+
 #D=filtragem, filtramento
 #T=filtração
+
 #D=final, último
 #T=terminal
+
 #T=físico
 #D=corporal, que se percebe pelos sentidos
+
 #T=físico-químico
 #D=relativo à física e à química
+
 #T=fisiológico
 #D=normal, não devido a uma doença; relativo ao estudo das funções dos organismos vivos
+
 #T=fissura
 #D=fenda
+
 #T=fístula
 #D=comunicação anormal entre dois órgãos entre si ou com o exterior
+
 #T=fixação
 #D=fixação; detenção do desenvolvimento da personalidade numa determinada etapa; apego a outra pessoa
+
 #D=fixação; detenção do desenvolvimento da personalidade numa determinada etapa; apego a outra pessoa
 #T=fixação
+
 #T=flácido
 #D=frouxo, mole, languido
+
 #T=flatulência
 #D=gases no estômago ou no intestino, ventosidade, aerenterectasia
+
 #T=flebite
 #D=inflamação das paredes de uma veia
+
 #D=flebite, inflamação de uma veia
 #T=angiite
+
 #T=flebografia
 #D=radiografia das veias
+
 #T=fleimão
 #D=inflamação difusa
+
 #T=flexão
 #D=flexão
+
 #D=flexão
 #T=flexão
+
 #T=flora intestinal
 #D=conjunto de bactérias no intestino grosso
+
 #D=fluido corporal
 #T=humor
+
 #D=flúor branco
 #T=corrimento
+
 #D=flutuação, oscilação; alteração, mudança, modificação das propriedades
 #T=variação
+
 #D=fluxo de retorno
 #T=refluxo
+
 #D=fluxo de sangue em todo o sistema de vasos minúsculos
 #T=microcirculação
+
 #T=fobia
 #D=medo despropositado persistente
+
 #T=focalização
 #D=restrição a uma área determinada
+
 #T=foliculite
 #D=inflamação de um ou mais folículos pilosos
+
 #T=fontanela
 #D=molarinha do recém-nascido
+
 #D=fora das células
 #T=extracelular
+
 #D=fora do centro, fora do sistema nervoso central
 #T=periférico
+
 #D=fora do corpo
 #T=extracorporal
+
 #D=forma de velosidade à superfície de uma célula
 #T=microvilosidade
+
 #D=formação de coágulos no sangue
 #T=coagulação
+
 #D=formação de cristais
 #T=cristalização
+
 #D=formação de cristais na urina
 #T=cristalúria
+
 #D=formação de glóbulos vermelhos
 #T=eritropoiese
+
 #D=formação de leite
 #T=lactação
+
 #D=formação de pus
 #T=supuração
+
 #D=formação do osso ou de substância óssea
 #T=ossificação
+
 #D=formação e excreção de urina
 #T=diurese
+
 #D=formação excessiva de escamas na pele
 #T=(d)escamação
+
 #D=formação insuficiente das células do sangue
 #T=anemia aplástica
+
 #T=fotofobia
 #D=que foge da luz (que tem aversão à luz)
+
 #D=fotografia como através do microscópio; análise com o microscópio
 #T=micrografia
+
 #T=fotossensibilidade
 #D=sensibilidade à luz, resposta normal da pele à luz
+
 #T=fotossensibilização
 #D=sensibilização à luz, reacção normal da pele à luz
+
 #T=fracção
 #D=número fraccionário (número) quebrado; porção, parte
+
 #T=fracção de ejecção
 #D=fracção de ejecção
+
 #D=fracção de ejecção
 #T=fracção de ejecção
+
 #T=fractura
 #D=fractura, rotura, quebra
+
 #D=fractura, rotura, quebra
 #T=fractura
+
 #D=fragmento de tecido morto separado do tecido são
 #T=sequestro
+
 #D=fraqueza, cansaço
 #T=lassitude
+
 #D=fraqueza, cansaço físico intenso
 #T=astenia
+
 #D=frasco de X comprimidos recobertos de plástico
 #T='blister'
+
 #T=frequência
 #D=número de períodos
+
 #T=frigidez
 #D=insensibilidade sexual, anafrodisia
+
 #D=frouxo, mole, languido
 #T=flácido
+
 #D=ftiríase, doença pedicular, infestação por piolhos
 #T=pediculose
+
 #T=função
 #D=função
+
 #D=função
 #T=função
+
 #D=função inadequada de um órgão ou sistema
 #T=insuficiência
+
 #T=fundamental
 #D=fundamental
+
 #D=fundamental
 #T=fundamental
+
 #T=fungicida
 #D=destruição de fungos
+
 #T=fungistático
 #D=impede a multiplicação de fungos
+
 #T=fungo
 #D=fungo, tumor em forma de fungo
+
 #D=fungo, tumor em forma de fungo
 #T=fungo
+
 #T=furunculose
 #D=aparecimento de furúnculos
+
 #D=gaguez
 #T=disartria
+
 #T=galactorreia
 #D=eliminação espontânea do leite
+
 #T=galénico
 #D=preparado a partir de drogas vegetais em vez de substâncias químicas
+
 #T=gânglio
 #D=caroço
+
 #T=gangrena
 #D=grangrena, esfacelo
+
 #D=gangrena simétrica das extremidades
 #T=doença de Raynaud
+
 #D=garrotilho
 #T=difteria
+
 #D=gases no estômago ou no intestino, ventosidade, aerenterectasia
 #T=flatulência
+
 #T=gastralgia
 #D=dor do estômago, gastrodinia, cardialgia
+
 #T=gastrenterite
 #D=inflamação do estômago e do intestino delgado
+
 #T=gastrintestinal
 #D=relativo ao estômago e aos intestinos
+
 #T=gastrite
 #D=catarro gástrico
+
 #T=gastro-esofágico
 #D=relativo ao estômago e ao esófago
+
 #T=gastroduodenal
 #D=relativo ao estômago e ao intestino delgado
+
 #D=género de fungos ascomicetes, parasitas no homem
 #T=microspório
+
 #T=genético
 #D=relativo aos genes
+
 #T=gengivite
 #D=inflamação superficial da gengivas
+
 #T=genital
 #D=relativo aos órgãos sexuais
+
 #T=geniturinário
 #D=relativo aos órgãos genitais e urinários
+
 #D=geração, reprodução, propagação
 #T=procriação
+
 #T=geriátrico
 #D=relativo à medicina que trata as doenças dos velhos
+
 #T=germicida
 #D=substância que destrói os germes
+
 #T=gestação
 #D=gravidez
+
 #T=ginecológico
 #D=ginecológico
+
 #D=ginecológico
 #T=ginecológico
+
 #T=ginecomastia
 #D=aumento dos peitos
+
 #T=glaucoma
 #D=pressão anormal no globo ocular
+
 #T=glicose
 #D=glicose
+
 #D=glicose
 #T=glicose
+
 #T=glicósido
 #D=glicósido
+
 #D=glicósido
 #T=glicósido
+
 #T=glicosúria
 #D=presença de glicose nas urinas
+
 #D=glóbulo branco
 #T=leucócito
+
 #T=glomerular
 #D=relativo à parte filtrante dos rins
+
 #T=glossite
 #D=inflamação da língua
+
 #T=glossodinia
 #D=dor na língua
+
 #T=glote
 #D=entrada da faringe para a via aérea principal
+
 #T=glumerolonefrite
 #D=doença renal com inflamação dos glomérulos
+
 #T=glúten
 #D=proteína de diversos cereais
+
 #T=gonádico
 #D=relativo às glândulas sexuais
+
 #T=gonadotrópico
 #D=que estimula as glândulas sexuais
+
 #T=gonioscopia
 #D=exame do ângulo da câmara interna do olho
+
 #T=gonorreia
 #D=infecção bacteriana pelo gonococo que invade as mucosas da uretra e do útero; esquentamento
+
 #D=gordura ou substância idêntica
 #T=lípido
+
 #T=gradual
 #D=gradual
+
 #D=gradual
 #T=gradual
+
 #T=Gram-negativo
 #D=que não toma o corante de Gram
+
 #T=Gram-positivo
 #D=que toma o corante de Gram
+
 #T=grande mal
 #D=epilepsia generalizada
+
 #D=grande sensibilidade à dor
 #T=hiperalgesia
+
 #D=grande, amplo
 #T=maciço
+
 #D=grangrena, esfacelo
 #T=gangrena
+
 #T=granulopenia
 #D=diminuição dos glóbulos brancos
+
 #T=grânulos
 #D=preparação farmacológica em forma de grânulos
+
 #D=grau de fluidez das substâncias em estado líquido ou gasoso
 #T=viscosidade
+
 #D=grau de força ou tensão
 #T=intensidade
+
 #D=grau, riqueza
 #T=concentração
+
 #T=gravidez
 #D=gravidez
+
 #D=gravidez
 #T=gestação
+
 #D=gravidez
 #T=gravidez
+
 #D=gripe violenta e epidémica
 #T=influenza
+
 #D=grupo de opostos aparentados com a hemoglobina do sangue
 #T=citocrómio
+
 #T=habitual
 #D=acostumado
+
 #T=hematémese
 #D=vómitos de sangue
+
 #D=hematólise, globulólise, desintegração das células sanguíneas
 #T=hemólise
+
 #T=hematológico
 #D=relativo à hematologia (estudo do sangue e das suas afecções)
+
 #T=hematoma
 #D=hemorragia para dentro dos tecidos
+
 #T=hematúria
 #D=sangue nas urinas, emissão de sangue pelas vias urinárias
+
 #T=hemeralopia
 #D=cegueira diurna
+
 #T=hemiplegia
 #D=paralisia de um lado do corpo
+
 #T=hemodiálise
 #D=filtragem da circulação do sangue
+
 #T=hemofilia
 #D=dificuldade de coagulação do sangue
+
 #T=hemólise
 #D=hematólise, globulólise, desintegração das células sanguíneas
+
 #T=hemopatia
 #D=doença do sangue
+
 #T=hemoperfusão
 #D=perfusão no sangue
+
 #T=hemopoiético
 #D=relativo ao fabrico de glóbulos vermelhos
+
 #T=hemoptise
 #D=escarros de sangue, hemorragia pulmonar
+
 #T=hemorragia
 #D=perda de sangue
+
 #D=hemorragia nasal
 #T=epistaxe
+
 #D=hemorragia para dentro dos tecidos
 #T=hematoma
+
 #D=hemorragia sanguínea uterina não menstrual
 #T=metrorragia
+
 #T=hemorróides
 #D=veias distendidas na junção do recto e do canal anal; almorróidas almorródias
+
 #T=hemostasia
 #D=estancamento do sangue
+
 #T=hepático
 #D=relativo ao fígado
+
 #T=hepatite
 #D=inflamação do fígado
+
 #T=hepatobiliar
 #D=relativo ao fígado e às condutas biliares
+
 #T=hepatocelular
 #D=relativo às células do fígado
+
 #T=hepatomegalia
 #D=aumento do fígado
+
 #T=hepatotóxico
 #D=tóxico para o fígado
+
 #T=hereditariedade
 #D=hereditariedade
+
 #D=hereditariedade
 #T=hereditariedade
+
 #T=hermético
 #D=estanque (ao ar), impermeável (ao ar)
+
 #T=hérnia
 #D=tumor mole com abertura de membrana
+
 #T=herpes simplex
 #D=conjunto de vesículas inflamadas à volta da boca
+
 #T=herpes zóster
 #D=vírus instalado à volta das células sensitivas
+
 #T=hidratação
 #D=hidratação
+
 #D=hidratação
 #T=hidratação
+
 #D=hidrato de carbono
 #T=carboidrato
+
 #T=hidrocefalia
 #D=cabeça de água
+
 #T=hidrófilo
 #D=que absorve a água, é atraído pela água
+
 #T=hidrófobo
 #D=que tem horror à água ou foge dela
+
 #T=hidrólise
 #D=reacção de desdobramento de uma molécula por acção da água
+
 #T=hidroxilação
 #D=hidroxilação
+
 #D=hidroxilação
 #T=hidroxilação
+
 #T=higiénico
 #D=higiénico
+
 #D=higiénico
 #T=higiénico
+
 #T=hiper-reflexia
 #D=reflexos aumentados
+
 #T=hiperaldosteronismo
 #D=produção excessiva de aldoresterona pela glândula supra-renal
+
 #T=hiperalgesia
 #D=grande sensibilidade à dor
+
 #T=hiperbárico
 #D=aumento da pressão de O2 no sangue
+
 #T=hipercalemia
 #D=excesso de potássio no sangue
+
 #T=hipercapnia
 #D=aumento de O2 no sangue
+
 #T=hipercenesia
 #D=excesso de actividade motriz
+
 #T=hiperceratose
 #D=aumento da espessura da capa córnea da pele
+
 #T=hiperémese
 #D=vómitos excessivos
+
 #T=hiperemia
 #D=excesso de sangue nos vasos de órgão
+
 #T=hiperestesia
 #D=aumento da sensibilidade nervosa
+
 #T=hiperestimulação
 #D=estimulação excessiva
+
 #T=hiperglicemia
 #D=excesso de glicose no sangue
+
 #T=hiperidrose
 #D=exsudação excessiva
+
 #T=hiperlipidemia
 #D=aumento de lípidos no sangue
+
 #T=hiperostose
 #D=hipertrofia de um osso
+
 #T=hiperpirexia
 #D=febre elevada
+
 #T=hiperplasia
 #D=aumento do desenvolvimento
+
 #T=hipersecreção
 #D=secreção excessiva de uma glândula
+
 #T=hipersensibilidade
 #D=sensibilidade excessiva, alergia
+
 #D=hipersensibilidade
 #T=alergia
+
 #T=hipertensão
 #D=aumento da tensão
+
 #T=hipertermia
 #D=aumento da temperatura, acaloramento
+
 #T=hipertiroidismo
 #D=actividade excessiva da tiróide
+
 #T=hipertonia
 #D=aumento da tensão no olho
+
 #T=hipertricose
 #D=aumento da espessura do pêlo do corpo
+
 #T=hipertrofia
 #D=maior crescimento de um tecido por aumento, sem multiplicação, das suas células
+
 #D=hipertrofia de um osso
 #T=hiperostose
+
 #D=hipertrofia do baço, aumento de tamanho ou volume do baço
 #T=esplenomegalia
+
 #D=hipertrofia e obstrução da próstata
 #T=prostatismo
+
 #T=hiperuricemia
 #D=aumento do ácido úrico
+
 #T=hiperuricemia
 #D=excesso de ácido úrico no sangue
+
 #T=hiperventilação
 #D=diminuição do volume de ar que entra nos pulmões; respiração lenta e superficial
+
 #T=hiperventilação
 #D=respiração difícil, rápida e profunda; aumento do volume de ar que entra nos pulmões
+
 #T=hipervitaminose
 #D=excesso de vitaminas no organismo
+
 #T=hipervolemia
 #D=aumento dos fluidos no organismo
+
 #T=hipnótico
 #D=sonífero
+
 #T=hipocalemia
 #D=diminuição de potássio no sangue
+
 #T=hipocondria
 #D=preocupação indevida de uma pessoa pela sua saúde
+
 #T=hipodérmico
 #D=subcutâneo
+
 #T=hipofisário
 #D=relativo à hipófice
+
 #T=hipoglicemia
 #D=diminuição do nível de glicose no sangue
+
 #T=hipogonadismo
 #D=sub-desenvolvimento dos órgãos sexuais
+
 #T=hipomania
 #D=mania ligeira
+
 #D=hipometropia, visão curta, vista-curta
 #T=miopia
+
 #T=hipoplasia
 #D=pouco desenvolvido
+
 #T=hipotalámico
 #D=situado na metade inferior do cérebro; relativo ao hipotálamo
+
 #T=hipotensão
 #D=pressão sanguínea anormalmente baixa
+
 #T=hipotenso
 #D=com tensão ou pressão baixa
+
 #T=hipotermia
 #D=baixa de temperatura
+
 #T=hipótese
 #D=abstracção, suposição
+
 #T=hipotiroidismo
 #D=actividade insuficiente da tiróide
+
 #T=hipotonia
 #D=moleza
+
 #T=hipotrofia
 #D=atraso de desenvolvimento
+
 #T=hipovitaminose
 #D=necessidade de uma ou várias vitaminas essenciais
+
 #T=hipovolemia
 #D=diminuição do sangue circulante
+
 #T=hipoxemie
 #D=diminuição de O2 no sangue
+
 #T=hipoxia
 #D=diminuição de O2 no sangue
+
 #T=hirsutismo
 #D=desenvolvimento exagerado do sistema piloso
+
 #T=histerectomia
 #D=operação cirúrgica do útero
+
 #T=histológico
 #D=relativo à histologia (parte da anatomia que trata dos tecidos orgânicos)
+
 #T=homeostase
 #D=estado de equilíbrio orgânico
+
 #T=homogéneo
 #D=da mesma categoria, da mesma espécie, de estrutura igual; que tem as mesmas funções
+
 #T=homólogo
 #D=igual
+
 #T=hormonal
 #D=relativo às hormonas
+
 #D=hormonas mineralocorticosteróides
 #T=mineralocorticóide
+
 #D=hormônio adreno-córticotrófico, corticotrofina
 #T=ACTH
+
 #D=hormônio do crescimento
 #T=somatrotopina
+
 #D=hormônio que prepara o útero para a recepção e desenvolvimento do óvulo fecundado
 #T=progestogeno
+
 #T=hospitalização
 #D=internar num hospital
+
 #T=humor
 #D=fluido corporal
+
 #T=humoral
 #D=relativo aos fluidos corporais
+
 #T=iatorgénico
 #D=doença provocada pelos médicos ou pelo tratamento
+
 #T=icterícia
 #D=icterícia
+
 #D=icterícia
 #T=icterícia
+
 #T=ictiose
 #D=defeito hereditário da pele; pele de peixe
+
 #D=ideia fixa
 #T=obsessão
+
 #T=idêntico
 #D=análogo
+
 #T=identificação
 #D=assimilação inconsciente com outra pessoa
+
 #D=identificação ou reconhecimento das doenças
 #T=diagnóstico
+
 #T=idiopático
 #D=de causa desconhecida, primário, espontâneo
+
 #T=idiossincrasia
 #D=alergia a uma substância específica
+
 #D=igual
 #T=homólogo
+
 #T=ileite
 #D=inflamação do íleo (última parte do intestino delgado), doença de Crohen
+
 #T=íleo
 #D=oclusão intestinal
+
 #D=imagem deformada, torção
 #T=distorção
+
 #T=imaturidade
 #D=estado de quem não alcançou o seu pleno desenvolvimento
+
 #T=imobilização
 #D=corpo em repouso, ou alguma das suas partes
+
 #D=impede a multiplicação de fungos
 #T=fungistático
+
 #T=impetigo
 #D=infecção das camadas exteriores da pele; impetigem
+
 #T=implantação
 #D=nidação do embrião na mucosa do útero da mãe, cerca de seis dias após a concepção
+
 #D=implantação do óvulo na cavidade uterina
 #T=nidação
+
 #D=implantação; ponto de união entre um músculo e um osso
 #T=inserção
+
 #T=implicação
 #D=implicação
+
 #D=implicação
 #T=implicação
+
 #D=importante
 #T=relevante
+
 #T=impotência
 #D=incapacidade de realização do coito; falta de virilidade; anandria, assinodia
+
 #T=impregnação
 #D=fecundação do óvulo;
+
 #T=imune
 #D=relativo ao sistema imunitário; insensível
+
 #T=imunidade
 #D=resistência natural às infecções
+
 #T=imunização
 #D=obtenção da imunidade pelo organismo
+
 #T=imunogénico
 #D=que causa imunidade
+
 #T=imunológico
 #D=relativo aos sistema imunitário
+
 #T=imunossupressor
 #D=que diminui a defesa do organismo
+
 #T=in situ
 #D=no seu lugar
+
 #T=in vitro
 #D=em laboratório
+
 #T=in vivo
 #D=que está situado ou ocorre num corpo vivo
+
 #D=inactividade, incapacidade de se mover espontaneamente
 #T=inércia
+
 #T=inactivo
 #D=em repouso, anérgico
+
 #T=inadequado
 #D=não apropriado
+
 #T=inalação
 #D=aspiração de gases e vapores
+
 #D=inanimado, sem vida
 #T=inorgânico
+
 #D=inapetência, falta de apetite
 #T=anorexia
+
 #D=inato, implantado naturalmente
 #T=inerente
+
 #D=incapacidade
 #T=incompetência
+
 #D=incapacidade de fecundar ou conceber
 #T=esterilidade
+
 #D=incapacidade de realização do coito; falta de virilidade; anandria, assinodia
 #T=impotência
+
 #D=incapacidade de suportar um medicamento
 #T=intolerância
+
 #D=incapacidade em permanecer sentado
 #T=acatisia
+
 #T=incarceração
 #D=incarceração
+
 #D=incarceração
 #T=incarceração
+
 #D=inchaço sem inflamação
 #T=angioedema
+
 #T=incidência
 #D=incidência
+
 #D=incidência
 #T=incidência
+
 #T=incidental
 #D=incidental
+
 #D=incidental
 #T=incidental
+
 #T=incisão
 #D=corte
+
 #T=incisivo
 #D=penetrante
+
 #D=inclinação, propensão
 #T=tendência
+
 #T=inclusivo
 #D=incluso
+
 #D=incluso
 #T=inclusivo
+
 #T=incompatível
 #D=não adequado para administração simultânea
+
 #T=incompetência
 #D=incapacidade
+
 #T=incontinência
 #D=não segura as fezes ou as urinas
+
 #D=incontinência das urinas durante a noite
 #T=nictúria
+
 #T=incorporação
 #D=união de uma substância no interior do organismo
+
 #D=incorporação de substâncias minerais por meio de tecidos do organismo
 #T=mineralização
+
 #D=incorporação e digestão de partículas no interior de uma célula
 #T=fagocitose
+
 #T=incubação
 #D=período entre o contágio e a manifestação da doença; choco
+
 #D=indagação, pesquisa
 #T=investigação
+
 #D=independente, fora do controlo consciente
 #T=autónomo
+
 #T=indicação
 #D=circunstância que indica a utilização de uma terapia
+
 #D=indicações
 #T=instrução
+
 #T=indicar
 #D=apontar
+
 #T=indicativo
 #D=indicativo
+
 #D=indicativo
 #T=indicativo
+
 #D=indiferença, aversão
 #T=apatia
+
 #T=indirecto
 #D=que actua através de um agente intermédio
+
 #T=indisposição
 #D=mal-estar
+
 #T=individual
 #D=individual
+
 #D=individual
 #T=individual
+
 #D=indivíduo com eretismo do aparelho vascular e vasomotor, de origem nervosa
 #T=angioneurótico
+
 #T=indução
 #D=método de aplicação de uma anestesia geral; provocação de um processo
+
 #T=induração
 #D=endurecimento anormal de um tecido
+
 #D=indutor de malformações fetais
 #T=teratogénico
+
 #T=inércia
 #D=inactividade, incapacidade de se mover espontaneamente
+
 #T=inerente
 #D=inato, implantado naturalmente
+
 #T=inervação
 #D=suprimento nervoso ou a condução de impulsos nervosos de um local para outro
+
 #T=inespecífico
 #D=não específico, não característico
+
 #D=inexistência de glóbulos no sangue, doença de Pfeiffer
 #T=agranulocitose
+
 #T=infantil
 #D=relativo à infância
+
 #T=infecção
 #D=infecção
+
 #D=infecção
 #T=infecção
+
 #D=infecção bacteriana pelo gonococo que invade as mucosas da uretra e do útero; esquentamento
 #T=gonorreia
+
 #T=infecção cruzada
 #D=contágio mútuo entre duas pessoas por doenças infecciosas diferentes
+
 #D=infecção da pele
 #T=pioderma
+
 #D=infecção das camadas exteriores da pele; impetigem
 #T=impetigo
+
 #D=infecção de um dos anexos da vista
 #T=iridociclite
+
 #D=infecção dos ossos
 #T=osteomielite
+
 #D=infecção grave e contagiosa da pele por estreptococos
 #T=erisipela
+
 #D=infecção na pele das dobras
 #T=intertrigo
+
 #D=infecção por fungo do género Candida
 #T=candidíase
+
 #D=infeccioso, que produz pus
 #T=piogénico
+
 #T=infiltração
 #D=infiltração
+
 #D=infiltração
 #T=infiltração
+
 #D=infirmar
 #T=invalidar
+
 #T=inflamação
 #D=inflamação
+
 #D=inflamação
 #T=inflamação
+
 #D=inflamação conjunta do rim e da pélvis renal
 #T=pielonefrite
+
 #D=inflamação crónica do tecido celular
 #T=celulite
+
 #D=inflamação da apófise mastóide no ouvido
 #T=mastoidite
+
 #D=inflamação da bexiga
 #T=cistite
+
 #D=inflamação da conjuntiva
 #T=conjuntivite
+
 #D=inflamação da córnea
 #T=ceratite
+
 #D=inflamação da córnea e da conjuntiva do olho
 #T=ceratoconjuntivite
+
 #D=inflamação da envoltura do abdominal
 #T=peritonite
+
 #D=inflamação da envoltura do coração
 #T=pericardite
+
 #D=inflamação da garganta
 #T=faringite
+
 #D=inflamação da glande do pénis
 #T=balanite
+
 #D=inflamação da glândula salivar; papeira
 #T=parotidite
+
 #D=inflamação da gordura abdominal
 #T=paniculite
+
 #D=inflamação da íris
 #T=irite
+
 #D=inflamação da laringe
 #T=laringite
+
 #D=inflamação da língua
 #T=glossite
+
 #D=inflamação da membrana de revestimento interno do coração
 #T=endocardite
+
 #D=inflamação da membrana mucosa do nariz
 #T=catarro
+
 #D=inflamação da mucosa da boca
 #T=estomatite
+
 #D=inflamação da pele
 #T=dermatite
+
 #D=inflamação da pélvis renal
 #T=pielite
+
 #D=inflamação da próstata
 #T=prostatite
+
 #D=inflamação da traqueia
 #T=traqueíte
+
 #D=inflamação da trompa uterina, da trompa auditiva
 #T=salpingite
+
 #D=inflamação da uretra
 #T=uretrite
+
 #D=inflamação da úvea
 #T=uveíte
+
 #D=inflamação da vesícula biliar
 #T=colecistite
+
 #D=inflamação das articulações
 #T=artrite
+
 #D=inflamação das meninges
 #T=meningite
+
 #D=inflamação das pálpebras
 #T=blefarite
+
 #D=inflamação das paredes de uma veia
 #T=flebite
+
 #D=inflamação das vértebras
 #T=espondilite
+
 #D=inflamação das vias biliares
 #T=colangite
+
 #D=inflamação de um ou mais folículos pilosos
 #T=foliculite
+
 #D=inflamação de um tendão
 #T=tendinite
+
 #D=inflamação de um tendão e da sua veia; tecite
 #T=tenossinovite
+
 #D=inflamação de um testículo
 #T=orquite
+
 #D=inflamação de uma bolsa
 #T=bursite
+
 #D=inflamação de uma bolsa ou cavidade, especialmente dos ossos do crânio
 #T=sinusite
+
 #D=inflamação de uma membrana sinovial
 #T=sinovite
+
 #D=inflamação de uma veia com obstrução por um coágulo sanguíneo
 #T=tromboflebite
+
 #D=inflamação difusa
 #T=fleimão
+
 #D=inflamação do cérebro
 #T=encefalite
+
 #D=inflamação do dedo perto da unha; panarício
 #T=paroníquia
+
 #D=inflamação do epicôndilo (tuberosidade exterior do útero)
 #T=epicondilite
+
 #D=inflamação do esófago
 #T=esofagite
+
 #D=inflamação do estômago e do intestino delgado
 #T=gastrenterite
+
 #D=inflamação do fígado
 #T=hepatite
+
 #D=inflamação do íleo (última parte do intestino delgado), doença de Crohen
 #T=ileite
+
 #D=inflamação do intestino grosso, catarro intestinal, enterite
 #T=colite
+
 #D=inflamação do miocárdio
 #T=miocardite
+
 #D=inflamação do nariz, nasite, defluxo, constipação (nasal), catarro nasal
 #T=rinite
+
 #D=inflamação do pâncreas
 #T=pancreatite
+
 #D=inflamação do recto
 #T=proctite
+
 #D=inflamação do rim
 #T=nefrite
+
 #D=inflamação dos brônquios
 #T=bronquite
+
 #D=inflamação dos intestinos delgado e grosso
 #T=enterocolite
+
 #D=inflamação dos órgãos genitais externos femininos, incluindo a vagina
 #T=vulvovaginite
+
 #D=inflamação dos pequenos vasos sanguíneos
 #T=vasculite
+
 #D=inflamação dos tecidos que rodeiam uma articulação
 #T=periartrite
+
 #D=inflamação no ouvido
 #T=otite
+
 #D=inflamação simultânea de várias articulações
 #T=poliartrite
+
 #D=inflamação superficial da gengivas
 #T=gengivite
+
 #D=inflamações dos ovários e da trompa
 #T=anexite
+
 #D=influencia a actividade do coração
 #T=inotrópico
+
 #T=influenza
 #D=gripe violenta e epidémica
+
 #T=infundir
 #D=infundir
+
 #D=infundir
 #T=infundir
+
 #T=infusão
 #D=infusão
+
 #D=infusão
 #T=infusão
+
 #T=ingestão
 #D=deglutição de alimentos ou outras substâncias para o interior do tubo digestivo
+
 #D=ingrediente
 #T=componente
+
 #T=inguinal
 #D=pertencente à virilha
+
 #T=inibição
 #D=atenuação, supressão ou bloqueamento de uma função ou reacção
+
 #D=inibição da actividade da medula
 #T=mielossupressão
+
 #D=iniciador do ritmo do coração; regulador cardíaco
 #T=pacemaker
+
 #T=inicial
 #D=inicial
+
 #D=inicial
 #T=inicial
+
 #T=injecção
 #D=injecção
+
 #D=injecção
 #T=injecção
+
 #T=injecção bolus
 #D=injecção rápida
+
 #D=injecção rápida
 #T=injecção bolus
+
 #T=inoperável
 #D=que não se pode curar com operação cirúrgica
+
 #T=inorgânico
 #D=inanimado, sem vida
+
 #T=inotrópico
 #D=influencia a actividade do coração
+
 #D=inquinamento, poluição
 #T=contaminação
+
 #D=insensibilidade à dor
 #T=anestesia
+
 #D=insensibilidade sexual, anafrodisia
 #T=frigidez
+
 #T=inserção
 #D=implantação; ponto de união entre um músculo e um osso
+
 #T=insónia
 #D=falta de sono, insonolência
+
 #T=inspiração
 #D=inspiração
+
 #D=inspiração
 #T=inspiração
+
 #T=instabilidade
 #D=falta de equilíbrio
+
 #D=instável, facilmente alterável
 #T=lábil
+
 #T=instilação
 #D=administração gota-a-gota (solução oftálmica)
+
 #T=instrução
 #D=indicações
+
 #D=instrumento que se coloca na vagina como dispositivo contraceptivo; supositório vaginal
 #T=pessário
+
 #T=insuficiência
 #D=função inadequada de um órgão ou sistema
+
 #D=insuficiência de glóbulos brancos
 #T=neutropenia
+
 #T=insulto
 #D=ataque
+
 #T=intacto
 #D=intacto
+
 #D=intacto
 #T=intacto
+
 #T=integridade
 #D=conservação inalterada
+
 #T=integumentário
 #D=que serve de cobertura, como a pele; integumental
+
 #T=inteligência
 #D=entendimento, intelecto, mente
+
 #T=intensidade
 #D=grau de força ou tensão
+
 #T=interacção
 #D=relação entre dois elementos
+
 #T=intercostal
 #D=entre as costelas
+
 #T=interferência
 #D=perturbação
+
 #T=interindividual
 #D=entre indivíduos
+
 #D=interior
 #T=interno
+
 #T=intermediário
 #D=intermediário
+
 #D=intermediário
 #T=intermediário
+
 #T=intermitente
 #D=que ocorre em intervalos
+
 #D=internar num hospital
 #T=hospitalização
+
 #T=interno
 #D=interior
+
 #T=interpretação
 #D=interpretação
+
 #D=interpretação
 #T=interpretação
+
 #T=intersticial
 #D=entre duas partes, isto é, no tecido conjuntivo
+
 #D=interstício, espaço; entremeio
 #T=intervalo
+
 #T=intertrigo
 #D=infecção na pele das dobras
+
 #T=intervalo
 #D=interstício, espaço; entremeio
+
 #T=intervalo QT
 #D=representa a duração total da sístole eléctrica ventricular
+
 #T=intervenção
 #D=operação
+
 #T=intervertebral
 #D=entre as vértebras
+
 #T=intestinal
 #D=relativo ao intestino
+
 #D=intimamente relacionado com uma porção
 #T=intrínseco
+
 #T=intolerância
 #D=incapacidade de suportar um medicamento
+
 #T=intoxicação
 #D=envenenamento
+
 #D=intoxicação com aspirina
 #T=salicismo
+
 #D=intoxicação crónica pelo uso alimentar do centeio atacado de cravagem
 #T=ergotismo
+
 #D=intoxicação do sangue por microrganismos
 #T=septicémia
+
 #D=intoxicação do sangue; toxinemia
 #T=toxemia
+
 #T=intraindividual
 #D=dentro do indivíduo
+
 #T=intramuscular
 #D=no interior do músculo
+
 #T=intraocular
 #D=no interior do globo ocular
+
 #T=intratecal
 #D=pertencente ao lúmen de uma bainha ou canal
+
 #T=intravascular
 #D=no interior de um vaso sanguíneo
+
 #T=intravenoso
 #D=situado dentro de uma veia
+
 #T=intrínseco
 #D=intimamente relacionado com uma porção
+
 #D=introdução de um tubo num órgão oco
 #T=intubação
+
 #D=introdução de uma sonda numa cavidade
 #T=cateterismo
+
 #T=intubação
 #D=introdução de um tubo num órgão oco
+
 #T=invalidar
 #D=infirmar
+
 #T=invasivo
 #D=que penatra, que invade
+
 #T=investigação
 #D=indagação, pesquisa
+
 #T=involução
 #D=degradação e perda funcional dos órgãos com a idade; regressão das dimensões do útero e das estruturas envolventes após o parto
+
 #T=ionização
 #D=processo pelo qual são produzidos iões numa substância
+
 #T=ionograma
 #D=ionograma
+
 #D=ionograma
 #T=ionograma
+
 #T=iridociclite
 #D=infecção de um dos anexos da vista
+
 #T=irite
 #D=inflamação da íris
+
 #D=irregular, anormal
 #T=atípico
+
 #D=irregularidade
 #T=anomalia
+
 #T=irreversível
 #D=sem retorno
+
 #T=irrigação
 #D=lavagem com eliminação do líquido utilizado
+
 #T=irritação
 #D=estímulo, estimulação, excitação
+
 #D=irritação, estímulo, estimulação
 #T=excitação
+
 #T=isolar
 #D=isolar
+
 #D=isolar
 #T=isolar
+
 #T=isotónico
 #D=que tem a mesma tensão ou concentração
+
 #T=isquemia
 #D=diminuição de suprimento arterial a um órgão ou região a níveis condicionantes de lesão tecidular ainda reversível
+
 #T=jacto
 #D=banho por duche
+
 #D=jejum
 #T=abstinência
+
 #T=jejuno
 #D=parte do intestino delgado desde o duodeno até ao íleo
+
 #D=jovem
-#T=adolescente juvenil
+#T=adolescente
+
+#T=juvenil
 #D=relativo ao jovem
+
 #T=lábil
 #D=instável, facilmente alterável
+
 #T=laceração
 #D=ferida irregular
+
 #T=lacrimal
 #D=das lágrimas
+
 #T=lactação
 #D=formação de leite
+
 #T=largo espectro
 #D=activo com vários grupos de germes
+
 #T=laringite
 #D=inflamação da laringe
+
 #T=lassitude
 #D=fraqueza, cansaço
+
 #T=lateral
 #D=lateral
+
 #D=lateral
 #T=lateral
+
 #D=lavagem com eliminação do líquido utilizado
 #T=irrigação
+
 #T=laxativo
 #D=medicamento purgante
+
 #T=lenticular
 #D=relacionado com o cristalino
+
 #D=lentidão dos movimentos
 #T=bradicinesia
+
 #T=lesão
 #D=alteração mórbida na função ou estrutura de um órgão
+
 #D=lesão dos alvéolos pulmonares
 #T=alveolite
+
 #D=lesão patológica que afecta a retina
 #T=retinopatia
+
 #T=letal
 #D=que provoca a morte
+
 #D=letal, letífero, mortífero
 #T=fatal
+
 #T=letargia
 #D=embriaguez, sonolência
+
 #T=leucemia
 #D=doença que afecta os órgãos formadores do sangue, caracterizada pelo aumento dos glóbulos brancos em circulação
+
 #T=leucócito
 #D=glóbulo branco
+
 #T=leucocitose
 #D=aumento do número de glóbulos brancos em circulação
+
 #T=leucopenia
 #D=deficiência de glóbulos brancos no sangue
+
 #T=leucoplasia
 #D=aparecimento de uma mancha branca que pode preceder o aparecimento de um cancro nesse órgão
+
 #T=leucorreia
 #D=corrimento mucoso de cor branca oriundo da vagina; flores-brancas
+
 #T=líbido
 #D=desejo sexual
+
 #T=licor
 #D=solução, soluto
+
 #T=ligamento
 #D=feixe fibroso entre dos ossos numa articulação
+
 #T=límbico
 #D=relativo a uma borda ou margem
+
 #T=linear
 #D=linear
+
 #D=linear
 #T=linear
+
 #T=linfadenopatia
 #D=tumefacção de um ou mais gânglios linfáticos
+
 #T=linfangite
 #D=angioleucite, inflamação dos vasos linfáticos
+
 #T=linfocítico
 #D=relativo aos linfócitos, células com núcleo redondo
+
 #T=linfoma
 #D=tumor maligno gerado no tecido linfóide
+
 #T=lípido
 #D=gordura ou substância idêntica
+
 #T=lipodistrofia
 #D=alteração do metabolismo dos lípidos (obesidade das mulheres na região glútea e nas pernas)
+
 #T=lipofílico
 #D=que dissolve as gorduras; que pode tornar-se obeso
+
 #T=lipoproteína
 #D=combinação de uma gordura e uma proteína
+
 #T=liposoma
 #D=liposoma
+
 #D=liposoma
 #T=liposoma
+
 #T=liquenificação
 #D=endurecimento da pele
+
 #D=líquido que aparece numa superfície inflamada
 #T=exsudado
+
 #D=lista, raia; fibras nervosas cerebrais
 #T=estria
+
 #T=lítico
 #D=relativo à pedra, que rompe, que influi na destruição da célula
+
 #T=livedo
 #D=cor avermelhada da pele
+
 #T=lobo
 #D=lóbulo
+
 #D=lóbulo
 #T=lobo
+
 #T=local
 #D=restricto, não geral
+
 #D=local
 #T=tópico
+
 #D=local e regional
 #T=loco-regional
+
 #T=loco-regional
 #D=local e regional
+
 #T=locomotor
 #D=locomotor
+
 #D=locomotor
 #T=locomotor
+
 #T=lombar
 #D=relacionado com a parte inferior da coluna vertebral
+
 #T=lóquios
 #D=corrimento após o parto
+
 #D=lotação, potência
 #T=capacidade
+
 #T=luético
 #D=sifilítico
+
 #T=lumbago
 #D=dor na parte inferior da coluna vertebral
+
 #T=lúmen
 #D=cavidade ou canal dentro de um órgão em forma de tubo
+
 #T=luxação
 #D=deslocação dos ossos de uma articulação
+
 #D=má digestão
 #T=dispepsia
+
 #T=maceração
 #D=empolamento por contacto com líquidos, extracção de drogas por humedecimento, extracção a frio
+
 #T=maciço
 #D=grande, amplo
+
 #T=mácula
 #D=sinal, mancha, cicatriz, estigma
+
 #T=maculopapular
 #D=consistente em manchas e pápulas, borbulhas
+
 #D=maior crescimento de um tecido por aumento, sem multiplicação, das suas células
 #T=hipertrofia
+
 #T=mal-absorção
 #D=transtorno da absorção intestinal de nutrientes
+
 #D=mal-estar
 #T=indisposição
+
 #T=malformação
 #D=deformação
+
 #T=maligno
 #D=ruim; de evolução fatal
+
 #T=mamário
 #D=relativo à mama
+
 #D=mamite, inflamação dos peitos
 #T=mastite
+
 #D=manchas irregulares que aparecem geralmente na cara
 #T=cloasma
+
 #T=mania
 #D=delírio maníaco, delírio furioso
+
 #D=mania ligeira
 #T=hipomania
+
 #T=maníaco
 #D=relativo a uma mania
+
 #T=manifestação
 #D=exteriorização de uma doença
+
 #D=manifestação, sinal, sintoma
 #T=fenómeno
+
 #T=manifesto
 #D=visível
+
 #D=maquinismo, órgão, artifício, dispositivo
 #T=mecanismo
+
 #D=masculinização
 #T=virilização
+
 #D=massa importante de núcleos cinzentos
 #T=tálamo
+
 #T=massagem
 #D=massagem
+
 #D=massagem
 #T=massagem
+
 #T=mastigatório
 #D=que afecta os músculos da mastigação; que deve mastigar-se
+
 #T=mastite
 #D=mamite, inflamação dos peitos
+
 #T=mastócito
 #D=célula de Mast
+
 #T=mastodinia
 #D=dor nos peitos
+
 #T=mastoidite
 #D=inflamação da apófise mastóide no ouvido
+
 #D=matéria
 #T=substância
+
 #D=matéria orgânica corante da pele
 #T=pigmentação
+
 #D=matérias fecais, excrementos
 #T=fezes
+
 #D=matriz
 #T=útero
+
 #D=mau, grave, maligno
 #T=pernicioso
+
 #T=maxilar
 #D=relativo aos ossos da cara onde se encontram fixados os dentes
+
 #T=máximo (adj)
 #D=máximo
+
 #D=máximo
 #T=máximo (adj)
+
 #T=máximo (subst)
 #D=máximo, limite superior
+
 #D=máximo, limite superior
 #T=máximo (subst)
+
 #T=mecanismo
 #D=maquinismo, órgão, artifício, dispositivo
+
 #T=mecela
 #D=pequenos fragmentos presentes em dispersão coloidal
+
 #T=mediador
 #D=(agente) intermediário, substância química que transmite algo
+
 #T=mediano
 #D=médio
+
 #T=mediar
 #D=mediar, interpor
+
 #D=mediar, interpor
 #T=mediar
+
 #T=medicação
 #D=medicamentação; aplicação de medicamentos
+
 #D=medical, medicinal
 #T=médico
+
 #D=medical, médico; que tem qualidades curativas
 #T=medicinal
+
 #D=medicamentação; aplicação de medicamentos
 #T=medicação
+
 #T=medicamento
 #D=remédio, medicina
+
 #D=medicamento
 #T=fármaco
+
 #D=medicamento com os cogumelos ou leveduras parasitas no homem
 #T=antifúngico
+
 #D=medicamento contra a epilepsia
 #T=antiepiléptico
+
 #D=medicamento destinado mais a agradar do que a beneficiar o
 #T=placebo
+
 #D=medicamento para cuidar dos olhos
 #T=colírio
+
 #D=medicamento para tratamento da irregularidade da pulsação cardíaca
 #T=antiarrítmico
+
 #D=medicamento purgante
 #T=laxativo
+
 #D=medicamento que ataca os micróbios parasitas ou as células de um cancro
 #T=quimioterápico
+
 #D=medicamento que contém ópio (droga)
 #T=opiato
+
 #D=medicamento que contém um álcali
 #T=alcalina
+
 #D=medicamento que inibe o crescimento do bacilo da tuberculose
 #T=tuberculostático
+
 #D=medicamento que serve para resolver os espasmos
 #T=espasmolítico
+
 #D=medicamento que serve para tranquilizar; calmante
 #T=tranquilizante
+
 #D=medicina preventiva
 #T=profilaxia
+
 #T=medicinal
 #D=medical, médico; que tem qualidades curativas
+
 #T=médico
 #D=medical, medicinal
+
 #D=medida de actividade de um medicamento ingerido
 #T=bio-disponibilidade
+
 #D=medidas destinadas a evitar doenças ou acidentes
 #T=prevenção
+
 #D=médio
 #T=mediano
+
 #D=medo despropositado persistente
 #T=fobia
+
 #T=medular
 #D=relativo à medula de qualquer tipo
+
 #T=megacolo
 #D=megalócon, cólon anormalmente dilatado, doença de Hirschsprung
+
 #T=megaloblástico
 #D=megaloblástico
+
 #D=megaloblástico
 #T=megaloblástico
+
 #D=megalócon, cólon anormalmente dilatado, doença de Hirschsprung
 #T=megacolo
+
 #T=meio de contraste
 #D=meio para visualização radiográfica
+
 #D=meio para visualização radiográfica
 #T=meio de contraste
+
 #T=melanona
 #D=tumor pigmentado, geralmente maligno, da pele ou das mucosas
+
 #T=melanose
 #D=coloração obscura superficial da pele ou das mucosas
+
 #T=melena
 #D=fezes negras pela presença de sangue
+
 #T=membrana
 #D=membrana
+
 #D=membrana
 #T=membrana
+
 #T=membrana celular
 #D=membrana de uma célula
+
 #D=membrana de uma célula
 #T=membrana celular
+
 #D=membrana ou cavidade do ouvido médio
 #T=tímpano
+
 #D=membrana que envolve o sistema nervoso central
 #T=dura-máter
+
 #D=membro viril, falo, pene, verga
 #T=pénis
+
 #D=membros superior e inferior
 #T=extremidade
+
 #T=menarca
 #D=primeira menstruação
+
 #T=meningite
 #D=inflamação das meninges
+
 #T=menopausa
 #D=cessação da menstruação na mulher
+
 #T=menorragia
 #D=excesso de fluxo de sangue na menstruação
+
 #T=menstruação
 #D=regras
+
 #T=mental
 #D=psíquico
+
 #D=mental
 #T=psíquico
+
 #T=mesentérico
 #D=relativo ao mesentério, membrana que contém os vasos sanguíneos mesentéricos
+
 #T=metabolismo
 #D=conjunto de reacções bioquímicas dentro do organismo
+
 #T=metabolito
 #D=substância derivada de um medicamento dentro do organismo
+
 #T=metabolização
 #D=transformação de uma substância noutra durante o metabolismo
+
 #T=metaplasia
 #D=processo de transformação de células ou tecidos noutros distintos
+
 #T=metastase
 #D=migração de doença, aparecimento de um cancro à distância
+
 #T=metemoglobinemia
 #D=presença de metemoglobina no sangue de que resulta a cianose
+
 #T=meteorismo
 #D=timpanismo, timpanite, dilatação do ventre (devido a gases)
+
 #D=método de aplicação de uma anestesia geral; provocação de um processo
 #T=indução
+
 #D=método, processo
 #T=procedimento
+
 #T=metrorragia
 #D=hemorragia sanguínea uterina não menstrual
+
 #T=mialgia
 #D=miodinia, dor muscular
+
 #T=miastenia
 #D=falta de força, fraqueza muscular
+
 #T=micção
 #D=acção de urinar, urinação
+
 #T=micobactéria
 #D=micobactéria
+
 #D=micobactéria
 #T=micobactéria
+
 #T=micológico
 #D=relativo à micologia (estudo dos cogumelos)
+
 #T=micose
 #D=doença causada por fungos
+
 #T=micótico
 #D=produzido por fungos
+
 #D=micróbio
 #T=microrganismo
+
 #T=microbiológico
 #D=relativo à ciência dos microrganismos (organismos minúsculos)
+
 #T=microcirculação
 #D=fluxo de sangue em todo o sistema de vasos minúsculos
+
 #T=micrografia
 #D=fotografia como através do microscópio; análise com o microscópio
+
 #T=micrograma
 #D=a milionésima parte de um grama
+
 #T=micronizar
 #D=reduzir a pó fino
+
 #T=microrganismo
 #D=micróbio
+
 #D=microrganismo que vive a expensas de matérias orgânicas em decomposição; parasita que não causa doenças
 #T=saprófito
+
 #T=microscópico
 #D=extremamente pequeno
+
 #T=microspório
 #D=género de fungos ascomicetes, parasitas no homem
+
 #T=microssómico
 #D=derivado dos microssomas
+
 #T=microvilosidade
 #D=forma de velosidade à superfície de uma célula
+
 #T=midriático
 #D=droga que dilata a pupila
+
 #T=mieloma
 #D=tumor maligno das células da medula do osso; cancro do sangue
+
 #T=mielomatose
 #D=cancro da medula do osso, doença de Kahler
+
 #T=mielossupressão
 #D=inibição da actividade da medula
+
 #T=mielotóxico
 #D=nocivo para a medula do osso
+
 #D=migração de doença, aparecimento de um cancro à distância
 #T=metastase
+
 #D=miíte, inflamação de um músculo voluntário
 #T=miosite
+
 #T=mímica
 #D=expressão de ideias ou pensamentos por meio de gestos
+
 #T=mineralização
 #D=incorporação de substâncias minerais por meio de tecidos do organismo
+
 #T=mineralocorticóide
 #D=hormonas mineralocorticosteróides
+
 #T=minimizar
 #D=reduzir (ao mínimo), limitar
+
 #T=mínimo (adj)
 #D=mínimo, ínfimo
+
 #T=mínimo (subst)
 #D=mínimo, limite inferior
+
 #D=mínimo, ínfimo
 #T=mínimo (adj)
+
 #D=mínimo, limite inferior
 #T=mínimo (subst)
+
 #T=miocardite
 #D=inflamação do miocárdio
+
 #D=miodinia, dor muscular
 #T=mialgia
+
 #T=miopatia
 #D=qualquer doença muscular
+
 #T=miopia
 #D=hipometropia, visão curta, vista-curta
+
 #T=miorrelaxante
 #D=que distende os músculos
+
 #T=miosite
 #D=miíte, inflamação de um músculo voluntário
+
 #T=miótico
 #D=relativo à divisão dos cromossomas e replicação das células
+
 #T=miscível
 #D=que se pode misturar
+
 #D=mistura de glicose e frutose
 #T=açúcar invertido
+
 #T=mitose
 #D=divisão cinética, cariocinese, divisão celular indirecta
+
 #T=mobilidade
 #D=possibilidade de realizar movimentos activos, por ex., uma articulação
+
 #T=mobilização
 #D=processo de tornar móvel uma parte fixa ou uma substância presa
+
 #T=modificar
 #D=alterar
+
 #T=modulador
 #D=substância reguladora
+
 #D=molarinha do recém-nascido
 #T=fontanela
+
 #T=molecular
 #D=relativo às moléculas ou composto por elas
+
 #D=moleza
 #T=hipotonia
+
 #T=monocomponente
 #D=de um só componente
+
 #T=mononucleose
 #D=mononucleose
+
 #D=mononucleose
 #T=mononucleose
+
 #T=monoterapia
 #D=terapia com um medicamento de cada vez
+
 #T=morbidez(a)
 #D=taxa de doentes numa população
+
 #D=mórbido, relacionado com uma doença determinada
 #T=patológico
+
 #T=morfinomimético
 #D=produtos com efeito idêntico ao da morfina
+
 #T=mortalidade
 #D=taxa de falecimentos de uma população
+
 #D=morte celular, esfacelo, gangrena
 #T=necrose
+
 #T=motilidade
 #D=faculdade de se mover espontaneamente
+
 #T=motor
 #D=que move, motriz
+
 #D=motor
 #T=propulsivo
+
 #D=movimento automático do intestino
 #T=peristaltismo
+
 #D=movimento de endireitar uma articulação
 #T=extensão
+
 #D=movimento de moléculas num fluido de uma zona de alta concentração para outra de baixa concentração; dispersão
 #T=difusão
+
 #D=movimento involuntário que se produz repetidamente
 #T=tique
+
 #D=movimento reflexo do globo ocular (dos olhos)
 #T=nistagmo
+
 #D=movimentos bruscos incontrolados nas crianças
 #T=coreia
+
 #D=movimentos descontrolados, atesia, doença de Hammond
 #T=atetose
+
 #T=muco
 #D=mucosidade; pituíta, monco, ranho
+
 #T=mucociliar
 #D=mucociliar
+
 #D=mucociliar
 #T=mucociliar
+
 #T=mucocutâneo
 #D=relativo às mucosas e à pele ou que as afecta
+
 #T=mucolítico
 #D=agente que destrói ou dissolve a mucina
+
 #T=mucopurulento
 #D=que contém muco e pus
+
 #T=mucosa
 #D=(membrana) mucosa
+
 #D=mucosa
 #T=mucosa
+
 #D=mucosidade; pituíta, monco, ranho
 #T=muco
+
 #D=mudança de forma ou estrutura, alteração
 #T=transformação
+
 #D=mudança de um prova serológica de negativa para positiva
 #T=seroconversão
+
 #D=mudança do material genético
 #T=mutação
+
 #D=mudez
 #T=mutismo
+
 #D=muito exigente quanto à indicação
 #T=selectivo
+
 #D=mulher que nunca deu à luz
 #T=nulípara
+
 #T=multidose
 #D=que encerra muitas doses
+
 #T=multípara
 #D=que teve vários filhos
+
 #T=múltiplo
 #D=variado
+
 #T=muscular
 #D=relativo ao músculo; com musculatura bem desenvolvida
+
 #T=musculatura
 #D=sistema muscular do corpo ou das suas partes
+
 #D=músculo constritor, que aperta
 #T=esfíncter
+
 #D=músculo que participa com outro num movimento; medicamento que estimula células de maneira natural
 #T=agonista
+
 #D=músculo que produz movimento contrário ao de outro músculo; substância que anula a acção de outra
 #T=antagonista
+
 #T=mutação
 #D=mudança do material genético
+
 #T=mutagénico
 #D=que induz mutações genéticas
+
 #T=mutismo
 #D=mudez
+
 #D=na boca do estômago
 #T=epigástrico
+
 #T=nadir
 #D=o ponto mais baixo
+
 #D=não activo
 #T=passivo
+
 #D=não adequado para administração simultânea
 #T=incompatível
+
 #D=não apropriado
 #T=inadequado
+
 #D=não compreendido, sem contar
 #T=exceptuado
+
 #D=não epidérmico ou não amplamente difundido; ocasional
 #T=esporádico
+
 #D=não específico, não característico
 #T=inespecífico
+
 #D=não natural
 #T=artificial
+
 #D=não segura as fezes ou as urinas
 #T=incontinência
+
 #D=não tóxico, não venenoso, não nocivo
 #T=atóxico
+
 #T=narcótico
 #D=sonífero; agente que produz insensibilidade, estupor ou anestesia
+
 #T=nasal
 #D=relativo ao nariz
+
 #D=nasofaringite, retrofaringite, angina retronasal
 #T=rinofaringite
+
 #T=nasolacrimal
 #D=relativo ao nariz e ao aparelho lacrimal
+
 #T=natriurese
 #D=excreção de quantidades anormais de sódio na urina
+
 #T=náusea
 #D=vontade de vomitar; enjoo; repugnância, sentimento de repulsão
+
 #D=necessidade de uma ou várias vitaminas essenciais
 #T=hipovitaminose
+
 #T=necrólise
 #D=separação e esfoliação do tecido por morte celular
+
 #T=necrose
 #D=morte celular, esfacelo, gangrena
+
 #T=nefrite
 #D=inflamação do rim
+
 #T=nefrólito
 #D=cálculo renal, cálculo do rim
+
 #T=nefropatia
 #D=doença renal
+
 #T=nefrótico
 #D=relativo a uma doença dos rins ou causado por ela
+
 #T=nefrotóxico
 #D=tóxico para os rins
+
 #T=negativo
 #D=sem resultado, não positivo, abaixo da linha zero
+
 #T=neonatal
 #D=relativo ao primeiro mês de vida
+
 #T=neoplástico
 #D=canceroso, neoplásico
+
 #T=nervosidade
 #D=nervosismo
+
 #D=nervosismo
 #T=nervosidade
+
 #T=neural
 #D=relativo aos nervos; situado na região da coluna vertebral
+
 #T=neuralgia
 #D=nevralgia, dor viva que se sente no trajecto dos nervos
+
 #T=neurite
 #D=nevrite, inflamação de um nervo
+
 #D=neurite múltipla; inflamação de muitos nervos um por cada vez
 #T=polinevrite
+
 #T=neurodermatite
 #D=doença da pele derivada de causas emocionais
+
 #T=neuroleptanalgesia
 #D=técnica de preparação dos doentes para operações cirúrgicas
+
 #T=neuroléptico
 #D=calmante do sistema nervoso
+
 #T=neurológico
 #D=relativo ao sistema nervoso ou à neurologia
+
 #T=neuromuscular
 #D=relativo à correlação entre os nervos e os músculos
+
 #T=neuronal
 #D=relativo às neuronas
+
 #D=neuropapilite, inflamação de uma papila
 #T=papilite
+
 #T=neuropatia
 #D=nevropatia, doença nervosa
+
 #T=neurótico
 #D=nevrótico, neuropático, nevropático
+
 #T=neurotóxico
 #D=tóxico para os nervos
+
 #T=neurotransmissor
 #D=substância que transmite impulsos nervosos por via química
+
 #T=neurovegetativo
 #D=que pertence ou é relativo ao sistema nervoso vegetativo
+
 #T=neutralização
 #D=processo pelo qual uma coisa perde eficácia
+
 #T=neutrófilo
 #D=que tem afinidade com corantes neutros
+
 #T=neutropenia
 #D=insuficiência de glóbulos brancos
+
 #D=nevralgia ciática
 #T=ciática
+
 #D=nevralgia, dor viva que se sente no trajecto dos nervos
 #T=neuralgia
+
 #D=nevrite, inflamação de um nervo
 #T=neurite
+
 #D=nevropatia, doença nervosa
 #T=neuropatia
+
 #D=nevrótico, neuropático, nevropático
 #T=neurótico
+
 #T=nictúria
 #D=incontinência das urinas durante a noite
+
 #T=nidação
 #D=implantação do óvulo na cavidade uterina
+
 #D=nidação do embrião na mucosa do útero da mãe, cerca de seis dias após a concepção
 #T=implantação
+
 #T=niilidade
 #D=niilismo, isto é, sensação de falta de esperança por parte do homem; nada
+
 #D=niilismo, isto é, sensação de falta de esperança por parte do homem; nada
 #T=niilidade
+
 #T=nistagmo
 #D=movimento reflexo do globo ocular (dos olhos)
+
 #D=nível de cálcio no sangue
 #T=calcemia
+
 #D=no interior de um vaso sanguíneo
 #T=intravascular
+
 #D=no interior do globo ocular
 #T=intraocular
+
 #D=no interior do músculo
 #T=intramuscular
+
 #D=no seu lugar
 #T=in situ
+
 #D=nocivo para a medula do osso
 #T=mielotóxico
+
 #T=nocturno
 #D=de noite, da noite
+
 #T=nodoso
 #D=caracterizado por pequenos nós sólidos
+
 #D=normal, não devido a uma doença; relativo ao estudo das funções dos organismos vivos
 #T=fisiológico
+
 #T=normalização
 #D=estandardização, padronização, unificação
+
 #D=normalizar, unificar, padronizar
 #T=estandardizar
+
 #T=normotenso
 #D=com tensão ou pressão normal
+
 #T=nosocomial
 #D=relativo ao hospital e às doenças que ali se tratam, hospitalar
+
 #D=nova infecção num mesmo agente, depois de ter curado a primeira
 #T=reinfecção
+
 #D=nova infecção que surge como complicação de outra já existente
 #T=superinfecção
+
 #T=nulípara
 #D=[mulher] que nunca deu à luz
+
 #D=número de períodos
 #T=frequência
+
 #D=número fraccionário (número) quebrado; porção, parte
 #T=fracção
+
 #T=numular
 #D=escarros em forma de moeda nas tuberculoses pulmonares
+
 #T=nutriente
 #D=alimentar, alimentício, nutritivo, nutrício, substancial
+
 #D=nutritivo
 #T=trófico
+
 #D=o ponto mais baixo
 #T=nadir
+
 #T=obesidade
 #D=excesso de peso corporal por acumulação de gordura
+
 #T=objectivo
 #D=perceptível aos sentidos externos; meta
+
 #D=obliteração, fecho, de um canal ou de uma abertura natural
 #T=oclusão
+
 #T=observação
 #D=estudo de um fenómeno
+
 #T=obsessão
 #D=ideia fixa
+
 #T=obstetrício
 #D=parte da medicina que se ocupa da gravidez, parto e puerpério; obstétrico tocológico
+
 #D=obstipação
 #T=prisão de ventre
+
 #T=obstipação
 #D=dificuldade de expelir os excrementos, prisão de ventre
+
 #D=obstrução
 #T=barreira
+
 #T=obstrução
 #D=entupimento
+
 #D=obstrução de um vaso sanguíneo com material trombótico
 #T=tromboembolismo
+
 #D=obtenção da imunidade pelo organismo
 #T=imunização
+
 #T=ocasional
 #D=de vez em quando
+
 #T=ocitócico
 #D=ocitócito, agente que faz acelerar parto estimulando o útero
+
 #D=ocitócito, agente que faz acelerar parto estimulando o útero
 #T=ocitócico
+
 #D=oclusão intestinal
 #T=íleo
+
 #T=oclusão
 #D=obliteração, fecho, de um canal ou de uma abertura natural
+
 #T=ocular
 #D=relativo ao olho ou à vista
+
 #T=oculogiro
 #D=que faz girar os olhos
+
 #D=oculomucocutâneo
 #T=oculomucocutâneo
+
 #T=oculomucocutâneo
 #D=oculomucocutâneo
+
 #T=oculto
 #D=escondido, secrecto
+
 #T=odor
 #D=cheiro
+
 #T=oftálmico
 #D=referente ou pertencente ao olho ou à vista
+
 #T=oftalmológico
 #D=relativo à parte da medicina que estuda os olhos
+
 #D=olhos salientes
 #T=exoftalmia
+
 #T=oligoelemento
 #D=substância mineral em quantidades mínimas da dieta alimentar
+
 #T=oligomenorreia
 #D=diminuição do fluxo menstrual
+
 #T=oliguria
 #D=diminuição da produção de urina
+
 #T=oncolítico
 #D=que destrói as células cancerosas
+
 #T=oncótico
 #D=relativo ao cancro
+
 #D=onda rápida, ondas iniciais do complexo ventricular
 #T=complexo QRS
+
 #T=ooforectomia
 #D=remoção cirúrgica de um ovário
+
 #D=opacidade do cristalino do olho
 #T=catarata
+
 #T=opalescente
 #D=parecido com o ópalo ou que tem cores como ele
+
 #D=operação
 #T=intervenção
+
 #D=operação cirúrgica do útero
 #T=histerectomia
+
 #T=opiato
 #D=medicamento que contém ópio (droga)
+
 #T=opistótono
 #D=arqueamento posterior da cabeça e membros inferiores
+
 #T=oportunista
 #D=diz-se do microrganismo que produz doenças unicamente em determinadas circunstâncias
+
 #T=óptico
 #D=relativo à vista ou ao nervo ótptico
+
 #T=óptimo
 #D=o mais propício ou favorável
+
 #T=oral
 #D=relativo à boca, pela boca
+
 #T=orbital
 #D=relativo à cavidade óssea que contém o globo ocular; orbitário
+
 #D=organismo microscópico em forma de filamento recto ou curvo
 #T=bacilo
+
 #T=organismo
 #D=qualquer coisa viva individual
+
 #D=organismos unicelulares
 #T=protozoário
+
 #T=orgasmo
 #D=ponto mais elevado da excitação sexual
+
 #T=orientação
 #D=orientação
+
 #D=orientação
 #T=orientação
+
 #D=orifício de saída do intestino, cu
 #T=ânus
+
 #D=orofacial
 #T=orofacial
+
 #T=orofacial
 #D=orofacial
+
 #T=orquite
 #D=inflamação de um testículo
+
 #D=ortopédico
 #T=ortopédico
+
 #T=ortopédico
 #D=ortopédico
+
 #T=ortostático
 #D=relativo à posição do pé ou causado por ele
+
 #T=osmolalidade
 #D=concentração de partículas osmoticamente activas em solução
+
 #T=osmolaridade
 #D=concentração de partículas osmoticamente activas em solução
+
 #T=osmótico
 #D=relativo à difusão de um líquido através de uma membrana
+
 #T=ossículo
 #D=pequeno osso; ossinho
+
 #T=ossificação
 #D=formação do osso ou de substância óssea
+
 #T=osteoartrite
 #D=osteoartrose; inflamação articular que atinge também o osso
+
 #D=osteoartrose; inflamação articular que atinge também o osso
 #T=osteoartrite
+
 #T=osteodistrofia
 #D=deformação, distrofia, dos ossos
+
 #T=osteólise
 #D=destruição dos ossos
+
 #T=osteomalacia
 #D=amolecimento dos ossos
+
 #T=osteomielite
 #D=infecção dos ossos
+
 #T=osteoporose
 #D=rarefacção dos minerais nos ossos; desmineralização esquelética
+
 #T=osteotomia
 #D=corte cirúrgico do osso
+
 #T=otite
 #D=inflamação no ouvido
+
 #T=otorreia
 #D=supuração, corrimento do ouvido
+
 #T=otorrinolaringologia
 #D=estudo das doenças do ouvido, nariz e garganta
+
 #T=otosclerose
 #D=doença do labirinto ósseo do ouvido
+
 #T=ototóxico
 #D=tóxico para o órgão auditivo
+
 #T=ovárico
 #D=relativo ao ovário
+
 #T=overdosagem
 #D=dosagem excessiva
+
 #T=overdose
 #D=dose excessiva
+
 #T=ovulação
 #D=desprendimento natural do óvulo
+
 #T=óvulo
 #D=pequeno ovo
+
 #T=oxidação
 #D=acção de enferrujar
+
 #T=oxigenação
 #D=transporte e saturação de oxigénio
+
 #T=pacemaker
 #D=iniciador do ritmo do coração; regulador cardíaco
+
 #T=paciente
 #D=doente
+
 #T=paciente de risco
 #D=paciente de risco
+
 #D=paciente de risco
 #T=paciente de risco
+
 #T=pacitopenia
 #D=diminuição de todos os glóbulos brancos
+
 #T=paliativo
 #D=que alivia as dores mas não cura
+
 #T=palpebral
 #D=relativo à pálpebra
+
 #T=palpitação
 #D=sensação de batimentos cardíacos rápidos e irregulares
+
 #T=pancreatite
 #D=inflamação do pâncreas
+
 #T=paniculite
 #D=inflamação da gordura abdominal
+
 #T=papilar
 #D=em forma de papila ou verruga
+
 #T=papilite
 #D=neuropapilite, inflamação de uma papila
+
 #T=papiloedema
 #D=excesso de líquido nos tecidos (edema) do disco óptico, da papila
+
 #T=pápula
 #D=pequena elevação sólida e circunscrita da pele
+
 #T=paracentese
 #D=esvaziamento por punção
+
 #D=paracentese, puntura
 #T=punção
+
 #T=paradoxal
 #D=contraditório, inabitual
+
 #D=paragem cardíaco
 #T=assistolia
+
 #T=paralelo
 #D=paralelo
+
 #D=paralelo
 #T=paralelo
+
 #T=paralisia
 #D=privação ou diminuição considerável do movimento voluntário e da sensibilidade
+
 #D=paralisia agitante
 #T=doença de Parkinson
+
 #D=paralisia da pupila do globo ocular
 #T=cicloplegia
+
 #D=paralisia das pernas e parte inferior do corpo
 #T=paraplegia
+
 #D=paralisia de um lado do corpo
 #T=hemiplegia
+
 #D=paralisia incompleta, parcial
 #T=paresia
+
 #D=paralisia infantil
 #T=poliomielite
+
 #T=parâmetro
 #D=parâmetro, critério
+
 #D=parâmetro, critério
 #T=parâmetro
+
 #T=paranóia
 #D=delírio, loucura raciocinante, monomania
+
 #T=paraplegia
 #D=paralisia das pernas e parte inferior do corpo
+
 #D=parasitário; referente aos organismos que vivem à custa de outros organismos
 #T=parasítico
+
 #T=parasítico
 #D=parasitário; referente aos organismos que vivem à custa de outros organismos
+
 #T=parassimpaticomimétrico
 #D=substância que estimula directamente o sistema colinérgico ou parassimpático
+
 #T=paratiróide
 #D=relativo à glândula paratiróide
+
 #T=paravenoso
 #D=próximo de uma veia
+
 #D=parecido com o ópalo ou que tem cores como ele
 #T=opalescente
+
 #T=parênquima
 #D=parte funcional de um órgão
+
 #T=parenteral
 #D=administrado por via não oral
+
 #D=parentesco, analogia, semelhança
 #T=afinidade
+
 #T=paresia
 #D=paralisia incompleta, parcial
+
 #T=parestesia
 #D=sensação de formigueiro, picadelas
+
 #T=parietal
 #D=relativo à parede de uma cavidade; relativo ao osso frontal
+
 #T=paroníquia
 #D=inflamação do dedo perto da unha; panarício
+
 #T=parotidite
 #D=inflamação da glândula salivar; papeira
+
 #T=paroxísmico
 #D=paroxístico, agudo
+
 #D=paroxístico, agudo
 #T=paroxísmico
+
 #D=parte anterior transparente do olho
 #T=córnea
+
 #D=parte da célula não ocupada pelo núcleo
 #T=citoplasma
+
 #D=parte da medicina que estuda a boca e suas doenças
 #T=estomatológico
+
 #D=parte da medicina que se ocupa da gravidez, parto e puerpério; obstétrico, tocológico
 #T=obstetrício
+
 #D=parte de um organismo ou órgão
 #T=segmento
+
 #D=parte do corpo
 #T=região
+
 #D=parte do intestino delgado desde o duodeno até ao íleo
 #T=jejuno
+
 #D=parte funcional de um órgão
 #T=parênquima
+
 #D=parte inicial do intestino delgado
 #T=duodeno
+
 #T=partícula
 #D=corpúsculo, parte elementar
+
 #D=partículas existentes na água que não foram por ela dissolvidas
 #T=suspensão
+
 #T=parto
 #D=parto
+
 #D=parto
 #T=parto
+
 #D=passado do paciente
 #T=antecedente
+
 #D=passageiro
 #T=transitório
+
 #T=passagem
 #D=evacuação intestinal
+
 #D=passagem
 #T=trânsito
+
 #D=passagem de um sintoma ou doença para outro(a)
 #T=transferência
+
 #T=passivo
 #D=não activo
+
 #D=patogénico, que causa doença
 #T=patógeno
+
 #T=patógeno
 #D=patogénico, que causa doença
+
 #T=patológico
 #D=mórbido, relacionado com uma doença determinada
+
 #T=pediátrico
 #D=relativo à parte da medicina que trata das crianças
+
 #T=pediculose
 #D=ftiríase, doença pedicular, infestação por piolhos
+
 #D=pedra
 #T=cálculo
+
 #T=película líquida
 #D=película líquida
+
 #D=película líquida
 #T=película líquida
+
 #D=pelos ou cabelos em pé, erecção do pelo ou cabelo
 #T=piloerecção
+
 #T=pélvico
 #D=relativo à parte inferior do tronco do corpo
+
 #T=penetração
 #D=penetração, perfuração
+
 #D=penetração pela pele ou pelas mucosas, consumo
 #T=adsorção
+
 #D=penetração, perfuração
 #T=penetração
+
 #D=penetrante
 #T=incisivo
+
 #T=pênfigo
 #D=doença bulhosa da pele
+
 #T=penicilinase
 #D=enzima encontrada nos organismos penicilino-resistentes
+
 #T=pénis
 #D=membro viril, falo, pene, verga
+
 #D=pensativo, reflexivo
 #T=reflexivo
+
 #T=péptico
 #D=relativo à digestão; úlcera gástrica
+
 #D=pequena ampola, frasco
 #T=vial
+
 #D=pequena elevação sólida e circunscrita da pele
 #T=pápula
+
 #D=pequenas manchas avermelhado-rouxas na pele
 #T=petéquias
+
 #D=pequeno mal, epilepsia com ataques pouco intensos
 #T=Petit mal; epilepsia menor
+
 #D=pequeno osso; ossinho
 #T=ossículo
+
 #D=pequeno ovo
 #T=óvulo
+
 #D=pequenos fragmentos presentes em dispersão coloidal
 #T=mecela
+
 #D=perca da coordenação muscular
 #T=ataxia
+
 #T=percepção
 #D=percepção
+
 #D=percepção
 #T=percepção
+
 #D=perceptível aos sentidos externos; meta
 #T=objectivo
+
 #T=percutâneo
 #D=através da pele
+
 #D=perda da capacidade de comunicar
 #T=afasia
+
 #D=perda da faculdade visual em zonas bem circunscritas do campo visual; escotomia
 #T=escotoma
+
 #D=perda da própria personalidade
 #T=despersonalização
+
 #D=perda de sangue
 #T=hemorragia
+
 #D=perda de sangue pela vagina
 #T=spotting
+
 #D=perda do peso e enfraquecimento físico
 #T=caquexia
+
 #D=perda momentânea do conhecimento
 #T=ausência
+
 #D=perda parcial ou quase total da consciência; obnubilação, torpor
 #T=estupor
+
 #D=perda súbita da consciência por descida da pressão sanguínea no cérebro; desmaio
 #T=síncope
+
 #T=perene
 #D=perpétuo
+
 #T=perfuração
 #D=abertura; orifício
+
 #T=perfusão
 #D=perfusão; transfusão
+
 #D=perfusão no sangue
 #T=hemoperfusão
+
 #D=perfusão; transfusão
 #T=perfusão
+
 #T=perianal
 #D=em volta do ânus
+
 #T=periartrite
 #D=inflamação dos tecidos que rodeiam uma articulação
+
 #T=pericardite
 #D=inflamação da envoltura do coração
+
 #T=peridual
 #D=situado em torno da envoltura do sistema nervoso central
+
 #T=periférico
 #D=fora do centro, fora do sistema nervoso central
+
 #D=periférico, distante do tronco
 #T=distal
+
 #T=perinatal
 #D=pouco antes ou depois do nascimento
+
 #T=perineal
 #D=relativo à região limitada pelo escroto-ânus, no homem, e pela vulva-ânus, na mulher
+
 #T=periódico
 #D=cíclico, regular
+
 #D=período
 #T=ciclo
+
 #D=período de hospitalização aquando de uma operação
 #T=perioperativo
+
 #T=período de latência
 #D=tempo de espera
+
 #D=período de maturidade sexual
 #T=puberdade
+
 #D=período de restabelecimento após o parto
 #T=puerpério
+
 #D=período dentro de uma evolução constante
 #T=fase
+
 #D=período entre o contágio e a manifestação da doença; choco
 #T=incubação
+
 #T=perioperativo
 #D=período de hospitalização aquando de uma operação
+
 #T=perioral
 #D=à volta da boca
+
 #T=periorbital
 #D=à volta da órbita
+
 #T=peristaltismo
 #D=movimento automático do intestino
+
 #T=peritonite
 #D=inflamação da envoltura do abdominal
+
 #T=perivascular
 #D=à volta dos vasos sanguíneos
+
 #T=permanente
 #D=permanente
+
 #D=permanente
 #T=permanente
+
 #T=permeabilidade
 #D=propriedade de uma membrana deixar passar as substâncias
+
 #T=pernas sem repouso
 #D=sensação de formigueiro profundo em ambas as pernas
+
 #T=pernicioso
 #D=mau, grave, maligno
+
 #T=peroral
 #D=através da boca (ingestão de remédios, por exemplo)
+
 #D=perpétuo
 #T=perene
+
 #D=perseverante
 #T=persistente
+
 #T=persistente
 #D=perseverante
+
 #D=persistente
 #T=contínuo
+
 #D=pertencente a ou que produz o movimento
 #T=cinético
+
 #D=pertencente à região do anus e dos órgãos genitais
 #T=anogenital
+
 #D=pertencente à virilha
 #T=inguinal
+
 #D=pertencente ao cabelo, filiforme
 #T=capilar
+
 #D=pertencente ao caracol ósseo do ouvido interno
 #T=coclear
+
 #D=pertencente ao lúmen de uma bainha ou canal
 #T=intratecal
+
 #D=pertencente ao osso da coxa
 #T=femoral
+
 #D=pertencente aos sintomas
 #T=sintomático
+
 #T=pertosse
 #D=esgana, coqueluche, tosse convuls(iv)a
+
 #D=perturbação
 #T=interferência
+
 #D=perturbação da nutrição de vários tecidos do organismo
 #T=distrofia
+
 #D=perturbação do funcionamento de um órgão; alteração de função
 #T=disfunção
+
 #D=perturbação mental por traumatismo, febre, envenenamento, etc. com confusão mental
 #T=delírio
+
 #T=perversão
 #D=desvio sexual
+
 #T=pessário
 #D=instrumento que se coloca na vagina como dispositivo contraceptivo; supositório vaginal
+
 #D=pessoa que oferece um órgão, sangue, etc
 #T=dador
+
 #T=petéquias
 #D=pequenas manchas avermelhado-rouxas na pele
+
 #T=Petit mal; epilepsia menor
 #D=pequeno mal, epilepsia com ataques pouco intensos
+
 #T=pH
 #D=pH
+
 #D=pH
 #T=pH
+
 #T=pico do débito
 #D=auge ou pico do fluxo, do débito
+
 #T=pielite
 #D=inflamação da pélvis renal
+
 #T=pielonefrite
 #D=inflamação conjunta do rim e da pélvis renal
+
 #T=pigmentação
 #D=matéria orgânica corante da pele
+
 #T=piloerecção
 #D=pelos ou cabelos em pé, erecção do pelo ou cabelo
+
 #T=piloro
 #D=saída do estômago
+
 #T=pioderma
 #D=infecção da pele
+
 #T=piogénico
 #D=infeccioso, que produz pus
+
 #D=pioramento repentino, ataque
 #T=crise
+
 #D=pioramento, gravamento
 #T=exacerbação
+
 #T=pirexia
 #D=estado febril
+
 #T=pirogénico
 #D=que causa febre
+
 #T=pirose
 #D=azia, sensação de calor no estômago
+
 #T=pitiríase
 #D=descamação da pele
+
 #T=placa dentária
 #D=tártaro
+
 #T=placebo
 #D=medicamento destinado mais a agradar do que a beneficiar o
+
 #T=placenta
 #D=placenta
+
 #D=placenta
 #T=placenta
+
 #T=plasminogénio
 #D=precursor inactivo da plasmina
+
 #T=pleurisia
 #D=pleurite, inflamação da membrana que reveste os pulmões e a cavidade torácica
+
 #D=pleurite, inflamação da membrana que reveste os pulmões e a cavidade torácica
 #T=pleurisia
+
 #T=plexo
 #D=rede de vasos linfáticos, nervos ou veias
+
 #D=plurivalente, multivalente
 #T=polivalente
+
 #T=pneumonia
 #D=pulmonia, inflamação dos pulmões e brônquios respiratórios
+
 #D=pneumonia dos brônquios
 #T=broncopneumonia
+
 #T=pneumopatia
 #D=doença dos pulmões
+
 #D=poder; capacidade sexual; poder de um medicamento produzir efeitos
 #T=potência
+
 #T=poliartrite
 #D=inflamação simultânea de várias articulações
+
 #T=polidipsia
 #D=sede excessiva persistente; sintoma de diabetes mellitus descompensada
+
 #T=polimorfo
 #D=que apresenta diversas formas
+
 #T=polinevrite
 #D=neurite múltipla; inflamação de muitos nervos um por cada vez
+
 #T=poliomielite
 #D=paralisia infantil
+
 #T=polipeptídeo
 #D=elemento de uma proteína; composto de dois ou mais aminoácidos unidos por ligações peptídicas
+
 #T=politerapia
 #D=terapia múltipla
+
 #T=poliúria
 #D=eliminação de grandes quantidades de urina por dia
+
 #T=polivalente
 #D=plurivalente, multivalente
+
 #D=ponto mais elevado da excitação sexual
 #T=orgasmo
+
 #T=população
 #D=população
+
 #D=população
 #T=população
+
 #D=por acaso, sem importância
 #T=acidental
+
 #D=por baixo da língua, hipoglosso
 #T=sublingual
+
 #D=por causas externas; introduzido no corpo do exterior
 #T=exógeno
+
 #D=por cima de uma pequena cavidade
 #T=supraventricular
+
 #D=por rotina, por hábito
 #T=rotineiramente
+
 #D=por trás do bolbo raquiano, por trás do globo ocular
 #T=retrobulbar
+
 #D=por trás do esterno
 #T=retroesternal
+
 #T=porfíria
 #D=transtorno do metabolismo das porfirinas
-#T=pós-carga
+
 #T=pós-menopáusico
 #D=que ocorre após a menopausa
+
 #T=pós-natal
 #D=depois do nascimento
+
 #T=pós-operativo
 #D=depois de uma operação
+
 #T=pós-parto
 #D=após o parto
+
 #T=pós-prandial
 #D=após uma refeição
+
 #T=pós-traumático
 #D=que ocorre depois de um traumatismo
+
 #T=positivo
 #D=que indica a presença de um transtorno
+
 #T=posologia
 #D=regime de administração do medicamento
+
 #D=possibilidade de realizar movimentos activos, por ex., uma articulação
 #T=mobilidade
+
 #T=posterior
 #D=traseiro
+
 #T=postural
 #D=relacionado com a postura ou a posição
+
 #T=potência
 #D=poder; capacidade sexual; poder de um medicamento produzir efeitos
+
 #T=potenciação
 #D=activação de uma droga por outra
+
 #T=potencial
 #D=existente mas não activo
+
 #T=potencialização
 #D=activação de uma droga por outra
+
 #D=pouco agudo
 #T=subagudo
+
 #D=pouco antes ou depois do nascimento
 #T=perinatal
+
 #D=pouco desenvolvido
 #T=hipoplasia
+
 #T=pré-carga
 #D=pré-carga
+
 #D=pré-carga
 #T=pré-carga
+
 #T=pré-clínico
 #D=que ocorre antes da doença ser clinicamente reconhecível
+
 #T=pré-medicação
 #D=administração de medicamentos como sedativos antes de uma anestesia geral
+
 #T=pré-menstrual
 #D=que ocorre antes da menstruação
+
 #T=pré-natal
 #D=antes do nascimento, durante a evolução da gravidez
+
 #T=pré-operatório
 #D=que precede uma operação
+
 #T=pré-sinático
 #D=que se encontra adiante da zona de contacto entre dois neuronas
+
 #T=precipitação
 #D=precipitado, depósito
+
 #D=precipitado, depósito
 #T=precipitação
+
 #T=precordial
 #D=situado diante do coração
+
 #T=precursor
 #D=que precede, dianteiro
+
 #D=precursor inactivo da plasmina
 #T=plasminogénio
+
 #T=predisposição
 #D=aptidão do organismo para contrair certas doenças; vocação
+
 #D=predominância do vago
 #T=vagotonia
+
 #D=predomínio de um gene ou de um carácter
 #T=dominância
+
 #T=preeclampsia
 #D=estado antenatal que precede as convulsões eclâmpticas
+
 #D=prega de pele que recobre a glande do pénis ou o clítoris
 #T=prepúcio
+
 #D=prega existente num canal permitindo o fluxo num único sentido
 #T=válvula
+
 #T=prejudicial
 #D=desfavorável, adverso
+
 #T=preliminar
 #D=que antecede o principal ou que o prepara
+
 #T=prematuro
 #D=que acontece antes do tempo (normal)
+
 #D=preocupação indevida de uma pessoa pela sua saúde
 #T=hipocondria
+
 #T=preparação
 #D=preparado, confecção, solução, fabricação
+
 #D=preparação concentrada de uma droga
 #T=extracto
+
 #D=preparação farmacológica em forma de grânulos
 #T=grânulos
+
 #D=preparado a partir de drogas vegetais em vez de substâncias químicas
 #T=galénico
+
 #D=preparado com alcool diluído
 #T=didralcoólico
+
 #D=preparado líquido que contém várias substâncias químicas solúveis; soluto, licor; meio
 #T=solução
+
 #D=preparado para a higiene e beleza
 #T=cosmético
+
 #D=preparado, confecção, solução, fabricação
 #T=preparação
+
 #T=prepúcio
 #D=prega de pele que recobre a glande do pénis ou o clítoris
+
 #T=prescrição
 #D=receita
+
 #D=presença de bactérias no sangue
 #T=bacteriemia
+
 #D=presença de creatina no sangue
 #T=creatinemia
+
 #D=presença de glicose nas urinas
 #T=glicosúria
+
 #D=presença de metemoglobina no sangue de que resulta a cianose
 #T=metemoglobinemia
+
 #D=presença de pedras nas condutas biliares, litíase biliar
 #T=colelitíase
+
 #D=presença de pequenas saliências ou bolsas em pontos fracos do intestino grosso diverticulose
 #T=diverticulite
+
 #D=presença excessiva de ar nos pulmões ou tecidos corporais
 #T=enfisema
+
 #D=presente desde a nascença, mas não necessariamente hereditário
 #T=congénito
+
 #D=pressão
 #T=tensão
+
 #D=pressão anormal no globo ocular
 #T=glaucoma
+
 #D=pressão sanguínea anormalmente baixa
 #T=hipotensão
+
 #T=prevenção
 #D=medidas destinadas a evitar doenças ou acidentes
+
 #T=priapismo
 #D=erecção anormal e persistente
+
 #T=primário
 #D=primeiro, principal, originário
+
 #D=primeira menstruação
 #T=menarca
+
 #T=primeira passagem
 #D=primeiro passo
+
 #D=primeira vacina
 #T=primeira vacinação
+
 #T=primeira vacinação
 #D=primeira vacina
+
 #D=primeiro passo
 #T=primeira passagem
+
 #D=primeiro, principal, originário
 #T=primário
+
 #T=prisão de ventre
 #D=obstipação
+
 #T=privação
 #D=falta ou carência
+
 #D=privação ou diminuição considerável do movimento voluntário e da sensibilidade
 #T=paralisia
+
 #T=procedimento
 #D=método, processo
+
 #D=procedimento que torna um indivíduo incapaz de reproduzir
 #T=esterilização
+
 #D=procedimento que transforma sistemas vivos em substâncias químicas nocivas
 #T=biodegração
+
 #D=processo de formação de uma úlcera; helcose
 #T=ulceração
+
 #D=processo de formação dos espermatozóides
 #T=espermatogénese
+
 #D=processo de tornar móvel uma parte fixa ou uma substância presa
 #T=mobilização
+
 #D=processo de transformação de células ou tecidos noutros distintos
 #T=metaplasia
+
 #D=processo pelo qual são produzidos iões numa substância
 #T=ionização
+
 #D=processo pelo qual uma coisa perde eficácia
 #T=neutralização
+
 #T=procriação
 #D=geração, reprodução, propagação
+
 #T=proctite
 #D=inflamação do recto
+
 #T=produção
 #D=fabricação, geração
+
 #D=produção de calor num tecido por correntes eléctricas de alta frequência
 #T=diatermia
+
 #D=produção excessiva de aldoresterona pela glândula supra-renal
 #T=hiperaldosteronismo
+
 #T=produtivo
 #D=que produz tecido novo (diz-se de uma inflamação); que produz escarros e muco (diz-se da tosse)
+
 #D=produto acrescentado
 #T=aditivo
+
 #T=produto liofilizado
 #D=produto preparado mediante congelação e desidratação
+
 #D=produto preparado mediante congelação e desidratação
 #T=produto liofilizado
+
 #D=produtos com efeito idêntico ao da morfina
 #T=morfinomimético
+
 #D=produzido por fungos
 #T=micótico
+
 #D=produzido por manipulação química de substâncias naturais
 #T=semi-sintético
+
 #T=profilaxia
 #D=medicina preventiva
+
 #T=progestogeno
 #D=hormona que prepara o útero para a recepção e desenvolvimento do óvulo fecundado
+
 #T=prognose
 #D=prognóstico
+
 #D=prognóstico
 #T=prognose
+
 #T=progressivo
 #D=continuado, que avança lentamente
+
 #T=prolapso
 #D=afundamento ou queda (ex.: útero, recto, cordão umbilical)
+
 #T=proliferação
 #D=reprodução, multiplicação
+
 #D=proliferação da mucosa uterina fora do seu lugar habitual
 #T=endometriose
+
 #D=propagação
 #T=transmissão
+
 #D=propagação, multiplicação; cópia
 #T=reprodução
+
 #T=proporcional
 #D=proporcional
+
 #D=proporcional
 #T=proporcional
+
 #D=propriedade de uma membrana deixar passar as substâncias
 #T=permeabilidade
+
 #D=próprio à constituição de um indivíduo
 #T=constitucional
+
 #D=próprio a uma região ou população específica
 #T=endémico
+
 #T=proptose
 #D=distensão excessiva de qualquer parte do corpo; deslocamento de um órgão para a frente; proptoma
+
 #T=propulsivo
 #D=motor
+
 #T=prostaglandina(s)
 #D=substâncias derivadas de ácidos gordos
+
 #T=prostatismo
 #D=hipertrofia e obstrução da próstata
+
 #T=prostatite
 #D=inflamação da próstata
+
 #T=protéase
 #D=enzima proteolítica, enzina que destrói as proteínas
+
 #T=protectivo
 #D=que protege, protector
+
 #T=proteína
 #D=prótido
+
 #D=proteína de diversos cereais
 #T=glúten
+
 #D=proteína do plasma
 #T=proteína plasmática
+
 #T=proteína plasmática
 #D=proteína do plasma
+
 #D=proteína principal no sangue
 #T=albumina
+
 #D=proteína que constitui o principal componente do tecido conjuntivo
 #T=colagénio
+
 #T=proteolítico
 #D=que digere ou hidrolisa as proteínas
+
 #T=prótese
 #D=substituição artificial de um órgão; anaplerose
+
 #D=prótido
 #T=proteína
+
 #T=protozoário
 #D=organismos unicelulares
+
 #T=protrombina
 #D=factor II da coagulação sanguínea; trombogénio
+
 #T=protrusão
 #D=deslocação para a frente de um órgão
+
 #D=protuberância num ponto fraco de uma artéria
 #T=aneurisma
+
 #T=prova
 #D=ensaio, experiência, análise
+
 #D=prova dita duplamente cego
 #T=duplamente cego
+
 #T=próximo
 #D=situado mais perto do centro do tronco
+
 #D=próximo de uma veia
 #T=paravenoso
+
 #T=prurido
 #D=comichão
+
 #D=pruriginoso, que faz comichão
 #T=prurítico
+
 #T=prurítico
 #D=pruriginoso, que faz comichão
+
 #T=pseudo-tumor
 #D=falso tumor
+
 #T=pseudomembranoso
 #D=pseudomenbranoso
+
 #D=pseudomenbranoso
 #T=pseudomembranoso
+
 #T=psicogénico
 #D=que tem origem emocional ou psicológica
+
 #T=psicoléptico
 #D=fármaco com efeito sedente
+
 #T=psicológico
 #D=psicológico
+
 #D=psicológico
 #T=psicológico
+
 #T=psicomotor
 #D=relativo aos efeitos motores da actividade cerebral ou psíquica
+
 #D=psicopatia, alienação (mental), doença mental
 #T=psicose
+
 #T=psicose
 #D=psicopatia, alienação (mental), doença mental
+
 #D=psicose, doença mental em que o doente se alheia do mundo que o rodeia e se refugia em si mesmo
 #T=esquizofrenia
+
 #T=psicossomático
 #D=que tem sintomas corporais de origem psíquica, emocional e mental
+
 #T=psicotrópico
 #D=que afecta o estado mental
+
 #T=psiquiátrico
 #D=relativo à psiquiatria
+
 #T=psíquico
 #D=mental
+
 #D=psíquico
 #T=mental
+
 #T=psoríase
 #D=doença da pele caracterizada por descamação
+
 #T=ptose
 #D=queda de um órgão
+
 #T=puberdade
 #D=período de maturidade sexual
+
 #T=puerpério
 #D=período de restabelecimento após o parto
+
 #T=pulmonar
 #D=relativo aos pulmões
+
 #D=pulmonia, inflamação dos pulmões e brônquios respiratórios
 #T=pneumonia
+
 #T=pulsação
 #D=batimento cardíaco ou o fluxo do sangue nas artérias
+
 #D=pulsação fora do tempo
 #T=extra-sístole
+
 #T=pulverizador
 #D=atomizador, vaporizador, aparelho de pulverizar
+
 #T=punção
 #D=paracentese, puntura
+
 #D=purgante, que produz evacuação do intestino
 #T=purgativo
+
 #T=purgativo
 #D=purgante, que produz evacuação do intestino
+
 #T=púrpura
 #D=doença de Werlhof, caracterizada por manchas de cor vermelha devidas à ocorrência de hemorragias subcutâneas
+
 #T=purulento
 #D=que contém ou produz pus
+
 #D=pústula maligna, baceira, mal-do-baço, mal-do-sangue
 #T=antraz
+
 #D=pustulento, com formação de pústulas
 #T=pustuloso
+
 #T=pustuloso
 #D=pustulento, com formação de pústulas
+
 #T=qualitativo
 #D=relativo à qualidade
+
 #D=qualquer coisa viva individual
 #T=organismo
+
 #D=qualquer doença muscular
 #T=miopatia
+
 #T=quantitativo
 #D=relativo à quantidade
+
 #T=quaternário
 #D=que contém quatro elementos
+
 #D=que absorve a água, é atraído pela água
 #T=hidrófilo
+
 #D=que acontece antes do tempo (normal)
 #T=prematuro
+
 #D=que acontece sem manifestação de sintomas
 #T=subclínico
+
 #D=que activa o desenvolvimento fisiológico
 #T=anabólico
+
 #D=que actua através de um agente intermédio
 #T=indirecto
+
 #D=que actua por intermédio da acetilcolina
 #T=colinérgico
+
 #D=que afecta o calibre dos vasos
 #T=vasomotor
+
 #D=que afecta o colo ou o colo de um órgão
 #T=cervical
+
 #D=que afecta o corpo de forma total; geral, generalizado
 #T=sistémico
+
 #D=que afecta o estado mental
 #T=psicotrópico
+
 #D=que afecta os músculos da mastigação; que deve mastigar-se
 #T=mastigatório
+
 #D=que afecta os vasos cerebrais
 #T=cerebrovascular
+
 #D=que age simultaneamente com outra coisa
 #T=sinergético
+
 #D=que age só no coração
 #T=cardiosselectivo
+
 #D=que age sobre os vasos sanguíneos
 #T=vasoactivo
+
 #D=que ajuda a aumentar o fluxo de urina
 #T=diurético
+
 #D=que alivia a dor
 #T=analgésico
+
 #D=que alivia as dores mas não cura
 #T=paliativo
+
 #D=que alivia as zonas inflamadas; suavizante
 #T=demulcente
+
 #D=que amolece a pele
 #T=emoliente
+
 #D=que antecede o principal ou que o prepara
 #T=preliminar
+
 #D=que aperta os tecidos, secura da pele
 #T=adstringente
+
 #D=que apresenta diversas formas
 #T=polimorfo
+
 #D=que aumenta a sensibilidade do organismo para um veneno
 #T=anafiláctico
+
 #D=que causa arritmia, pulsão irregular
 #T=arritmogénico
+
 #D=que causa febre
 #T=pirogénico
+
 #D=que causa imunidade
 #T=imunogénico
+
 #D=que combate a ansiedade, tranquilizante
 #T=anxiolítico
+
 #D=que combate a formação de tumores
 #T=antitumor
+
 #D=que combate a infecção
 #T=anti-infeccioso
+
 #D=que combate a inflamação, anti-inflamatório
 #T=antiflogístico
+
 #D=que conduz através da uretra ou a atravessa
 #T=transruretal
+
 #D=que contém muco e pus
 #T=mucopurulento
+
 #D=que contém ou produz pus
 #T=purulento
+
 #D=que contém quatro elementos
 #T=quaternário
+
 #D=que contrai os vasos sanguíneos
 #T=vasopressor
+
 #D=que cura, terapêutico
 #T=curativo
+
 #D=que degenera, retrógrado, regressivo, retrocedente
 #T=retrógrado
+
 #D=que desinfecta
 #T=desinfectante
+
 #D=que destrói as bactérias
 #T=antibacteriano
+
 #D=que destrói as células cancerosas
 #T=oncolítico
+
 #D=que destrói ou impede o desenvolvimento de vírus
 #T=antiviral
+
 #D=que digere ou hidrolisa as proteínas
 #T=proteolítico
+
 #D=que diminui a defesa do organismo
 #T=imunossupressor
+
 #D=que dissolve a fibrina
 #T=fibrinolítico
+
 #D=que dissolve as gorduras; que pode tornar-se obeso
 #T=lipofílico
+
 #D=que dissolve ou desintegra um trombo
 #T=trombolítico
+
 #D=que distende os músculos
 #T=miorrelaxante
+
 #D=que é consequência de uma deficiência do coração
 #T=cardiogénico
+
 #D=que é tóxico para as células; detém o crescimento dos tecidos
 #T=citotóxico
+
 #D=que encerra muitas doses
 #T=multidose
+
 #D=que equivale
 #T=corresponder
+
 #D=que está afastado
 #T=extremo
+
 #D=que está situado ou ocorre num corpo vivo
 #T=in vivo
+
 #D=que estimula as glândulas sexuais
 #T=gonadotrópico
+
 #D=que estimula o coração
 #T=cardiotónico
+
 #D=que exerce efeito sobre a tensão superficial
 #T=tensioactivo
+
 #D=que faz girar os olhos
 #T=oculogiro
+
 #D=que foge da luz (que tem aversão à luz)
 #T=fotofobia
+
 #D=que gera úlceras
 #T=ulcerogénico
+
 #D=que impede a exsudação, a transpiração
 #T=antiexudativo
+
 #D=que impede a formação de coágulos no sangue e dissolve-os
 #T=antitrombótico
+
 #D=que impede a gravidez
 #T=contraceptivo
+
 #D=que impede a inflamação
 #T=anti-inflamatório
+
 #D=que impede a reprodução dos fungos
 #T=antimicótico
+
 #D=que impede o desenvolvimento das bactérias
 #T=bacteriostático
+
 #D=que impede o desenvolvimento de micróbios
 #T=antimicrobiano
+
 #D=que impede ou contraria o efeito das hormonas estrogénicas
 #T=antiestrogénico
+
 #D=que indica a presença de um transtorno
 #T=positivo
+
 #D=que induz a eliminação de sal pela urina
 #T=salúrico
+
 #D=que induz mutações genéticas
 #T=mutagénico
+
 #D=que inibe o nervo vago
 #T=vagolítico
+
 #D=que mata as bactérias
 #T=bactericida
+
 #D=que mata os espermatozóides
 #T=espermicida
+
 #D=que move, motriz
 #T=motor
+
 #D=que não deixa as células multiplicarem-se
 #T=antiproliferativo
+
 #D=que não desenvolveu
 #T=atrofia
+
 #D=que não faz urinar
 #T=antidiurético
+
 #D=que não reage a determinados medicamentos
 #T=resistente
+
 #D=que não se pode curar com operação cirúrgica
 #T=inoperável
+
 #D=que não tem água
 #T=anidro
+
 #D=que não tem espermatóides
 #T=azospermia
+
 #D=que não toma o corante de Gram
 #T=Gram-negativo
+
 #D=que ocorre antes da doença ser clinicamente reconhecível
 #T=pré-clínico
+
 #D=que ocorre antes da menstruação
 #T=pré-menstrual
+
 #D=que ocorre após a menopausa
 #T=pós-menopáusico
+
 #D=que ocorre depois de um traumatismo
 #T=pós-traumático
+
 #D=que ocorre em intervalos
 #T=intermitente
+
 #D=que pára a multiplicação das células
 #T=citostático
+
 #D=que passa através da pele
 #T=transdérmico
+
 #D=que penatra, que invade
 #T=invasivo
+
 #D=que pertence ou é relativo ao sistema nervoso vegetativo
 #T=neurovegetativo
+
 #D=que pode desaparecer totalmente com a supressão da causa
 #T=reversível
+
 #D=que pode ser administrado juntamente com outro medicamento
 #T=compatível
+
 #D=que precede uma operação
 #T=pré-operatório
+
 #D=que precede, dianteiro
 #T=precursor
+
 #D=que produz degeneração
 #T=degenerativo
+
 #D=que produz e restabelece o tom normal; que se caracteriza por tensão contínua
 #T=tónico
+
 #D=que produz sono, soporífero
 #T=soporífico
+
 #D=que produz tecido novo (diz-se de uma inflamação); que produz escarros e muco (diz-se da tosse)
 #T=produtivo
+
 #D=que protege, protector
 #T=protectivo
+
 #D=que provoca a morte
 #T=letal
+
 #D=que provoca o cancro, cancerígeno
 #T=carcinogénico
+
 #D=que reduz a febre, antitérmico, febrífugo, antifebril
 #T=antipirético
+
 #D=que se compadece com os males ou desventuras de outrem; simpático
 #T=complacente
+
 #D=que se desenvolve ou surge num organismo
 #T=endógeno
+
 #D=que se encontra adiante da zona de contacto entre dois neuronas
 #T=pré-sinático
+
 #D=que se encontra ou produz fora do lugar habitual
 #T=ectópico
+
 #D=que se pode misturar
 #T=miscível
+
 #D=que se produz durante o dia
 #T=diurno
+
 #D=que se senta habitualmente; de hábitos inactivos
 #T=sedentário
+
 #D=que se une com três átomos de hidrogénio ou os substitui
 #T=trivalente
+
 #D=que secreta hormonas
 #T=endócrino
+
 #D=que segue um sistema, um método
 #T=sistemático
+
 #D=que serve de cobertura, como a pele; integumental
 #T=integumentário
+
 #D=que serve para curar
 #T=terapêutico
+
 #D=que suprime ou combate a tosse
 #T=antitússico
+
 #D=que tem a mesma tensão ou concentração
 #T=isotónico
+
 #D=que tem afinidade com corantes neutros
 #T=neutrófilo
+
 #D=que tem duas fases
 #T=bifásico
+
 #D=que tem falta de ferro
 #T=ferropénico
+
 #D=que tem febre, pirético
 #T=febril
+
 #D=que tem horror à água ou foge dela
 #T=hidrófobo
+
 #D=que tem origem emocional ou psicológica
 #T=psicogénico
+
 #D=que tem sintomas corporais de origem psíquica, emocional e mental
 #T=psicossomático
+
 #D=que teve vários filhos
 #T=multípara
+
 #D=que tira a sensibilidade
 #T=anestésico
+
 #D=que toma o corante de Gram
 #T=Gram-positivo
+
 #D=que trava a divisão e crescimento das células
 #T=antimitótico
+
 #D=que vive no ar
 #T=aeróbio
+
 #D=que vive sem ar
 #T=anaeróbio
+
 #D=que volta à sua origem
 #T=recorrente
+
 #D=queda de um órgão
 #T=ptose
+
 #D=queda rápida da tensão arterial; enfraquecimento de um órgão
 #T=colapso
+
 #T=quelação
 #D=quelante
+
 #D=quelante
 #T=quelação
+
 #T=quelóide
 #D=cicatriz defeituosa
+
 #T=quiescente
 #D=em repouso
+
 #T=químico
 #D=químico
+
 #D=químico
 #T=químico
+
 #T=químio-receptor
 #D=célula capaz de receber substâncias químicas
+
 #T=quimioterapia
 #D=tratamento do cancro com substâncias químicas
+
 #T=quimioterápico
 #D=medicamento que ataca os micróbios parasitas ou as células de um cancro
+
 #T=quisto
 #D=tumefacção anormal com conteúdo líquido; ciste
+
 #T=radioactividade
 #D=radioactividade
+
 #D=radioactividade
 #T=radioactividade
+
 #T=radiografia
 #D=radiografia
+
 #D=radiografia
 #T=radiografia
+
 #D=radiografia das artérias
 #T=arteriografia
+
 #D=radiografia das veias
 #T=flebografia
+
 #D=radiografia de contraste das condutas biliares
 #T=colangiografia
+
 #D=radiografia de uma parte do aparelho urinário
 #T=urografia
+
 #D=radiografia de uma secção do corpo ou de um órgão
 #T=tomografia
+
 #T=radiológico
 #D=radiológico
+
 #D=radiológico
 #T=radiológico
+
 #T=radioterapia
 #D=tratamento por radiações; curieterapia
+
 #T=rágade
 #D=corte, fissura
+
 #D=ramificado, relativo às dendrites (fibras nervosas)
 #T=dendrítico
+
 #T=raquitismo
 #D=doença de Glisson, nodosidade das articulações
+
 #D=rarefacção dos minerais nos ossos; desmineralização esquelética
 #T=osteoporose
+
 #D=raspagem
 #T=curetagem
+
 #T=reabsorção
 #D=reabsorção cutânea, dental
+
 #D=reabsorção cutânea, dental
 #T=reabsorção
+
 #T=reacção
 #D=reacção
+
 #D=reacção
 #T=reacção
+
 #D=reacção a um estímulo
 #T=resposta
+
 #D=reacção anormal do organismo contra um dos seus próprios tecidos
 #T=auto-imune
+
 #D=reacção de desdobramento de uma molécula por acção da água
 #T=hidrólise
+
 #D=reacção local da pele a uma irritação mecânica ou efeito de pressão
 #T=dermografia
+
 #T=reactivação
 #D=restauração da actividade num corpo inactivo
+
 #T=reactividade
 #D=capacidade para apresentar reacções
+
 #D=reactivo, eficaz
 #T=activo
+
 #D=reactivo, substância utilizada para produzir uma reacção química
 #T=reagente
+
 #T=reagente
 #D=reactivo, substância utilizada para produzir uma reacção química
+
 #D=reanimação de doentes que pareciam mortos, como após afogamento, etc
 #T=ressuscitação
+
 #T=reavaliação
 #D=reavaliação
+
 #D=reavaliação
 #T=reavaliação
+
 #D=rebelde, que não cede facilmente com o tratamento
 #T=refractário
+
 #D=receita
 #T=prescrição
+
 #T=receptor
 #D=receptor
+
 #D=receptor
-#T=receptor recidivista
+#T=receptor
+
+#T=recidivista
 #D=reincidente, pessoa que repete os actos delinquentes depois de receber tratamento
+
 #T=recipiente
 #D=beneficiário
+
 #T=recombinante
 #D=célula com nova combinação genética, não herdada dos pais
+
 #T=reconstituição
 #D=acrescentar um solvente a um medicamento em pó; tipo de regeneração de uma superfície lesionada; retorno à forma líquida do soro ou plasma sanguíneo previamente dessecado
+
 #T=reconvalescença
 #D=fase de recuperação
+
 #T=recorrente
 #D=que volta à sua origem
+
 #T=rectal
 #D=relativo ao recto, ânos
+
 #T=recuperação
 #D=recuperação, aproveitamento
+
 #D=recuperação, aproveitamento
 #T=recuperação
+
 #D=rede de vasos linfáticos, nervos ou veias
 #T=plexo
+
 #T=redução
 #D=retorno à forma inicial ou normal
+
 #D=reduzir (ao mínimo), limitar
 #T=minimizar
+
 #D=reduzir a pó fino
 #T=micronizar
+
 #T=referência
 #D=referência
+
 #D=referência
 #T=referência
+
 #D=referente ao intestino e ao fígado
 #T=entero-hepático
+
 #D=referente ao intestino grosso e à sua parte final
 #T=colorectal
+
 #D=referente aos órgãos urinários e genitais; geniturinário
 #T=urogenital
+
 #D=referente aos vasos sanguíneos
 #T=vascular
+
 #D=referente ou pertencente ao olho ou à vista
 #T=oftálmico
+
 #T=reflexivo
 #D=pensativo, reflexivo
+
 #T=reflexo
 #D=reflexo
+
 #D=reflexo
 #T=reflexo
+
 #D=reflexos aumentados
 #T=hiper-reflexia
+
 #T=refluxo
 #D=fluxo de retorno
+
 #T=refractário
 #D=rebelde, que não cede facilmente com o tratamento
+
 #T=regeneração
 #D=renovação ou preparação de tecidos ou de partes desaparecidas
+
 #T=região
 #D=parte do corpo
+
 #D=regime de administração do medicamento
 #T=posologia
+
 #T=regional
 #D=regional
+
 #D=regional
 #T=regional
+
 #D=registo das ondas cerebrais (para detecção de tumores)
 #T=electroencefalografia
+
 #D=regra
 #T=critério
+
 #D=regras
 #T=menstruação
+
 #T=regressão
 #D=retorno a um estado ou fase anterior; desaparecimento dos sintomas ou de um processo anormal; involução
+
 #T=regulação
 #D=afinação, ajustamento
+
 #D=regulação
 #T=retroacção
+
 #D=regulação do calor ou da temperatura
 #T=termorregulação
+
 #T=regurgitação
 #D=voltar à boca [por exemplo, alimentos sólidos que...]
+
 #T=reidratação
 #D=restauração da água ou do conteúdo líquido num organismo
+
 #D=reincidente, pessoa que repete os actos delinquentes depois de receber tratamento
 #T=recidivista
+
 #T=reinfecção
 #D=nova infecção num mesmo agente, depois de ter curado a primeira
+
 #D=relação entre dois elementos
 #T=interacção
+
 #D=relação recíproca ou mútua
 #T=correlação
+
 #D=relacionado com a contracção músculo cardíaco
 #T=sistólico
+
 #D=relacionado com a parte inferior da coluna vertebral
 #T=lombar
+
 #D=relacionado com a postura ou a posição
 #T=postural
+
 #D=relacionado com o cristalino
 #T=lenticular
+
 #D=relativo a angina
 #T=anginoso
+
 #D=relativo a artérias e veias do coração
 #T=coronário
+
 #D=relativo à aura, percebido pelo ouvido
 #T=aural
+
 #D=relativo à boca e à garganta
 #T=bucofaríngeo
+
 #D=relativo à boca, oral
 #T=bucal
+
 #D=relativo à boca, pela boca
 #T=oral
+
 #D=relativo à cabeça de um osso largo
 #T=epifisário
+
 #D=relativo à cara
 #T=facial
+
 #D=relativo à cavidade óssea que contém o globo ocular; orbitário
 #T=orbital
+
 #D=relativo à ciência dos microrganismos (organismos minúsculos)
 #T=microbiológico
+
 #D=relativo à ciência que estuda os venenos
 #T=toxicológico
+
 #D=relativo à ciência que investiga os medicamentos
 #T=farmacológico
+
 #D=relativo à ciência que se ocupa do desenvolvimento anormal e das malformações congénitas
 #T=teratológico
+
 #D=relativo à clínica; baseado na observação e no tratamento
 #T=clínico
+
 #D=relativo à coluna vertebral
 #T=espinal
+
 #D=relativo à correlação entre os nervos e os músculos
 #T=neuromuscular
+
 #D=relativo à difusão de um líquido através de uma membrana
 #T=osmótico
+
 #D=relativo à digestão
 #T=digestivo
+
 #D=relativo à digestão; úlcera gástrica
 #T=péptico
+
 #D=relativo à disástole (fase de relaxamento do músculo cardíaco)
 #T=diastólico
+
 #D=relativo à divisão dos cromossomas e replicação das células
 #T=miótico
+
 #D=relativo à electrofisiologia (estudo das reacções produzidas nos seres vivos por excitações eléctricas)
 #T=electrofisiológico
+
 #D=relativo à energia
 #T=energético
+
 #D=relativo à farmácia
 #T=farmacêutico
+
 #D=relativo à física e à química
 #T=físico-químico
+
 #D=relativo à geração do homem
 #T=androgénico
+
 #D=relativo à glândula paratiróide
 #T=paratiróide
+
 #D=relativo à hematologia (estudo do sangue e das suas afecções)
 #T=hematológico
+
 #D=relativo à hipófice
 #T=hipofisário
+
 #D=relativo à histologia (parte da anatomia que trata dos tecidos orgânicos)
 #T=histológico
+
 #D=relativo à infância
 #T=infantil
+
 #D=relativo à mama
 #T=mamário
+
 #D=relativo à medicina que trata as doenças dos velhos
 #T=geriátrico
+
 #D=relativo à medula de qualquer tipo
 #T=medular
+
 #D=relativo à micologia (estudo dos cogumelos)
 #T=micológico
+
 #D=relativo à orelha; relativo a uma das câmaras superiores do coração
 #T=auricular
+
 #D=relativo à pálpebra
 #T=palpebral
+
 #D=relativo à parede de uma cavidade; relativo ao osso frontal
 #T=parietal
+
 #D=relativo à parte da medicina que estuda os olhos
 #T=oftalmológico
+
 #D=relativo à parte da medicina que trata das crianças
 #T=pediátrico
+
 #D=relativo à parte filtrante dos rins
 #T=glomerular
+
 #D=relativo à parte inferior do tronco do corpo
 #T=pélvico
+
 #D=relativo à pedra, que rompe, que influi na destruição da célula
 #T=lítico
+
 #D=relativo à pele
 #T=dermatológico
+
 #D=relativo à pele
 #T=epidérmico
+
 #D=relativo à posição do pé ou causado por ele
 #T=ortostático
+
 #D=relativo à psiquiatria
 #T=psiquiátrico
+
 #D=relativo à qualidade
 #T=qualitativo
+
 #D=relativo à quantidade
 #T=quantitativo
+
 #D=relativo à química dos processos vitais e organismos vivos
 #T=bioquímico
+
 #D=relativo à região limitada pelo escroto-ânus, no homem, e pela vulva-ânus, na mulher
 #T=perineal
+
 #D=relativo à respiração
 #T=respiratório
+
 #D=relativo à retina
 #T=retinal
+
 #D=relativo a um ciclo, que passa por etapas sucessivas
 #T=cíclico
+
 #D=relativo a um trauma ou traumatismo, ou causado por ele
 #T=traumático
+
 #D=relativo a um vestíbulo ou que se dirige para ele
 #T=vestibular
+
 #D=relativo a uma artéria e a uma veia
 #T=artério-venoso
+
 #D=relativo a uma bolsa ou cavidade, particularmente na câmara superior do coração
 #T=sinusal
+
 #D=relativo a uma borda ou margem
 #T=límbico
+
 #D=relativo a uma câmara superior do coração
 #T=atrial
+
 #D=relativo a uma câmara superior e a um ventrículo do coração
 #T=atrioventricular
+
 #D=relativo a uma doença dos rins ou causado por ela
 #T=nefrótico
+
 #D=relativo a uma mania
 #T=maníaco
+
 #D=relativo a uma pequena cavidade
 #T=ventricular
+
 #D=relativo a uma víscera
 #T=visceral
+
 #D=relativo à vagina
 #T=vaginal
+
 #D=relativo à vesícula biliar e ao fígado
 #T=biliar
+
 #D=relativo à visão
 #T=visual
+
 #D=relativo à vista ou ao nervo ótptico
 #T=óptico
+
 #D=relativo à zona de contacto entre dois neuronas
 #T=sináptico
+
 #D=relativo ao ânus
 #T=anal
+
 #D=relativo ao anus e ao intestino grosso
 #T=anorectal
+
 #D=relativo ao bolbo (raquidiano)
 #T=bulbar
+
 #D=relativo ao cancro
 #T=oncótico
+
 #D=relativo ao cerebelo
 #T=cerebelar
+
 #D=relativo ao cérebro
 #T=cerebral
+
 #D=relativo ao cérebro e à medula espinal, cefalorraquídeo
 #T=cerebrospinal
+
 #D=relativo ao clítoris
 #T=clitórico
+
 #D=relativo ao conhecimento; intelectivo
 #T=cognitivo
+
 #D=relativo ao contacto sexual ou transmitido por ele
 #T=venéreo
+
 #D=relativo ao coração
 #T=cardíaco
+
 #D=relativo ao coração e à respiração
 #T=cardiorespiratório
+
 #D=relativo ao coração e pulmões
 #T=cardiopulmonar
+
 #D=relativo ao coração e vasos sanguíneos
 #T=cardiovascular
+
 #D=relativo ao corpo: desenvolvimento somático, por exemplo
 #T=somático
+
 #D=relativo ao córtex
 #T=cortical
+
 #D=relativo ao crânio
 #T=craniano
+
 #D=relativo ao crescimento e à nutrição; que funciona de maneira involuntária ou inconsciente; em repouso; relativo às plantas; relativo à reprodução assexual
 #T=vegetativo
+
 #D=relativo ao cromossoma
 #T=cromossómico
+
 #D=relativo ao dorso, às costas
 #T=dorsal
+
 #D=relativo ao esqueleto, magro
 #T=esquelético
+
 #D=relativo ao estômago e ao esófago
 #T=gastro-esofágico
+
 #D=relativo ao estômago e ao intestino delgado
 #T=gastroduodenal
+
 #D=relativo ao estômago e aos intestinos
 #T=gastrintestinal
+
 #D=relativo ao estudo da imunidade pelo soro
 #T=serológico
+
 #D=relativo ao estudo da propagação das doenças
 #T=epidemiológico
+
 #D=relativo ao estudo das bactérias
 #T=bacteriológico
+
 #D=relativo ao fabrico de glóbulos vermelhos
 #T=hemopoiético
+
 #D=relativo ao feto
 #T=fetal
+
 #D=relativo ao fígado
 #T=hepático
+
 #D=relativo ao fígado e às condutas biliares
 #T=hepatobiliar
+
 #D=relativo ao hospital e às doenças que ali se tratam, hospitalar
 #T=nosocomial
+
 #D=relativo ao intercâmbio entre o feto e placenta
 #T=fetoplacentário
+
 #D=relativo ao intestino
 #T=intestinal
+
 #D=relativo ao jovem
 #T=juvenil
+
 #D=relativo ao líquido secretado pela membrana sinovial ou que o secreta
 #T=sinovial
+
 #D=relativo ao membro viril
 #T=fálico
+
 #D=relativo ao mesentério, membrana que contém os vasos sanguíneos mesentéricos
 #T=mesentérico
+
 #D=relativo ao músculo; com musculatura bem desenvolvida
 #T=muscular
+
 #D=relativo ao nariz
 #T=nasal
+
 #D=relativo ao nariz e ao aparelho lacrimal
 #T=nasolacrimal
+
 #D=relativo ao nervo vago, décimo nervo craniano
 #T=vagal
+
 #D=relativo ao olho ou à vista
 #T=ocular
+
 #D=relativo ao ouvido e à audição
 #T=auditivo
+
 #D=relativo ao ovário
 #T=ovárico
+
 #D=relativo ao primeiro mês de vida
 #T=neonatal
+
 #D=relativo ao recto, ânos
 #T=rectal
+
 #D=relativo ao rim
 #T=renal
+
 #D=relativo ao sistema imunitário; insensível
 #T=imune
+
 #D=relativo ao sistema nervoso ou à neurologia
 #T=neurológico
+
 #D=relativo ao tórax ou que o afecta
 #T=torácico
+
 #D=relativo ao úmero (osso do braço - do ombro até ao cotovelo)
 #T=umeral
+
 #D=relativo ao ventre; abdominal
 #T=ventral
+
 #D=relativo aos brônquios e pulmões
 #T=broncopulmonar
+
 #D=relativo aos efeitos motores da actividade cerebral ou psíquica
 #T=psicomotor
+
 #D=relativo aos fluidos corporais
 #T=humoral
+
 #D=relativo aos genes
 #T=genético
+
 #D=relativo aos linfócitos, células com núcleo redondo
 #T=linfocítico
+
 #D=relativo aos nervos; situado na região da coluna vertebral
 #T=neural
+
 #D=relativo aos órgãos genitais e urinários
 #T=geniturinário
+
 #D=relativo aos órgãos sexuais
 #T=genital
+
 #D=relativo aos órgãos sexuais externos da mulher
 #T=vulvar
+
 #D=relativo aos ossos da cara onde se encontram fixados os dentes
 #T=maxilar
+
 #D=relativo aos pulmões
 #T=pulmonar
+
 #D=relativo aos sistema imunitário
 #T=imunológico
+
 #D=relativo aos testículos
 #T=testicular
+
 #D=relativo aos vírus ou causado por eles
 #T=viral
+
 #D=relativo às artérias
 #T=arterial
+
 #D=relativo às articulações
 #T=articular
+
 #D=relativo às células do fígado
 #T=hepatocelular
+
 #D=relativo às endotoxinas
 #T=endotóxico
+
 #D=relativo às fezes
 #T=fecal
+
 #D=relativo às glândulas sexuais
 #T=gonádico
+
 #D=relativo às hormonas
 #T=hormonal
+
 #D=relativo às moléculas ou composto por elas
 #T=molecular
+
 #D=relativo às mucosas e à pele ou que as afecta
 #T=mucocutâneo
+
 #D=relativo às neuronas
 #T=neuronal
+
 #D=relativo às pequenas artérias
 #T=arteriolar
+
 #D=relativo às sensações
 #T=sensorial
+
 #D=relativo às veias, provido de veias
 #T=venoso
+
 #D=relativo às vértebras
 #T=vertebral
+
 #D=relativo ou em direcção da cauda
 #T=caudal
+
 #T=relaxante
 #D=agente que reduz a tensão
+
 #T=relevante
 #D=importante
+
 #D=remédio contra a asma
 #T=antiasmático
+
 #D=remédio para desprender o muco dos pulmões e facilitar a tosse
 #T=expectorante
+
 #D=remédio, medicina
 #T=medicamento
+
 #T=remissão
 #D=diminuição temporal dos sintomas de uma doença
+
 #D=remoção cirúrgica de um ovário
 #T=ooforectomia
+
 #T=renal
 #D=relativo ao rim
+
 #T=renina
 #D=enzima (hormona) produzida pelos rins
+
 #D=renovação ou preparação de tecidos ou de partes desaparecidas
 #T=regeneração
+
 #T=renovascular
 #D=renovascular
+
 #D=renovascular
 #T=renovascular
+
 #D=repentino, brusco
 #T=abrupto
+
 #T=repetitivo
 #D=de repetição
+
 #T=replicação
 #D=autoduplicação, réplica
+
 #D=representa a duração total da sístole eléctrica ventricular
 #T=intervalo QT
+
 #T=reprodução
 #D=propagação, multiplicação; cópia
+
 #D=reprodução, multiplicação
 #T=proliferação
+
 #T=reservatório
 #D=depósito, cavidade que serve de armazém
+
 #T=residual
 #D=restante, que deposita
+
 #D=resistência a antibióticos similares
 #T=resistência cruzada
+
 #T=resistência cruzada
 #D=resistência a antibióticos similares
+
 #D=resistência natural às infecções
 #T=imunidade
+
 #D=resistência, robustez
 #T=rigidez
+
 #T=resistente
 #D=que não reage a determinados medicamentos
+
 #D=respiração difícil, rápida e profunda; aumento do volume de ar que entra nos pulmões
 #T=hiperventilação
+
 #T=respiratório
 #D=relativo à respiração
+
 #T=responder
 #D=responder
+
 #D=responder
 #T=responder
+
 #T=resposta
 #D=reacção a um estímulo
+
 #T=ressecção
 #D=corte, extirpação cirúrgica parcial ou total de um órgão
+
 #T=ressorção
 #D=absorção de água e de solutos por células vivas
+
 #T=ressuscitação
 #D=reanimação de doentes que pareciam mortos, como após afogamento, etc
+
 #D=restabelecimento da pulsação cardíaca
 #T=desfibrilhação
+
 #D=restante, que deposita
 #T=residual
+
 #D=restauração da actividade num corpo inactivo
 #T=reactivação
+
 #D=restauração da água ou do conteúdo líquido num organismo
 #T=reidratação
+
 #D=restrição a uma área determinada
 #T=localização
+
 #D=restricto, não geral
 #T=local
+
 #D=resultado
 #T=efeito
+
 #T=retardamento
 #D=retardo, atraso no desenvolvimento de determinada actividade
+
 #D=retardo, atraso no desenvolvimento de determinada actividade
 #T=retardamento
+
 #T=retenção
 #D=conservação, dentro do corpo, de materiais ou líquidos que se excretam normalmente
+
 #D=retenção de fel nas condutas
 #T=colestase
+
 #D=retenção no sangue de produtos azotados
 #T=azotemia
+
 #T=retinal
 #D=relativo à retina
+
 #T=retinopatia
 #D=lesão patológica que afecta a retina
+
 #D=retirada, supressão
 #T=retracção
+
 #D=retorno à forma inicial ou normal
 #T=redução
+
 #D=retorno a um estado ou fase anterior; desaparecimento dos sintomas ou de um processo anormal; involução
 #T=regressão
+
 #T=retracção
 #D=contracção, retraimento, encolhimento de um órgão ou tecido
+
 #T=retracção
 #D=retirada, supressão
+
 #T=retroacção
 #D=regulação
+
 #T=retrobulbar
 #D=por trás do bolbo raquiano, por trás do globo ocular
+
 #T=retroesternal
 #D=por trás do esterno
+
 #T=retrógrado
 #D=que degenera, retrógrado, regressivo, retrocedente
+
 #T=reumatóide
 #D=semelhante ao reumatismo
+
 #T=reversível
 #D=que pode desaparecer totalmente com a supressão da causa
+
 #T=revestimento intestinal
 #D=revestimento intestinal
+
 #D=revestimento intestinal
 #T=revestimento intestinal
+
 #T=revulsivo
 #D=antiléptico, contra-irritante, que provoca uma irritação destinada a aliviar outra
+
 #T=rigidez
 #D=resistência, robustez
+
 #T=rinite
 #D=inflamação do nariz, nasite, defluxo, constipação (nasal), catarro nasal
+
 #T=rinofaringite
 #D=nasofaringite, retrofaringite, angina retronasal
+
 #T=rinorreia
 #D=corrimento nasal
+
 #D=ritmo cardíaco lento
 #T=bradicardia
+
 #D=ritmo respiratório lento
 #T=bradipneia
+
 #D=rompimento dos dentes
 #T=dentição
+
 #T=ronco
 #D=ruído respiratório anormal; ressono
+
 #D=rotação de um órgão em torno de si mesmo
 #T=torção
+
 #T=rotatividade
 #D=rotatividade
+
 #D=rotatividade
 #T=rotatividade
+
 #T=rotineiramente
 #D=por rotina, por hábito
+
 #T=rotura
 #D=ruptura, fractura dos tecidos ou de um órgão
+
 #T=rouquidão
 #D=rouquidão
+
 #D=rouquidão
 #T=rouquidão
+
 #T=rubéola
 #D=sarampo alemão
+
 #T=rubor
 #D=ruborização
+
 #D=ruborização
 #T=rubor
+
 #D=ruborização, inflamação da pele
 #T=eritema
+
 #D=ruído no ventre pela deslocação de gases
 #T=borborigmo
+
 #D=ruído respiratório anormal; ressono
 #T=ronco
+
 #D=ruim; de evolução fatal
 #T=maligno
+
 #D=ruptura, fractura dos tecidos ou de um órgão
 #T=rotura
+
 #D=saco terminal do tubo digestivo (aves e répteis)
 #T=cloaca
+
 #D=sacudidela violenta, golpe violento, pressão violenta
 #T=comoção
+
 #D=saída do estômago
 #T=piloro
+
 #D=salgado, que contém sais
 #T=salino
+
 #T=salicismo
 #D=intoxicação com aspirina
+
 #T=salino
 #D=salgado, que contém sais
+
 #T=salivação
 #D=secreção de saliva, ptialismo, sialorreia, polissialia, fluxo salivar
+
 #T=salpingite
 #D=inflamação da trompa uterina, da trompa auditiva
+
 #T=salúrico
 #D=que induz a eliminação de sal pela urina
+
 #D=sangue nas urinas, emissão de sangue pelas vias urinárias
 #T=hematúria
+
 #T=saprófito
 #D=microrganismo que vive a expensas de matérias orgânicas em decomposição; parasita que não causa doenças
+
 #D=sarampo alemão
 #T=rubéola
+
 #T=sarcoma
 #D=tumor maligno
+
 #T=seborreia
 #D=excreção excessiva de substâncias gordas
+
 #T=secreção
 #D=secreção
+
 #D=secreção
 #T=secreção
+
 #D=secreção de saliva, ptialismo, sialorreia, polissialia, fluxo salivar
 #T=salivação
+
 #D=secreção de suor
 #T=diaforese
+
 #D=secreção excessiva de uma glândula
 #T=hipersecreção
+
 #T=secundário
 #D=acessório, anexo, indesejável
+
 #D=secura ocular
 #T=xerostomia
+
 #D=secura, ulceração da córnea por falta de vitamina A
 #T=xeroftalmia
+
 #T=sedativo
 #D=calmante, anódino, paregórico
+
 #D=sede excessiva persistente; sintoma de diabetes mellitus descompensada
-#T=polidipsia sedentário
+#T=polidipsia
+
+#T=sedentário
 #D=que se senta habitualmente; de hábitos inactivos
+
 #T=sedimentação
 #D=depósito de partículas sólidas de uma solução no fundo de um recipiente
+
 #T=sedimento
 #D=depósito, assento, lia, pé, borra(s)
+
 #T=segmento
 #D=parte de um organismo ou órgão
+
 #T=selectivo
 #D=muito exigente quanto à indicação
+
 #D=selectivo
 #T=electivo
+
 #D=sem gamoglobinas
 #T=agamaglobulinémia
+
 #D=sem intervenção cirúrgica
 #T=conservador
+
 #D=sem resultado, não positivo, abaixo da linha zero
 #T=negativo
+
 #D=sem retorno
 #T=irreversível
+
 #D=sem sintomas
 #T=assintomático
+
 #D=semelhante à água
 #T=aquoso
+
 #D=semelhante ao reumatismo
 #T=reumatóide
+
 #T=semi-sintético
 #D=produzido por manipulação química de substâncias naturais
+
 #T=senilidade
 #D=velhice
+
 #D=sensação anormal de bem-estar
 #T=euforia
+
 #D=sensação de batimentos cardíacos rápidos e irregulares
 #T=palpitação
+
 #D=sensação de formigueiro profundo em ambas as pernas
 #T=pernas sem repouso
+
 #D=sensação de formigueiro, picadelas
 #T=parestesia
+
 #D=sensação no início de um acesso de doença
 #T=aura
+
 #D=sensação rotatória associada a náusea; tontura de cabeça
 #T=vertigem
+
 #D=sensibilidade à luz, resposta normal da pele à luz
 #T=fotossensibilidade
+
 #D=sensibilidade excessiva, alergia
 #T=hipersensibilidade
+
 #T=sensibilização
 #D=administração de um antigénio para induzir uma resposta imunitária
+
 #D=sensibilização à luz, reacção normal da pele à luz
 #T=fotossensibilização
+
 #T=sensorial
 #D=relativo às sensações
+
 #D=separação e esfoliação do tecido por morte celular
 #T=necrólise
+
 #T=septicémia
 #D=intoxicação do sangue por microrganismos
+
 #T=séptico
 #D=contaminado por germes, podre
+
 #T=septo
 #D=tabique de separação
+
 #T=sequela
 #D=complicação mais ou menos tardia de uma doença, doença consecutiva
+
 #T=sequestro
 #D=fragmento de tecido morto separado do tecido são
+
 #D=ser vivo que convive com outro organismo hóspede
 #T=comensal
+
 #T=seroconversão
 #D=mudança de um prova serológica de negativa para positiva
+
 #T=serológico
 #D=relativo ao estudo da imunidade pelo soro
+
 #D=sifilítico
 #T=luético
+
 #T=sigmóide
 #D=em forma de sigma, da letra S
+
 #T=significante
 #D=significativo
+
 #D=significativo
 #T=significante
+
 #T=simpaticomimético
 #D=substância que estimula o sistema nervoso simpático
+
 #T=simultâneo
 #D=contemporâneo
+
 #D=simultâneo
 #T=conjugado
+
 #D=sinal
 #T=sintoma
+
 #D=sinal, mancha, cicatriz, estigma
 #T=mácula
+
 #T=sináptico
 #D=relativo à zona de contacto entre dois neuronas
+
 #T=síncope
 #D=perda súbita da consciência por descida da pressão sanguínea no cérebro; desmaio
+
 #T=síndroma
 #D=complexo mórbido, conjunto de sintomas
+
 #T=sinergético
 #D=que age simultaneamente com outra coisa
+
 #T=sinovial
 #D=relativo ao líquido secretado pela membrana sinovial ou que o secreta
+
 #T=sinovite
 #D=inflamação de uma membrana sinovial
+
 #T=síntese
 #D=combinação; formação de substâncias in vitro por meios artificiais
+
 #T=sintoma
 #D=sinal
+
 #D=sintomas combinados de uma doença
 #T=sintomatologia
+
 #T=sintomático
 #D=pertencente aos sintomas
+
 #T=sintomatologia
 #D=sintomas combinados de uma doença
+
 #T=sinusal
 #D=relativo a uma bolsa ou cavidade, particularmente na câmara superior do coração
+
 #T=sinusite
 #D=inflamação de uma bolsa ou cavidade, especialmente dos ossos do crânio
+
 #D=sistema muscular do corpo ou das suas partes
 #T=musculatura
+
 #T=sistemático
 #D=que segue um sistema, um método
+
 #T=sistémico
 #D=que afecta o corpo de forma total; geral, generalizado
+
 #T=sistólico
 #D=relacionado com a contracção músculo cardíaco
+
 #D=situação em que uma variável se mantém imutável
 #T=estado de equilíbrio
+
 #D=situado dentro de uma veia
 #T=intravenoso
+
 #D=situado diante do coração
 #T=precordial
+
 #D=situado em torno da envoltura do sistema nervoso central
 #T=peridual
+
 #D=situado fora da via piramidal
 #T=extrapiramidal
+
 #D=situado fora de um vaso
 #T=extravascular
+
 #D=situado fora dos rins
 #T=extra-renal
+
 #D=situado junto de uma base, normal
 #T=basal
+
 #D=situado mais perto do centro do tronco
 #T=próximo
+
 #D=situado na metade inferior do cérebro; relativo ao hipotálamo
 #T=hipotalámico
+
 #D=situado ou produzido por baixo da aracnóide
 #T=subaracnóide
+
 #D=situado por baixo de uma cápsula
 #T=subcapsular
+
 #D=sob a pele, hipodérmico
 #T=subcutâneo
+
 #D=sobre ou por fora da dura-mater
 #T=epidural
+
 #T=solução
 #D=preparado líquido que contém várias substâncias químicas solúveis; soluto, licor; meio
+
 #D=solução de um produto destinado à inalação
 #T=aerossol
+
 #D=solução, soluto
 #T=licor
+
 #T=soluço
 #D=soluço, singulto
+
 #D=soluço, singulto
 #T=soluço
+
 #T=solvente
 #D=(líquido) dissolvente
+
 #T=somático
 #D=relativo ao corpo: desenvolvimento somático, por exemplo
+
 #T=somatrotopina
 #D=hormona do crescimento
+
 #T=sonambulismo
 #D=andar dormindo, em sonhos
+
 #D=sonda, algália
 #T=cateter
+
 #D=sonífero
 #T=hipnótico
+
 #D=sonífero; agente que produz insensibilidade, estupor ou anestesia
 #T=narcótico
+
 #T=sonolência
 #D=sonolência
+
 #D=sonolência
 #T=sonolência
+
 #T=soporífico
 #D=que produz sono, soporífero
+
 #T=sopro
 #D=vibração audível por auscultação, ruído
+
 #T=soro
 #D=soro
+
 #D=soro
 #T=soro
+
 #T=spotting
 #D=perda de sangue pela vagina
+
 #T=stress
 #D=tensão, vida [moderna] agitada
+
 #D=sub-desenvolvimento dos órgãos sexuais
 #T=hipogonadismo
+
 #T=subagudo
 #D=pouco agudo
+
 #T=subaracnóide
 #D=situado ou produzido por baixo da aracnóide
+
 #T=subcapsular
 #D=situado por baixo de uma cápsula
+
 #T=subclínico
 #D=que acontece sem manifestação de sintomas
+
 #T=subconjuntival
 #D=subconjuntival
+
 #D=subconjuntival
 #T=subconjuntival
+
 #T=subcutâneo
 #D=sob a pele, hipodérmico
+
 #D=subcutâneo
 #T=hipodérmico
+
 #T=subjectivo
 #D=subjectivo; reacção específica, pessoal
+
 #D=subjectivo; reacção específica, pessoal
 #T=subjectivo
+
 #T=sublingual
 #D=por baixo da língua, hipoglosso
+
 #D=submeter o curativo a cura; substância que afecta os músculos
 #T=curarizar
+
 #T=substância
 #D=matéria
+
 #D=substância activa
 #T=agente
+
 #D=substância considerada estranha pelo organismo
 #T=antígeno
+
 #D=substância derivada de um medicamento dentro do organismo
 #T=metabolito
+
 #D=substância inerte num preparado farmacológico
 #T=excipiente
+
 #D=substância lipóide que se encontra na maior parte dos tecidos
 #T=colesterol
+
 #D=substância mineral em quantidades mínimas da dieta alimentar
 #T=oligoelemento
+
 #D=substância orgânica azotada com propriedades alcalinas
 #T=alcalóide
+
 #D=substância que alivia a congestão nasal
 #T=descongestionante
+
 #D=substância que alivia a depressão
 #T=antidepressivo
+
 #D=substância que bloqueia os nervos parassimpáticos
 #T=anticolinérgico
+
 #D=substância que combate a acção da histamina
 #T=anti-histamina
+
 #D=substância que combate as contraturas, cãibras e convulsões
 #T=antispasmódico
+
 #D=substância que contribui para a auxiliar
 #T=adjuvante
+
 #D=substância que corrige a acção ou o sabor de um medicamento; compensação, rectificação
 #T=correcção
+
 #D=substância que destrói os germes
 #T=germicida
+
 #D=substância que diminui a pressão sanguínea
 #T=anti-hipertensivo
+
 #D=substância que estimula directamente o sistema colinérgico ou parassimpático
 #T=parassimpaticomimétrico
+
 #D=substância que estimula o sistema nervoso simpático
 #T=simpaticomimético
+
 #D=substância que evita as convulsões
 #T=anticonvulsivante
+
 #D=substância que favorece a produção de fel
 #T=colerético
+
 #D=substância que forma sal combinada com um ácido; veículo neutro de um medicamento; superfície ou parte inferior de um órgão
 #T=base
+
 #D=substância que imita a acção dos receptores adrenérgicos B
 #T=betamimético
+
 #D=substância que inibe a biossíntese e/ou a secreção de hormonas tiróides
 #T=tirostático
+
 #D=substância que inibe a resposta à adrenalina
 #T=adrenolítico
+
 #D=substância que provoca vómitos
 #T=emético
+
 #D=substância que reduz a concentração de açúcar no sangue
 #T=antidiabético
+
 #D=substância que se injecta para aumentar o volume sanguíneo
 #T=expansor plasmático
+
 #D=substância que transmite impulsos nervosos por via química
 #T=neurotransmissor
+
 #D=substância radical alquil por um átomo de H num composto cíclico
 #T=alcilação
+
 #D=substância reguladora
 #T=modulador
+
 #D=substâncias derivadas de ácidos gordos
 #T=prostaglandina(s)
+
 #T=substituição
 #D=substituição, troca
+
 #D=substituição artificial de um órgão; anaplerose
 #T=prótese
+
 #D=substituição, troca
 #T=substituição
+
 #T=substrato
 #D=base, substância básica
+
 #D=sucessão de duas ou mais acções ou administrações de medicamentos
 #T=alternar
+
 #T=superinfecção
 #D=nova infecção que surge como complicação de outra já existente
+
 #T=supervisão
 #D=vigilância, inspecção, controlo
+
 #T=supino
 #D=deitado de costas
+
 #D=suplementar, adicional, auxiliar
 #T=complementar
+
 #T=suplemento
 #D=suplemento, adicional
+
 #D=suplemento, adicional
 #T=suplemento
+
 #T=supositório
 #D=supositório
+
 #D=supositório
 #T=supositório
+
 #T=supraventricular
 #D=por cima de uma pequena cavidade
+
 #T=supressivo
 #D=supressivo
+
 #D=supressivo
 #T=supressivo
+
 #D=suprimento nervoso ou a condução de impulsos nervosos de um local para outro
 #T=inervação
+
 #T=supuração
 #D=formação de pus
+
 #D=supuração, corrimento do ouvido
 #T=otorreia
+
 #T=surdez
 #D=diminuição da audição
+
 #T=surdez
 #D=surdez
+
 #D=surdez
 #T=surdez
+
 #T=suspensão
 #D=partículas existentes na água que não foram por ela dissolvidas
+
 #D=tabique de separação
 #T=septo
+
 #T=tálamo
 #D=massa importante de núcleos cinzentos
+
 #T=taquiarritmia
 #D=cadência rápida do ritmo do coração; arritmia rápida
+
 #T=taquicardia
 #D=aceleração da frequência cardíaca
+
 #T=taquifilaxia
 #D=efeito decrescente de um medicamento
+
 #T=tardio
 #D=tardio
+
 #D=tardio
 #T=tardio
+
 #D=tártaro
 #T=placa dentária
+
 #D=taxa de doentes numa população
 #T=morbidez(a)
+
 #D=taxa de falecimentos de uma população
 #T=mortalidade
+
 #D=tecido de cobertura ou de revestimento interior; pele ou mucosas
 #T=epitélio
+
 #D=técnica de preparação dos doentes para operações cirúrgicas
 #T=neuroleptanalgesia
+
 #T=telangiectasia
 #D=dilatação de vasos terminais, sobretudo na cara
+
 #D=tempo de espera
 #T=período de latência
+
 #T=tendência
 #D=inclinação, propensão
+
 #D=tendência para um determinado tipo de doença
 #T=diátese
+
 #T=tendinite
 #D=inflamação de um tendão
+
 #T=tenesmo
 #D=desejo doloroso e ineficaz de urinar ou defecar
+
 #T=tenossinovite
 #D=inflamação de um tendão e da sua veia; tecite
+
 #T=tensão
 #D=pressão
+
 #D=tensão
 #T=tono
+
 #D=tensão, vida [moderna] agitada
 #T=stress
+
 #T=tensioactivo
 #D=que exerce efeito sobre a tensão superficial
+
 #T=teórico
 #D=teórico
+
 #D=teórico
 #T=teórico
+
 #T=terapêutico
 #D=que serve para curar
+
 #T=terapia
 #D=tratamento das doenças, terapêutica
+
 #D=terapia com um medicamento de cada vez
 #T=monoterapia
+
 #D=terapia destinada a reduzir uma alergia
 #T=dessensibilização
+
 #D=terapia múltipla
 #T=politerapia
+
 #T=teratogénico
 #D=indutor de malformações fetais
+
 #T=teratológico
 #D=relativo à ciência que se ocupa do desenvolvimento anormal e das malformações congénitas
+
 #T=termal
 #D=térmico, que faz referência ao calor ou à temperatura
+
 #D=térmico, que faz referência ao calor ou à temperatura
 #T=termal
+
 #T=terminal
 #D=final, último
+
 #T=termorregulação
 #D=regulação do calor ou da temperatura
+
 #D=tesão; entumescimento do pénis
 #T=erecção
+
 #T=testicular
 #D=relativo aos testículos
+
 #T=tetania
 #D=estado caracterizado por cãibras e convulsões musculares
+
 #T=tétano
 #D=tétano
+
 #D=tétano
 #T=tétano
+
 #D=timpanismo, timpanite, dilatação do ventre (devido a gases)
 #T=meteorismo
+
 #T=tímpano
 #D=membrana ou cavidade do ouvido médio
+
 #T=tinea pedis
 #D=tinha do pé; pé-de-atleta
+
 #D=tinha do pé; pé-de-atleta
 #T=tinea pedis
+
 #T=tinitus (aurium)
 #D=zumbido do ouvido
+
 #D=típico, característico
 #T=clássico
+
 #D=tipo de composto químico
 #T=esteróide
+
 #D=tipo de hormona sexual feminina
 #T=estrogénio
+
 #D=tipo de tumor benigno da pele; xantelasma
 #T=xantoma
+
 #T=tique
 #D=movimento involuntário que se produz repetidamente
+
 #T=tirostático
 #D=substância que inibe a biossíntese e/ou a secreção de hormonas tiróides
+
 #T=tirotoxicose
 #D=conjunto de sintomas devido a um excesso de hormonas tiróides
+
 #T=título
 #D=valor, grau, proporção
+
 #T=tofo
 #D=depósito nos tecidos, principalmente de ácido úrico e seus sais, característico da gota
+
 #T=tolerância
 #D=capacidade de suportar doses elevadas de uma droga tóxica
+
 #T=tomografia
 #D=radiografia de uma secção do corpo ou de um órgão
+
 #D=tonicidade anormal dos tecidos
 #T=distonia
+
 #T=tónico
 #D=que produz e restabelece o tom normal; que se caracteriza por tensão contínua
+
 #T=tono
 #D=tensão
+
 #T=tonsilite
 #D=angina (tonsilar), amigdalite, esquinência, antiadite, inflamação das amígdalas
+
 #T=tópico
 #D=local
+
 #D=toque; indivíduo que esteve em relação com pessoa portadora de doença contagiosa
 #T=contacto
+
 #T=torácico
 #D=relativo ao tórax ou que o afecta
+
 #T=torção
 #D=rotação de um órgão em torno de si mesmo
+
 #T=torcicolo
 #D=torticolo
+
 #T=torsade de pointes
 #D=torsade de pointes
+
 #D=torsade de pointes
 #T=torsade de pointes
+
 #D=torticolo
 #T=torcicolo
+
 #T=toxemia
 #D=intoxicação do sangue; toxinemia
+
 #T=toxicidade
 #D=efeito nocivo de uma substância química
+
 #T=tóxico
 #D=venenoso
+
 #D=tóxico para o coração
 #T=cardiotóxico
+
 #D=tóxico para o feto/embrião
 #T=fetotóxico
+
 #D=tóxico para o fígado
 #T=hepatotóxico
+
 #D=tóxico para o órgão auditivo
 #T=ototóxico
+
 #D=tóxico para os nervos
 #T=neurotóxico
+
 #D=tóxico para os rins
 #T=nefrotóxico
+
 #D=toxicodependência (dependência de uma droga)
 #T=toxicomania
+
 #T=toxicológico
 #D=relativo à ciência que estuda os venenos
+
 #T=toxicomania
 #D=toxicodependência (dependência de uma droga)
+
 #T=toxina
 #D=veneno
+
 #T=toxoplasmose
 #D=doença infecciosa causada por Toxoplasma gondi
+
 #T=tracoma
 #D=doença infecciosa da conjuntiva e da córnea do olho
+
 #T=tracto (gastrintestinal)
 #D=tubo digestivo, incluindo a boca, esófago, estômago, intestinos delgado e grosso, recto, ânos e glândulas anexas (vesícula biliar e pâncreas)
+
 #T=tranquilizante
 #D=medicamento que serve para tranquilizar; calmante
+
 #D=tranquilizante
 #T=antipsicótico
+
 #T=transaminase
 #D=enzimas hepáticas (do fígado)
+
 #T=transcutâneo
 #D=através da pele intacta
+
 #T=transdérmico
 #D=que passa através da pele
+
 #T=transferência
 #D=passagem de um sintoma ou doença para outro(a)
+
 #T=transformação
 #D=mudança de forma ou estrutura, alteração
+
 #D=transformação de substâncias orgânicas noutras substâncias orgânicas
 #T=fermentação
+
 #D=transformação de uma substância noutra durante o metabolismo
 #T=metabolização
+
 #D=transformação química de um composto no organismo
 #T=biotransformação
+
 #D=transformação; transformação das emoções em manifestações corporais
-#T=conversão transfusão
+#T=conversão
+
+#T=transfusão
 #D=transfusão
+
 #D=transfusão
 #T=transfusão
+
 #T=trânsito
 #D=passagem
+
 #T=transitório
 #D=passageiro
+
 #T=transmissão
 #D=propagação
+
 #D=transmissão
 #T=condução
+
 #D=transpiração, (secreção de) suor
 #T=diaforese
+
 #T=transplantação
 #D=transplante
+
 #D=transplante
 #T=transplantação
+
 #D=transportador; excipiente
 #T=veículo
+
 #D=transporte e saturação de oxigénio
 #T=oxigenação
+
 #T=transruretal
 #D=que conduz através da uretra ou a atravessa
+
 #D=transtorno crónico que afecta o músculo cardíaco
 #T=cardiomiopatia
+
 #D=transtorno da absorção intestinal de nutrientes
 #T=mal-absorção
+
 #D=transtorno da menstruação
 #T=dismenorreia
+
 #D=transtorno do metabolismo das porfirinas
 #T=porfíria
+
 #T=traqueíte
 #D=inflamação da traqueia
+
 #D=traseiro
 #T=posterior
+
 #D=tratamento com antibióticos
 #T=antibioterapia
+
 #D=tratamento das doenças, terapêutica
 #T=terapia
+
 #D=tratamento de uma doença com digital
 #T=digitalização
+
 #D=tratamento do cancro com substâncias químicas
 #T=quimioterapia
+
 #D=tratamento por radiações; curieterapia
 #T=radioterapia
+
 #T=traumático
 #D=relativo a um trauma ou traumatismo, ou causado por ele
+
 #T=tremor
 #D=tremor
+
 #D=tremor
 #T=tremor
+
 #T=tremor intencional
 #D=tremor que aparece ao efectuar um movimento voluntário coordenado
+
 #D=tremor que aparece ao efectuar um movimento voluntário coordenado
 #T=tremor intencional
+
 #T=tremulação
 #D=efeito ondulatório, flutuação
+
 #T=tricíclico
 #D=constituído por três anéis entrelaçados
+
 #T=trismo
 #D=espasmo dos músculos mandibulares; tétano
+
 #T=trivalente
 #D=que se une com três átomos de hidrogénio ou os substitui
+
 #T=trófico
 #D=nutritivo
+
 #T=trombo
 #D=coágulo de sangue num vaso sanguíneo
+
 #T=trombocitopenia
 #D=diminuição do número de plaquetas no sangue
+
 #T=trombocitose
 #D=aumento exagerado do número de plaquetas no sangue
+
 #T=tromboembolismo
 #D=obstrução de um vaso sanguíneo com material trombótico
+
 #T=tromboflebite
 #D=inflamação de uma veia com obstrução por um coágulo sanguíneo
+
 #T=trombolítico
 #D=que dissolve ou desintegra um trombo
+
 #T=trombose
 #D=coagulação do sangue numa artéria ou veia, com bloqueio da circulação
+
 #T=tubercular
 #D=tubercular
+
 #D=tubercular
 #T=tubercular
+
 #T=tuberculostático
 #D=medicamento que inibe o crescimento do bacilo da tuberculose
+
 #T=tubo
 #D=tubo, cano
+
 #D=tubo digestivo, incluindo a boca, esófago, estômago, intestinos delgado e grosso, recto ânos e glândulas anexas (vesícula biliar e pâncreas)
 #T=tracto (gastrintestinal)
+
 #D=tubo utilizado em cirurgia
 #T=cânula
+
 #D=tubo, cano
 #T=tubo
+
 #T=tubular
 #D=com forma de tubo; tubuloso
+
 #D=tumefacção anormal com conteúdo líquido; ciste
 #T=quisto
+
 #D=tumefacção de um ou mais gânglios linfáticos
 #T=linfadenopatia
+
 #T=tumor
 #D=vegetação, excrescência, neoplasma
+
 #D=tumor benigno
 #T=adenoma
+
 #D=tumor da pele ou da mucosa
 #T=epitelioma
+
 #D=tumor maligno
 #T=sarcoma
+
 #D=tumor maligno das células da medula do osso; cancro do sangue
 #T=mieloma
+
 #D=tumor maligno gerado no tecido linfóide
 #T=linfoma
+
 #D=tumor maligno, cancro, câncer
 #T=carcinoma
+
 #D=tumor mole com abertura de membrana
 #T=hérnia
+
 #D=tumor pigmentado, geralmente maligno, da pele ou das mucosas
 #T=melanona
+
 #T=úlcera
 #D=chaga, ferida
+
 #D=úlcera causada pela acção do suco gástrico; úlcera duodenal
 #T=úlcera péptica
+
 #T=úlcera crural
 #D=úlcera da perna
+
 #D=úlcera da perna
 #T=úlcera crural
+
 #T=úlcera péptica
 #D=úlcera causada pela acção do suco gástrico; úlcera duodenal
+
 #T=ulceração
 #D=processo de formação de uma úlcera; helcose
+
 #T=ulcerogénico
 #D=que gera úlceras
+
 #T=umeral
 #D=relativo ao úmero (osso do braço - do ombro até ao cotovelo)
+
 #T=umeroscapular
 #D=umeroscapular
+
 #D=umeroscapular
 #T=umeroscapular
+
 #D=unha em forma de colher
 #T=coloníquia
+
 #D=união de uma substância no interior do organismo
 #T=incorporação
+
 #D=união, acoplamento, coordenação
 #T=associação
+
 #T=uniforme
 #D=uniforme
+
 #D=uniforme
 #T=uniforme
+
 #T=unilateral
 #D=de um só lado
+
 #T=uremia
 #D=acumulação de ureia no sangue; urinemia
+
 #T=uretrite
 #D=inflamação da uretra
+
 #T=urgência
 #D=urgência
+
 #D=urgência
 #T=urgência
+
 #T=uricossúrico
 #D=agente que promove a secreção urinária do ácido úrico
+
 #T=urinário
 #D=urinário
+
 #D=urinário
 #T=urinário
+
 #T=urogenital
 #D=referente aos órgãos urinários e genitais; geniturinário
+
 #T=urografia
 #D=radiografia de uma parte do aparelho urinário
+
 #T=urticária
 #D=erupção cutânea caracterizada pelo aparecimento de manchas vermelhas e prurido intenso
+
 #T=útero
 #D=matriz
+
 #T=uveíte
 #D=inflamação da úvea
+
 #T=vacina
 #D=vacina
+
 #D=vacina
 #T=vacina
+
 #D=vacina
 #T=vacinação
+
 #T=vacinação
 #D=vacina
+
 #T=vagal
 #D=relativo ao nervo vago, décimo nervo craniano
+
 #T=vaginal
 #D=relativo à vagina
+
 #T=vagolítico
 #D=que inibe o nervo vago
+
 #T=vagotonia
 #D=predominância do vago
+
 #T=validez
 #D=fiabilidade de um processo de prova
+
 #D=valor, grau, proporção
 #T=título
+
 #T=válvula
 #D=prega existente num canal permitindo o fluxo num único sentido
+
 #T=variabilidade
 #D=capacidade de variação
+
 #T=variação
 #D=flutuação, oscilação; alteração, mudança, modificação das propriedades
+
 #D=variação; desenvolvimento de células e tecidos em diversos sentidos
 #T=diferenciação
+
 #D=variado
 #T=múltiplo
+
 #T=varicela
 #D=doença viral; bexigas loucas
+
 #D=variedade de acne
 #T=comedão
+
 #T=varíola bovina
 #D=bexigas da vaca
+
 #T=vascular
 #D=referente aos vasos sanguíneos
+
 #T=vasculite
 #D=inflamação dos pequenos vasos sanguíneos
+
 #T=vasoactivo
 #D=que age sobre os vasos sanguíneos
+
 #T=vasoconstrição
 #D=estreitamento dos vasos sanguíneos; angiostenose
+
 #T=vasodilatação
 #D=dilatação dos vasos sanguíneos
+
 #T=vasomotor
 #D=que afecta o calibre dos vasos
+
 #T=vasopressor
 #D=que contrai os vasos sanguíneos
+
 #D=vegetação, excrescência, neoplasma
 #T=tumor
+
 #T=vegetativo
 #D=relativo ao crescimento e à nutrição; que funciona de maneira involuntária ou inconsciente; em repouso; relativo às plantas; relativo à reprodução assexual
+
 #T=veia varicosa
 #D=de varicose, isto é, inflamação provocada por varizes; varicosidade
+
 #D=veias distendidas na junção do recto e do canal anal; almorróidas, almorródias
 #T=hemorróides
+
 #T=veículo
 #D=transportador; excipiente
+
 #D=velhice
 #T=senilidade
+
 #D=veneno
 #T=toxina
+
 #D=venenoso
 #T=tóxico
+
 #T=venéreo
 #D=relativo ao contacto sexual ou transmitido por ele
+
 #T=venoso
 #D=relativo às veias, provido de veias
+
 #T=ventilação
 #D=aeragem, arejamento, aeração
+
 #T=ventral
 #D=relativo ao ventre; abdominal
+
 #D=ventral
 #T=abdominal
+
 #T=ventricular
 #D=relativo a uma pequena cavidade
+
 #T=vertebral
 #D=relativo às vértebras
+
 #T=vertigem
 #D=sensação rotatória associada a náusea; tontura de cabeça
+
 #T=vesicular
 #D=em forma de vesícula, vesiculado
+
 #T=vestibular
 #D=relativo a um vestíbulo ou que se dirige para ele
+
 #T=vial
 #D=pequena ampola, frasco
+
 #D=vibração audível por auscultação, ruído
 #T=sopro
+
 #T=vigilância
 #D=controlo ou supervisão com ajuda de um monitor
+
 #T=vigilância
 #D=estado de alerta ou observação
+
 #D=vigilância, inspecção, controlo
 #T=supervisão
+
 #D=vigilante
 #T=alerta
+
 #T=viral
 #D=relativo aos vírus ou causado por eles
+
 #T=virilização
 #D=masculinização
+
 #D=vírus instalado à volta das células sensitivas
 #T=(herpes) zóster
+
 #T=visão
 #D=visão
+
 #D=visão
 #T=visão
+
 #D=visão amarelada
 #T=xantopsia
+
 #D=visão dupla
 #T=diplopia
+
 #T=visceral
 #D=relativo a uma víscera
+
 #T=viscosidade
 #D=grau de fluidez das substâncias em estado líquido ou gasoso
+
 #D=visível
 #T=manifesto
+
 #T=visual
 #D=relativo à visão
+
 #T=vítreo
 #D=cristalino
+
 #D=voltar à boca [por exemplo, alimentos sólidos que...]
 #T=regurgitação
+
 #D=volume de gás que pode expulsar-se dos pulmões
 #T=capacidade vital
+
 #T=voluntário
 #D=voluntário
+
 #D=voluntário
 #T=voluntário
+
 #T=vómito
 #D=vómito
+
 #D=vómito
 #T=emésis
+
 #D=vómito
 #T=vómito
+
 #D=vómitos de sangue
 #T=hematémese
+
 #D=vómitos excessivos
 #T=hiperémese
+
 #D=vontade de vomitar; enjoo; repugnância, sentimento de repulsão
 #T=náusea
+
 #T=vulvar
 #D=relativo aos órgãos sexuais externos da mulher
+
 #T=vulvovaginite
 #D=inflamação dos órgãos genitais externos femininos, incluindo a vagina
+
 #T=xantoma
 #D=tipo de tumor benigno da pele; xantelasma
+
 #T=xantopsia
 #D=visão amarelada
+
 #T=xeroftalmia
 #D=secura, ulceração da córnea por falta de vitamina A
+
 #T=xerostomia
 #D=secura ocular
+
 #D=zona de actividade de um antibiótico
 #T=espectro
+
 #D=zona de excitabilidade aumentada (trigger zone)
 #T=zona de pressão
+
 #T=zona de pressão
 #D=zona de excitabilidade aumentada (trigger zone)
+
 #D=zumbido do ouvido
 #T=tinitus (aurium)
+
