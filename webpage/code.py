@@ -2,9 +2,12 @@ from flask import Flask, render_template
 import json
 app = Flask(__name__)
 
-file = open("webpage\\terms.json", encoding="utf-8")
+with(open("webpage\\terms.json", encoding="utf-8") as file):
+    db = json.load(file)
 
-db = json.load(file) 
+keys = list(db.keys())
+keys = [term.strip() for term in keys]
+keys = sorted(keys, key=str.casefold)
 
 @app.route("/")
 def home():
@@ -13,7 +16,7 @@ def home():
 
 @app.route("/terms")
 def terms():
-    return render_template("terms.html", designations=db.keys())
+    return render_template("terms.html", designations=keys)
 
 
 @app.route("/term/<t>")

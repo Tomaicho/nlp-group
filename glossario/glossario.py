@@ -1,6 +1,6 @@
 import re, json
 
-file = open('./trabalho-grupo/XMLs/Glossario de Termos Medicos Tecnicos e Populares.xml', 'r', encoding='utf-8')
+file = open('XMLs\Glossario de Termos Medicos Tecnicos e Populares.xml', 'r', encoding='utf-8')
 xml_text = file.read()
 file.close()
 
@@ -91,7 +91,7 @@ for one, two in fix_list:
 # visual aid to see how the next step is working
 xml_cpy = xml_text
 xml_cpy = re.sub(r'(#.=.+)\n(#.=.+)\n', r'\1\n\2\n\n', xml_cpy)
-file = open('./trabalho-grupo/glossario/glossario.xml', 'w', encoding='utf-8')
+file = open('glossario\glossario.xml', 'w', encoding='utf-8')
 file.write(xml_cpy)
 file.close()
 
@@ -123,6 +123,10 @@ while pair := re.search(r'(#.=.+)\n(#.=.+)\n', xml_text):
         else:
             dictionary[term] = description
 
-file = open('./trabalho-grupo/glossario/glossario.json', 'w', encoding='utf-8')
+for term, des in dictionary.items():
+    if not isinstance(des, list):
+        dictionary[term] = [des]
+
+file = open('JSONs\glossario.json', 'w', encoding='utf-8')
 json.dump(dictionary, file, ensure_ascii=False, indent=4)
 file.close()

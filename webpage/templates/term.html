@@ -7,15 +7,25 @@
     Designation: {{designation}}
 </h3>
 
-<h5>
-    Description: {{value["desc"]}}
-</h5>
-
+{% if "en" in value %}
 <h5>
     English Translation: {{value["en"]}}
 </h5>
+{% endif %}
 
+{% if "es" in value %}
 <h5>
     Spanisch Translation: {{value["es"]}}
 </h5>
+{% endif %}
+
+{% if "des" in value %}
+<h5>Description(s):</h5> 
+{%for i in value["des"] -%}
+<ul>
+    <li>{{i}}</li>
+</ul>
+{% endfor %}
+{% endif %}
+
 {% endblock %}
