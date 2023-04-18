@@ -1,0 +1,29 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+<div class="container d-flex justify-content-center" style="height: 80%;">
+  <div class="my-auto">
+    <form action="/search" method="GET" class="input-group d-flex" style="margin: 10px;">
+      <input type="text" name="user_input" class="form-control" placeholder="Search for...">
+      <span class="input-group-btn">
+        <button type="submit" class="btn btn-primary">Search</button>
+      </span>
+    </form>
+
+    <div class="container">
+      <h2>Search Results for "{{ search_term }}"</h2>
+      {% if results %}
+      <ul>
+        {% for result in results %}
+        <li><a href="{{ url_for('term', t=result) }}">{{ result }}</a></li>
+        {% endfor %}
+      </ul>
+      {% else %}
+      <p>No results found.</p>
+      {% endif %}
+    </div>
+  </div>
+</div>
+
+{% endblock %}
