@@ -14,9 +14,7 @@ new_xml = re.sub(r'font="\d+">○\n',"", new_xml)
 new_xml = re.sub(r"\n\s<fontspec.*","", new_xml)
 new_xml = re.sub(r'font="\d+">Sou Enfermagem.*\n',"", new_xml)
 new_xml = re.sub(r"\n?</page>\n?","", new_xml)
-new_xml = re.sub(r'\nfont="20">.+',"", new_xml) #Remove 3 capital letters (like chapter markings)
-new_xml = re.sub(r'\nfont="6">.+',"", new_xml) #Remove page numbers
-new_xml = re.sub(r'\nfont="19">.+',"", new_xml) #Remove lines with -
+new_xml = re.sub(r'\nfont="(20|6|19)">.+',"", new_xml) #Remove 3 capital letters (like chapter markings) and page numbers and remove lines with -
 new_xml = re.sub(r'\nfont="\d+"> \n',"\n", new_xml) #Remove empty lines
 new_xml = re.sub(r'-\nfont="\d+">(.)',r"\1", new_xml) #Join words separated by - in different lines
 new_xml = re.sub(r'(font="(24|10)">.+)\nfont="(24|10)">(.+)',r"\1\4", new_xml) #Join terms separated in different lines

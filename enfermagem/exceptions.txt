@@ -1,7 +1,0 @@
-Manually exception handling:
-- APARELHO REPRODUTOR
-- BILIRRUBINA
-- HIPERTROFIA PROSTÁTICA BENIGNA
-- IMPOTÊNCIA
-- D.I.U. (Dispositivo intra-uterino)
-- VELHICE
