@@ -10,14 +10,14 @@ This document has lines that are separated into 2 elements in the XML file:
 - the descriptions (in italic), usually followed by a text containing '(pop)'.
 
 There are some exceptions to this:
-- the defenition of the terms 'acne' and 'esfoliação' are not followed by a '(pop)', instead they are together in the same text (so we will need
-to separate the two);
-- the terms 'acne', 'mediador', 'pico do débito', 'vulvovaginite' and 'anxiolítico' are not followed by a empty text or a comma (this won't be a
-problem, since the marking of the terms only uses the fact that they're bold);
-- is some lines that end with a term and the next one begins with another term, the first one is not followed by a empty text or a comma, such as
-'adolescente', 'receptor' and 'polidipsia' (this won't be a problem, since the marking of the terms only uses the fact that they're bold);
-- is some lines, the term is separated in the end, and they appear in 2 different XML elements, such as 'pré-medicação', 'infecção cruzada',
-'efeito colateral' and 'tremor intencional' (so we will need to join them together).
+- the definition of the terms 'acne' and 'esfoliação' are not followed by a '(pop)', instead they are together in the same text (so we will need
+to separate the two). 
+- the terms 'acne', 'mediador', 'pico do débito', 'vulvovaginite' and 'anxiolítico' are not followed by an empty text or a comma (this won't be a
+problem, since the marking of the terms only uses the fact that they're bold). 
+- in some lines that end with a term and the next one begins with another term, the first one is not followed by an empty text or a comma, such as
+'adolescente', 'receptor' and 'polidipsia' (this won't be a problem, since the marking of the terms only uses the fact that they're bold). 
+- in some lines, terms with 2 words are separated in the end, and they appear in 2 different XML elements, such as 'pré-medicação',
+'infecção cruzada', 'efeito colateral' and 'tremor intencional' (so we will need to join them together). 
 
 This way, it is needed to mark the text in bold a '#T=', and the text in italic with a '#D=...'.
 
