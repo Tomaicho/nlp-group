@@ -21,7 +21,7 @@ new_xml = re.sub(r'\nfont="\d+"> \n',"\n", new_xml) #Remove empty lines
 new_xml = re.sub(r'-\nfont="\d+">(.)',r"\1", new_xml) #Join words separated by - in different lines
 new_xml = re.sub(r'(font="(24|10)">.+)\nfont="(24|10)">(.+)',r"\1\4", new_xml) #Join terms separated in different lines
 new_xml = re.sub(r'font="(24|10)">(.+)',r"\2@", new_xml) #Marks terms
-new_xml = re.sub(r'\nfont="\d+">(.)',r"\1", new_xml) #Joins description all in one line
+new_xml = re.sub(r'\nfont="\d+">(.)',r" \1", new_xml) #Joins description all in one line
 
 
 
