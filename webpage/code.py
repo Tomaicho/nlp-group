@@ -32,6 +32,9 @@ def search():
             if search_term.casefold() in key.casefold():
                 results.append(key)
 
+    results = [term.strip() for term in results]
+    results = sorted(results, key=str.casefold)
+
     return render_template("search.html", results=results, search_term=search_term)
 
 if __name__ == '__main__':
