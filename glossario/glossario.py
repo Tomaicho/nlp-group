@@ -36,7 +36,8 @@ There's also some terms in the file which descriptions are exactly the same as t
 
 ### pre-processing:
 # remove multiple spaces and new lines
-xml_text = re.sub(r'([ \n]){2,}', r'\1', xml_text)
+xml_text = re.sub(r'([ ]){2,}', r'\1', xml_text)
+xml_text = re.sub(r'([\n]){2,}', r'\1', xml_text) 
 
 # remove spaces and ponctuations in the start or end of the text
 xml_text = re.sub(r'>[ ,.]+', r'>', xml_text)
@@ -56,8 +57,7 @@ xml_text = re.sub(r'\n<[^t].+', r'', xml_text)
 xml_text = re.sub(r'^<[^t].+\n', r'', xml_text)
 
 # remove the mark of the sections for the manual search
-xml_text = re.sub(r'<.+font="4".+\n', r'', xml_text)
-xml_text = re.sub(r'<.+font="6".+\n', r'', xml_text)
+xml_text = re.sub(r'<.+font="[46]".+\n', r'', xml_text)
 
 # consolidate the descriptions that were separated by new lines
 while re.search(r'(.+?<i>.+?)</i>.+?\n.+?<i>(.+?\n)', xml_text):
