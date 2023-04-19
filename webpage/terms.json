@@ -2524,8 +2524,8 @@
             "en": "atmosphere",
             "es": "atmósfera relacional"
       },
-      "a(c)to obsessivo": {
-            "pt": "a(c)to obsessivo",
+      "ato obsessivo": {
+            "pt": "ato obsessivo",
             "en": "obsessional act, obsessive act",
             "es": "acto obsesivo"
       },
@@ -20263,7 +20263,8 @@
             "en": "prophylaxis, prevention",
             "es": "profilaxia",
             "des": [
-                  "medicina preventiva"
+                  "medicina preventiva",
+                  "Procedimento que visa evitar o aparecimento de uma determinada doença."
             ]
       },
       "profundidade": {
@@ -26379,12 +26380,12 @@
             ],
             "en": "parotideomasseteric region"
       },
-      "[[fossa retromandibular]]": {
-            "pt": "[[fossa retromandibular]]",
+      "fossa retromandibular": {
+            "pt": "fossa retromandibular",
             "des": [
                   "Ao longo do ramo da mandíbula, estende-se de medial para posterior até a articulação temporomandibular. Contém a glândula parótida e as veias"
             ],
-            "en": "[[retromandibular fossa]]"
+            "en": "retromandibular fossa"
       },
       "região zigomática": {
             "pt": "região zigomática",
@@ -27623,12 +27624,12 @@
             ],
             "en": "insertion"
       },
-      "[[origem]]": {
-            "pt": "[[origem]]",
+      "origem": {
+            "pt": "origem",
             "des": [
                   "Início de um músculo"
             ],
-            "en": "[[origin]]"
+            "en": "origin"
       },
       "ponto ﬁ xo": {
             "pt": "ponto ﬁ xo",
@@ -30198,13 +30199,6 @@
                   "Conjunto de fenômenos que dependem de uma mesma   lesão."
             ],
             "en": "disease"
-      },
-      "a f i n i d a d e": {
-            "pt": "a f i n i d a d e",
-            "des": [
-                  "O mesmo que  atração."
-            ],
-            "en": "affinity"
       },
       "afluxo": {
             "pt": "afluxo",
@@ -57066,13 +57060,6 @@
             ],
             "en": "prophylactic"
       },
-      ".profilaxia ": {
-            "pt": ".profilaxia ",
-            "des": [
-                  "Procedimento que visa evitar o aparecimento de uma determinada doença."
-            ],
-            "en": ".prophylaxis"
-      },
       "progéria": {
             "pt": "progéria",
             "des": [
@@ -64231,7 +64218,8 @@
       "afinidade": {
             "pt": "afinidade",
             "des": [
-                  "parentesco, analogia, semelhança"
+                  "parentesco, analogia, semelhança",
+                  "O mesmo que  atração."
             ],
             "en": "affinity"
       },
@@ -66754,12 +66742,12 @@
             ],
             "en": "microvilli"
       },
-      "(d)escamação": {
-            "pt": "(d)escamação",
+      "escamação": {
+            "pt": "escamação",
             "des": [
                   "formação excessiva de escamas na pele"
             ],
-            "en": "(d) scaling"
+            "en": "scaling"
       },
       "micrografia": {
             "pt": "micrografia",
@@ -66802,13 +66790,6 @@
                   "fraqueza, cansaço"
             ],
             "en": "lassitude"
-      },
-      "'blister'": {
-            "pt": "'blister'",
-            "des": [
-                  "frasco de X comprimidos recobertos de plástico"
-            ],
-            "en": "'blister'"
       },
       "fungistático": {
             "pt": "fungistático",
@@ -68838,12 +68819,12 @@
             ],
             "en": "crural ulcer"
       },
-      "(herpes) zóster": {
-            "pt": "(herpes) zóster",
+      "zóster (herpes)": {
+            "pt": "zóster (herpes) ",
             "des": [
                   "vírus instalado à volta das células sensitivas"
             ],
-            "en": "(herpes) zoster"
+            "en": "zoster (herpes)"
       },
       "zona de pressão": {
             "pt": "zona de pressão",
