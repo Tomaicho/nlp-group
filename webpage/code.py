@@ -3,7 +3,7 @@ import json
 
 app = Flask(__name__)
 
-with open("webpage\\terms.json", encoding="utf-8") as file:
+with open("./trabalho-grupo/webpage/terms.json", encoding="utf-8") as file:
     db = json.load(file)
 
 keys = list(db.keys())

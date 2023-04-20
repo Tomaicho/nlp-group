@@ -39,7 +39,7 @@ There's also some terms in the file which descriptions are exactly the same as t
 xml_text = re.sub(r'([ ]){2,}', r'\1', xml_text)
 xml_text = re.sub(r'([\n]){2,}', r'\1', xml_text) 
 
-# remove spaces and ponctuations in the start or end of the text
+# remove spaces and ponctuations in the start or end of the text elements
 xml_text = re.sub(r'>[ ,.]+', r'>', xml_text)
 xml_text = re.sub(r'[ ,.]+<', r'<', xml_text)
 
@@ -97,7 +97,8 @@ file.close()
 
 # now the terms and descriptions are in pairs, but not in order
 dictionary = {}
-# ':=' is a Walrus Operator, which asigns the result of the condition of the loop to a variable, in this case 'pair'
+# ':=' is a Walrus Operator, which asigns the result of the condition of the loop to a variable,
+# in this case 'pair'
 while pair := re.search(r'(#.=.+)\n(#.=.+)\n', xml_text):
     if re.search(r'#T=', pair.group(1)) and re.search(r'#D=', pair.group(2)):
         term = pair.group(1)[3:]
