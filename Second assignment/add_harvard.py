@@ -18,7 +18,7 @@ for term, des_en in dic_harvard.items():
         des_en_added += 1
         print('Added des_en to: ', term)
     elif term not in terms_v1:
-        terms_v1[term] = {'des_en':des_en.strip()}
+        terms_v1[term] = {'des_en':[des_en.strip()]}
         new_terms_added += 1
         print('Added new term:', term)
         
