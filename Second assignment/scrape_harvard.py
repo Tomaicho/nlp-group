@@ -38,14 +38,5 @@ for p in all_ps[2:-1]:
     if len(list) == 2:
         dic[list[0]] = list[1]
 
-'''for term, des_en in dic.items():
-    if term in terms_v1:
-        if 'des_en' in terms_v1[term]:
-            terms_v1[term]['des_en'].append(des_en)
-        elif 'des_en' not in terms_v1[term]:
-            terms_v1[term]['des_en'] = [des_en]
-    elif term not in terms_v1:
-        terms_v1[term] = {'des_en':des_en}'''
-
 with open('Second assignment/harvard_terms.json','w') as file:
     json.dump(dic,file, indent=6, ensure_ascii=False)
