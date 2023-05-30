@@ -1,6 +1,6 @@
 import json
 
-with open('medicine_net_terms.json') as file:
+with open('jsons/medicine_net_terms.json') as file:
     medicine_net = json.load(file)
 
 with(open("terms_v3.json") as file):
@@ -31,5 +31,5 @@ for term, dic in medicine_net.items():
         
 print('Des_en added: ', des_en_added)
 print('New terms added: ', new_terms_added)
-with open('terms_v4.json','w') as file:
+with open('jsons/terms_v4.json','w') as file:
     json.dump(terms_v3, file, indent=6, ensure_ascii=False)

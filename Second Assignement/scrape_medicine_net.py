@@ -4,7 +4,7 @@ import json
 
 abc = ['s', 't', 'u', 'v', 'w', 'x', 'y', 'z']
 
-with open('medicine_net_terms.json') as file:
+with open('jsons/medicine_net_terms.json') as file:
         dic = json.load(file)
 
 for letter in abc:
@@ -35,5 +35,5 @@ for letter in abc:
         print(term)
 
 
-    with open('medicine_net_terms.json','w') as file:
+    with open('jsons/medicine_net_terms.json','w') as file:
         json.dump(dic,file, indent=6, ensure_ascii=False)

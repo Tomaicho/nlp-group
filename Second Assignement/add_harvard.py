@@ -1,9 +1,9 @@
 import json
 
-with(open("Second assignment/terms_v1.json",  encoding="utf-8") as file):
+with(open("jsons/terms_v1.json",  encoding="utf-8") as file):
     terms_v1 = json.load(file) 
 
-with(open("/Users/florianhetzel/Desktop/PLNEB/Practical/Second assignment/harvard_terms.json",  encoding="utf-8") as file):
+with(open("jsons/harvard_terms.json",  encoding="utf-8") as file):
     dic_harvard = json.load(file) 
 
 new_terms_added = 0
@@ -24,6 +24,6 @@ for term, des_en in dic_harvard.items():
         
 print('Des_en added: ', des_en_added)
 print('New terms added: ', new_terms_added)
-with open('Second assignment/terms_v2.json','w') as file:
+with open('jsons/terms_v2.json','w') as file:
     json.dump(terms_v1,file, indent=6, ensure_ascii=False)
    

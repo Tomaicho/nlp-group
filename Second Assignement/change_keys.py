@@ -1,6 +1,6 @@
 import json
 
-with open('Second assignment/terms_v0.json') as file:
+with open('jsons/terms_v0.json') as file:
     dict = json.load(file)
 
 new_dict ={}
@@ -17,5 +17,5 @@ for term, value in new_dict.items():
         new_dict[term]['des_pt'] = des_pt
     
 
-with open('Second assignment/terms_v1.json', 'w') as file:
+with open('jsons/terms_v1.json', 'w') as file:
     json.dump(new_dict, file, ensure_ascii=False, indent=6)

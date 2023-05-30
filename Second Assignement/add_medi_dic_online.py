@@ -1,9 +1,9 @@
 import json
 
-with open('Second assignment/medi_dict_online_terms.json') as file:
+with open('jsons/medi_dict_online_terms.json') as file:
     medi_dic_online = json.load(file)
 
-with(open("Second assignment/terms_v2.json") as file):
+with(open("jsons/terms_v2.json") as file):
     terms_v2 = json.load(file) 
 
 new_terms_added = 0
@@ -27,5 +27,5 @@ for term, dic in medi_dic_online.items():
         
 print('Des_en added: ', des_en_added)
 print('New terms added: ', new_terms_added)
-with open('Second assignment/terms_v3.json','w') as file:
+with open('jsons/terms_v3.json','w') as file:
     json.dump(terms_v2,file, indent=6, ensure_ascii=False)

@@ -43,5 +43,5 @@ for page in urls:
 
 
 
-with open('Second assignment/medi_dict_online_terms.json','w') as file:
+with open('jsons/medi_dict_online_terms.json','w') as file:
     json.dump(dic,file, indent=6, ensure_ascii=False)

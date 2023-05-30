@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
-with(open("Second assignment/terms_v1.json",  encoding="utf-8") as file):
+with(open("jsons/terms_v1.json",  encoding="utf-8") as file):
     terms_v1 = json.load(file) 
 
 with(open("/Users/florianhetzel/Desktop/PLNEB/Practical/Second assignment/harvard_terms.json",  encoding="utf-8") as file):
@@ -38,5 +38,5 @@ for p in all_ps[2:-1]:
     if len(list) == 2:
         dic[list[0]] = list[1]
 
-with open('Second assignment/harvard_terms.json','w') as file:
+with open('jsons/harvard_terms.json','w') as file:
     json.dump(dic,file, indent=6, ensure_ascii=False)

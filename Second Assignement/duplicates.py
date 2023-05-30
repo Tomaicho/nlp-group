@@ -1,6 +1,6 @@
 import json
 
-with open('Second assignment/terms_v5.json') as file:
+with open('jsons/terms_v5.json') as file:
     dic = json.load(file)
 
 print(f'Lenght before: {len(dic)}')
@@ -55,5 +55,5 @@ for term, term_dic in dic.items():   #remove relations to self
 
 
 
-with open('Second assignment/terms_v6.json', 'w') as file:
+with open('jsons/terms_v6.json', 'w') as file:
     dic = json.dump(dic, file, ensure_ascii=False, indent=6)
