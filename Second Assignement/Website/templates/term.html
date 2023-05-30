@@ -1,0 +1,30 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+<div class="row align-items-center">
+    <div class="col d-flex justify-content-center">
+        <div class="card" style="width: auto; margin: 10px;">
+            <div class="card-header">
+                <b>{{designation}}</b>
+            </div>
+            <ul class="list-group list-group-flush">
+                {% if "en" in value %}
+                    <li class="list-group-item">English Translation: {{value["en"]}}</li>
+                {% endif %}
+                {% if "es" in value %}
+                    <li class="list-group-item">Spanish Translation: {{value["es"]}}</li>
+                {% endif %}
+                {% if "des" in value %}
+                    <li class="list-group-item">Description(s):
+                    {%for i in value["des"] -%}
+                       <p>&#8226 {{i}}</p>
+                    {% endfor %}
+                {% endif %}
+                </ul>
+        </div>
+    </div>
+</div>
+
+{% endblock %}
