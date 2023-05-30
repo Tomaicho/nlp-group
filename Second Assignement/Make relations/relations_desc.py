@@ -1,8 +1,10 @@
 import json
 import spacy
 
+
+
 def find_related_terms(data):
-    nlp = spacy.load("<language_model>")  # Replace with appropriate language model, e.g., "en_core_web_sm"
+    nlp = spacy.load("en_core_web_md") 
 
     for term in data:
         if "des" in data[term]:
