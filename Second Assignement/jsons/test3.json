@@ -1,0 +1,69 @@
+{
+      "bronchiole": {
+            "des_en": [
+                  "The tiny branch of air tubes within the lungs that is a continuation of the bronchus. The bronchioles connect to the alveoli (air sacs).",
+                  "A small airway in the respiratory system that connects to the alveoli (air sacs); a branch of the bronchial tubes.",
+                  "The small airways branching off the TERTIARY BRONCHI. Terminal bronchioles lead into several orders of respiratory bronchioles which in turn lead into alveolar ducts and then into PULMONARY ALVEOLI."
+            ],
+            "relations": [],
+            "pt": "bronquíolo",
+            "en": "bronchiole",
+            "de": "Bronchiole",
+            "des_pt": [
+                  "Pequeno brônquio terminal."
+            ]
+      },
+      "vision": {
+            "pt": "vista (do ponto de vista pediátrico)",
+            "en": "acuity, vision, sight, point of view (from a pediaric point of view)",
+            "es": "vista (desde el punto de vista pediátrico)",
+            "de": "Sicht (aus pädiatrischer Sicht)"
+      },
+      "airway": {
+            "des_en": [
+                  "The path that air follows to get into and out of the lungs. The mouth and nose are the normal entry and exit ports for the airway. Entering air then passes through the back of the throat (pharynx) and continues through the voice box (larynx), down the trachea, to finally pass through the bronchi."
+            ],
+            "relations": [
+                  "lungs",
+                  "mouth",
+                  "nose",
+                  "throat",
+                  "pharynx",
+                  "voice box",
+                  "larynx",
+                  "trachea",
+                  "bronchi"
+            ]
+      },
+      "alveolar": {
+            "des_en": [
+                  "Pertaining to the alveoli, the tiny air sacs in the lungs. The exchange of oxygen and carbon dioxide takes place in the alveoli which look like cells in a honeycomb.  The word comes from the Latin diminutive of \"alveus\" meaning a cavity or hollow = a little cavity or hollow."
+            ],
+            "relations": [
+                  "rhabdomyosarcoma",
+                  "muscle",
+                  "surgery",
+                  "radiotherapy",
+                  "in",
+                  "microscopic",
+                  "tissue",
+                  "neck",
+                  "genital",
+                  "urinary",
+                  "Alveolar rhabdomyosarcoma",
+                  "arms",
+                  "chest",
+                  "abdomen"
+            ]
+      },
+      "alveolus": {
+            "des_en": [
+                  "A tiny air sac in the lungs. Plural alveoli."
+            ],
+            "relations": [],
+            "pt": "alvéolo",
+            "en": "alveolus",
+            "es": "alveolo",
+            "de": "Alveole"
+      }
+}

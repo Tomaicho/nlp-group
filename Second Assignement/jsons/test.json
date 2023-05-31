@@ -1,4 +1,17 @@
 {
+    "Bronchiole": {
+        "des_en": [
+              "The tiny branch of air tubes within the lungs that is a continuation of the bronchus. The bronchioles connect to the alveoli (air sacs).",
+              "A small airway in the respiratory system that connects to the alveoli (air sacs); a branch of the bronchial tubes."
+        ],
+        "relations": [],
+        "pt": "bronquíolo",
+        "en": "bronchiole",
+        "de": "Bronchiole",
+        "des_pt": [
+              "Pequeno brônquio terminal."
+        ]
+    },
     "Bronchioles": {
         "des_en": [
             "The small airways branching off the TERTIARY BRONCHI. Terminal bronchioles lead into several orders of respiratory bronchioles which in turn lead into alveolar ducts and then into PULMONARY ALVEOLI."
