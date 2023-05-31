@@ -1,41 +1,54 @@
 import json
 import spacy
 
-
-
 def find_related_terms(data):
     nlp = spacy.load("en_core_web_md") 
 
     for term in data:
-        if "des" in data[term]:
-            descriptions = data[term]["des"]
+        if "des_en" in data[term]:
+            descriptions = data[term]["des_en"]
+            relations = data[term]["relations"]
             nouns = []
             adjectives = []
+            nouns_lem = []
+            adjectives_lem = []
 
             for description in descriptions:
                 doc = nlp(description)
                 for token in doc:
                     if token.pos_ == "NOUN":  # Noun check
-                        nouns.append(token.text)
+                        nouns.append(token.text.lower())
+                        nouns_lem.append(token.lemma_.lower())
                     elif token.pos_ == "ADJ":  # Adjective check
-                        adjectives.append(token.text)
+                        adjectives.append(token.text.lower())
+                        adjectives_lem.append(token.lemma_.lower())
+                print(nouns)
+                print(nouns_lem)
+                print(adjectives)
+                print(adjectives_lem)
 
-            for related_term in data:
-                if related_term != term:
-                    if "pt" in data[related_term]:
-                        pt_term = data[related_term]["pt"]
-                        if pt_term in nouns or pt_term in adjectives:
-                            if "relation" not in data[term]:
-                                data[term]["relation"] = []
-                            data[term]["relation"].append(related_term)
+            for noun in nouns:
+                for key in data.keys():
+                    if key.lower() == noun and key.lower() not in relations and key != term:
+                        data[term]["relations"].append(key)
+                        data[key]["relations"].append(term)
+
+            for adj in adjectives:
+                for key in data.keys():
+                    if key.lower() == adj and key.lower() not in relations and key != term:
+                        data[term]["relations"].append(key)
+                        data[key]["relations"].append(term)
 
     return data
 
-# Parse the JSON data
-data = json.loads(json_data)
+with open('C:/Users/tomas/Desktop/Mestrado/1A_2S/Processamento Linguagem Natural/nlp-group/Second assignement/jsons/test.json') as file:
+    data = json.load(file)
 
-# Find and add related terms
 updated_data = find_related_terms(data)
 
-# Print the updated JSON dictionary
-print(json.dumps(updated_data, indent=2))
+with open('C:/Users/tomas/Desktop/Mestrado/1A_2S/Processamento Linguagem Natural/nlp-group/Second assignement/jsons/test2.json','w') as file:
+    json.dump(updated_data, file, indent=6, ensure_ascii=False)
+
+
+
+
