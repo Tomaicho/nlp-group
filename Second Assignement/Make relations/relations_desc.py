@@ -10,34 +10,24 @@ def find_related_terms(data):
             relations = data[term]["relations"]
             nouns = []
             adjectives = []
-            nouns_lem = []
-            adjectives_lem = []
 
             for description in descriptions:
                 doc = nlp(description)
                 for token in doc:
                     if token.pos_ == "NOUN":  # Noun check
-                        nouns.append(token.text.lower())
-                        nouns_lem.append(token.lemma_.lower())
+                        nouns.append(token.lemma_.lower())
                     elif token.pos_ == "ADJ":  # Adjective check
-                        adjectives.append(token.text.lower())
-                        adjectives_lem.append(token.lemma_.lower())
-                print(nouns)
-                print(nouns_lem)
-                print(adjectives)
-                print(adjectives_lem)
+                        adjectives.append(token.lemma_.lower())
 
             for noun in nouns:
-                for key in data.keys():
-                    if key.lower() == noun and key.lower() not in relations and key != term:
-                        data[term]["relations"].append(key)
-                        data[key]["relations"].append(term)
+                if noun in data and noun not in relations and noun != term:
+                    data[term]["relations"].append(noun)
+                    data[noun]["relations"].append(term)
 
             for adj in adjectives:
-                for key in data.keys():
-                    if key.lower() == adj and key.lower() not in relations and key != term:
-                        data[term]["relations"].append(key)
-                        data[key]["relations"].append(term)
+                if adj in data and adj not in relations and adj != term:
+                    data[term]["relations"].append(adj)
+                    data[adj]["relations"].append(term)
 
     return data
 
