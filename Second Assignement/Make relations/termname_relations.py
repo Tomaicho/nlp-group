@@ -12,7 +12,7 @@ def combinations(combination_list):
     combined_list.pop(lenght-1)
     return combined_list
 
-file = open('Second assignement/jsons/terms_v9.json', 'r', encoding='utf-8')
+file = open('Second assignement/Website/terms_v9_original.json', 'r', encoding='utf-8')
 dictionary = json.load(file)
 file.close()
 

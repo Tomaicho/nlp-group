@@ -27,12 +27,11 @@ def find_related_terms(data):
                 if noun in data and noun not in relations and noun != term:
                     relations.append(noun)
                     if 'relations' in data[noun]:
-                        relations2 = data[noun]['relations']
-                        print(relations2)
+                        relations2 = data[noun]["relations"]
                         relations2.append(term)
                         data[noun]["relations"] = relations2
                     else:
-                        data[noun] = {'relations': term}
+                        data[noun] = {"relations": term}
 
             for adj in adjectives:
                 if adj in data and adj not in relations and adj != term:
@@ -47,12 +46,12 @@ def find_related_terms(data):
 
     return data
 
-with open('C:/Users/tomas/Desktop/Mestrado/1A_2S/Processamento Linguagem Natural/nlp-group/Second assignement/jsons/terms_v8.json') as file:
+with open('Second assignement/jsons/terms_v10.json') as file:
     data = json.load(file)
 
 updated_data = find_related_terms(data)
 
-with open('C:/Users/tomas/Desktop/Mestrado/1A_2S/Processamento Linguagem Natural/nlp-group/Second assignement/jsons/terms_v9.json','w') as file:
+with open('Second assignement/jsons/terms_v11.json','w') as file:
     json.dump(updated_data, file, indent=6, ensure_ascii=False)
 
 
