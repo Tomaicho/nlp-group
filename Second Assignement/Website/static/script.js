@@ -1,10 +1,14 @@
 function handleDelete(url, term) {
-    $.ajax(url+"/"+term, {
+    $.ajax(url+term, {
         type: "DELETE"
     })
     .then((response) => {
         console.log(response);
-        window.location.reload();
+        if (url==='') {
+            window.location.replace('http://localhost:3000/terms');
+        } else {
+            window.location.reload();
+        }
     })
 }
 

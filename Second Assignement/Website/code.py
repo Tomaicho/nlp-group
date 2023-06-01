@@ -13,44 +13,99 @@ def combinations(combination_list):
     combined_list.pop(lenght-1)
     return combined_list
 
+def termname_relations(search_term):
+    nlp = spacy.load("en_core_web_md")
+
+    search_value = db.get(search_term)
+
+    frase = nlp(search_term)
+
+    if len(frase) > 1:
+        combination_list = combinations(frase)
+
+        # for segments with only have one word we also check their lemma
+        for segment in combination_list:
+            space = " "
+            if space not in segment:
+                segmentnlp = nlp(segment)
+                segmentlemma = segmentnlp[0].lemma_
+                if segmentlemma not in combination_list:
+                    combination_list.append(segmentlemma)
+
+        for segment in combination_list:
+            if segment in db.keys():
+
+                found_term = segment
+                found_value = db[found_term]
+
+                try:
+                    if found_term not in search_value["relations"]:
+                        search_value["relations"].append(found_term)
+                except:
+                    search_value["relations"] = [found_term]
+                
+                try:
+                    if search_term not in found_value["relations"]:
+                        found_value["relations"].append(search_term)
+                except:
+                    found_value["relations"] = [search_term]
+
+                db[search_term] = search_value
+                db[found_term] = found_value
+
+def find_related_terms(term):
+    nlp = spacy.load("en_core_web_md") 
+
+    if "des_en" in db[term]:
+        descriptions = db[term]["des_en"]
+        if 'relations' in db[term]:
+            relations = db[term]['relations']
+        else:
+            relations = []
+            db[term]['relations'] = relations
+        nouns = []
+        adjectives = []
+
+        for description in descriptions:
+            doc = nlp(description)
+            for token in doc:
+                if token.pos_ == "NOUN":  # Noun check
+                    nouns.append(token.text.lower())
+                elif token.pos_ == "ADJ":  # Adjective check
+                    adjectives.append(token.text.lower())
+
+        for noun in nouns:
+            if noun in db and noun not in relations and noun != term:
+                relations.append(noun)
+                if 'relations' in db[noun]:
+                    relations2 = db[noun]["relations"]
+                    relations2.append(term)
+                    db[noun]["relations"] = relations2
+                else:
+                    db[noun] = {"relations": term}
+
+        for adj in adjectives:
+            if adj in db and adj not in relations and adj != term:
+                relations.append(adj)
+                if 'relations' in db[adj]:
+                    relations2 = db[adj]['relations']
+                    relations2.append(term)
+                    db[adj]["relations"] = relations2
+                else:
+                    db[adj] = {'relations': term}
+        db[term]["relations"] = (relations)
+
 def make_relations(term):
-    nlp = spacy.load("en_core_web_sm")
-
-    for search_term, search_value in db.items():
-        frase = nlp(search_term)
-
-        if len(frase) > 1:
-            # print(f'F {frase} - 1 {frase[0]} - 2 {frase[1]}')
-            combination_list = combinations(frase)
-            for segment in combination_list:
-                if segment in db.keys():
-                    # print(f'found: {search_term} - {segment}')
-
-                    found_term = segment
-                    found_value = db[found_term]
-
-                    try:
-                        if found_term not in search_value["relations"]:
-                            search_value["relations"].append(found_term)
-                    except:
-                        search_value["relations"] = [found_term]
-                    
-                    try:
-                        if search_term not in found_value["relations"]:
-                            found_value["relations"].append(search_term)
-                    except:
-                        found_value["relations"] = [search_term]
-
-                    db[search_term] = search_value
-                    db[found_term] = found_value
+    find_related_terms(term)
+    termname_relations(term)
 
 app = Flask(__name__)
 
 try:
-    with open('./Second Assignement/Website/terms_v9_modified.json') as file:
+    with open('./Second Assignement/Website/terms_v10_modified.json') as file:
         db = json.load(file)
 except:
-    with open('./Second Assignement/Website/terms_v9_original.json') as file:
+    with open('./Second Assignement/Website/terms_v10_original.json') as file:
         db = json.load(file)
 
 try:
@@ -66,7 +121,7 @@ keys = sorted(keys, key=str.casefold)
 
 @app.before_first_request
 def before_first_request():
-    app.config['start'] = 46500
+    app.config['start'] = 0
     app.config['jump'] = 100
     app.config['length'] = len(db)
     if app.config['start'] + app.config['jump'] > app.config['length']:
@@ -152,7 +207,9 @@ def add_term():
             value['des_pt']=des_pt.split('\n')
         db[term.lower().strip()]=value
 
-        file = open('./Second Assignement/Website/terms_v9_modified.json', "w")
+        make_relations(term)
+
+        file = open('./Second Assignement/Website/terms_v10_modified.json', "w")
         json.dump(db, file, ensure_ascii=False, indent=4)
         file.close()
 
@@ -181,7 +238,7 @@ def delete_term(term):
 
         del db[term]
 
-        file = open('./Second Assignement/Website/terms_v9_modified.json', "w")
+        file = open('./Second Assignement/Website/terms_v10_modified.json', "w")
         json.dump(db, file, ensure_ascii=False, indent=4)
         file.close()
 
