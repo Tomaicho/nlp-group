@@ -1,0 +1,14 @@
+{% extends 'layout.html' %}
+
+
+{% block body %}
+
+<div class="list-group">
+
+    {% for term in terms %}
+        <a href="/categories/{{term}}" class="list-group-item list-group-item-action">{{term}}</a>
+    {% endfor %}
+
+</div>
+
+{% endblock %}
