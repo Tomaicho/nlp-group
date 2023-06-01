@@ -3,13 +3,65 @@
 
 {% block body %}
 
-<div class="list-group">
+<div class="mx-2">
+    <h3>Add a new term:</h3>
+</div>
+<div class="mx-4 my-3">
+    <form action="/term" method="POST">
+        <label for="exampleInputPassword1" class="form-label">Term: *</label>
+        <input type="text" class="form-control" name="term">
 
-    {% for d in designations %}
-        <a href="/term/{{d}}" class="list-group-item list-group-item-action">{{d}}</a>
-    {% endfor %}
+        <label for="exampleInputPassword1" class="form-label">PT Translation:</label>
+        <input type="text" class="form-control" name="trad-pt">
 
+        <label for="exampleInputPassword1" class="form-label">ES Translation:</label>
+        <input type="text" class="form-control" name="trad-es">
+
+        <label for="exampleInputPassword1" class="form-label">DE Translation:</label>
+        <input type="text" class="form-control" name="trad-de">
+        
+        <label for="exampleInputPassword1" class="form-label">Description(s) - EN:</label>
+        <textarea  class="form-control" name="description-en"></textarea>
+        
+        <label for="exampleInputPassword1" class="form-label">Description(s) - PT:</label>
+        <textarea  class="form-control" name="description-pt"></textarea>
+        
+        <br>
+        <button type="submit" class="btn btn-primary">Add</button>
+    </form>
+    
+    {% if info_add %}
+    {{ info_add }}
+    {% endif %}
 </div>
 
+<div class="mx-2">
+    <h3>List of all the terms:</h3>
+</div>
+<div style="display: flex; flex-direction:row; align-items: center; justify-content: center;">
+    <label for="exampleInputPassword1" class="form-label">Search for Index:</label>
+    <input type="text" class="form-control" id="indexInput">
+    <button type="button" class="btn btn-primary" onclick="handleChange('index')">Search</button>
+</div>
+<div style="display: flex; flex-direction:row; align-items: center; justify-content: center;">
+    <button type="button" class="btn btn-primary" onclick="handleChange('prev')">Previous</button>
+    <p>Showing from {{start}} to {{end}} from a total of {{length}}</p>
+    <button type="button" class="btn btn-primary" onclick="handleChange('next')">Next</button>
+</div>
+<div class="list-group mx-4 mb-5">
+    <div class="mb-5">
+        {% for d in designations %}
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <a href="/term/{{d}}" class="list-group-item-action">{{d}}</a>
+                <button type="button" class="btn btn-danger" onclick="handleDelete('term','{{d}}')">Delete</button>
+            </li>
+        {% endfor %}
+    </div>
+</div>
+<div style="display: flex; flex-direction:row; align-items: center; justify-content: center;">
+    <button type="button" class="btn btn-primary" onclick="handleChange('prev')">Previous</button>
+    <p>Showing from {{start}} to {{end}} from a total of {{length}}</p>
+    <button type="button" class="btn btn-primary" onclick="handleChange('next')">Next</button>
+</div>
 {% endblock %}
 
