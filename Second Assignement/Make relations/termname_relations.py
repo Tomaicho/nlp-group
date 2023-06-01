@@ -12,7 +12,7 @@ def combinations(combination_list):
     combined_list.pop(lenght-1)
     return combined_list
 
-file = open('./trabalho-grupo-2/Second Assignement/jsons/terms_v6.json', 'r', encoding='utf-8')
+file = open('Second assignement/jsons/terms_v9.json', 'r', encoding='utf-8')
 dictionary = json.load(file)
 file.close()
 
@@ -22,11 +22,14 @@ for search_term, search_value in dictionary.items():
     frase = nlp(search_term)
 
     if len(frase) > 1:
-        # print(f'F {frase} - 1 {frase[0]} - 2 {frase[1]}')
         combination_list = combinations(frase)
         for segment in combination_list:
+            space = " "
+            # segments with only one word are converted to their lemma
+            if space not in segment:
+                segment = nlp(segment)
+                segment = segment[0].lemma_
             if segment in dictionary.keys():
-                # print(f'found: {search_term} - {segment}')
 
                 found_term = segment
                 found_value = dictionary[found_term]
@@ -46,6 +49,6 @@ for search_term, search_value in dictionary.items():
                 dictionary[search_term] = search_value
                 dictionary[found_term] = found_value
 
-file = open('./trabalho-grupo-2/Second Assignement/jsons/terms_v7.json', 'w', encoding='utf-8')
+file = open('Second assignement/jsons/terms_v10.json', 'w', encoding='utf-8')
 json.dump(dictionary, file, ensure_ascii=False, indent=6)
 file.close()
