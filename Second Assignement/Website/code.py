@@ -102,10 +102,10 @@ def make_relations(term):
 app = Flask(__name__)
 
 try:
-    with open('./Second Assignement/Website/terms_v10_modified.json') as file:
+    with open('./Second Assignement/Website/terms_v11_modified.json') as file:
         db = json.load(file)
 except:
-    with open('./Second Assignement/Website/terms_v10_original.json') as file:
+    with open('./Second Assignement/Website/terms_v11_original.json') as file:
         db = json.load(file)
 
 try:
@@ -174,8 +174,8 @@ def term(t):
     if dic.get('relations') is not None:
         relations = dic.get('relations')
         relations_in_db = [term for term in relations if term in db.keys()]
-        print(relations)
-        print(relations_in_db)
+        # print(relations)
+        # print(relations_in_db)
         for relation in relations_in_db:
             relations_.append(relation)
     
@@ -209,7 +209,7 @@ def add_term():
 
         make_relations(term)
 
-        file = open('./Second Assignement/Website/terms_v10_modified.json', "w")
+        file = open('./Second Assignement/Website/terms_v11_modified.json', "w")
         json.dump(db, file, ensure_ascii=False, indent=4)
         file.close()
 
@@ -238,7 +238,7 @@ def delete_term(term):
 
         del db[term]
 
-        file = open('./Second Assignement/Website/terms_v10_modified.json', "w")
+        file = open('./Second Assignement/Website/terms_v11_modified.json', "w")
         json.dump(db, file, ensure_ascii=False, indent=4)
         file.close()
 
