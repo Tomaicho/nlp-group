@@ -27,12 +27,11 @@ def find_related_terms(data):
 
                     if 'relations' in data[noun]:
                         relations2 = data[noun]["relations"]
-                        print(relations2)
                         if term not in relations2 and term != noun:  
                             relations2.append(term)
                             data[noun]["relations"] = relations2
                     else:
-                        data[noun] = {"relations": term}
+                        data[noun] = {"relations": [term]}
 
                     
                 
