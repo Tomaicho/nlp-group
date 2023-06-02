@@ -1,7 +1,7 @@
 from collections import Counter
 import json
 
-file = open('./trabalho-grupo-2/Second Assignement/jsons/terms_v9.json', 'r', encoding='utf-8')
+file = open('./Second Assignement/jsons/terms_v11.json', 'r', encoding='utf-8')
 database = json.load(file)
 file.close()
 
@@ -12,7 +12,7 @@ for term, value in database.items():
     except:
         term_num_relations[term] = 0
 
-top=50
+top=10
 relation_counter = Counter(term_num_relations)
 print(f'Top {top} relations:')
 num=0

@@ -207,7 +207,7 @@ def add_term():
             value['des_pt']=des_pt.split('\n')
         db[term.lower().strip()]=value
 
-        make_relations(term)
+        make_relations(term.lower().strip())
 
         file = open('./Second Assignement/Website/terms_v11_modified.json', "w")
         json.dump(db, file, ensure_ascii=False, indent=4)
